@@ -6832,5 +6832,2753 @@
   "expect": 1,
   "old": "title:\"undefined\"!=typeof __buildConfig__&&__buildConfig__.IS_EXPORT?\"Jovi\":\"小V Claw\"",
   "new": "title:\"undefined\"!=typeof __buildConfig__&&__buildConfig__.IS_EXPORT?\"Jovi\":\"V Claw\""
+ },
+ {
+  "file": "dist/electron/126.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/loading--images.gif\"",
+  "new": "\"imgs/loading--images.gif\""
+ },
+ {
+  "file": "dist/electron/126.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/loading-dark--images.gif\"",
+  "new": "\"imgs/loading-dark--images.gif\""
+ },
+ {
+  "file": "dist/electron/126.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/skin_thumb1--images.png\"",
+  "new": "\"imgs/skin_thumb1--images.png\""
+ },
+ {
+  "file": "dist/electron/126.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/skin_thumb2--images.png\"",
+  "new": "\"imgs/skin_thumb2--images.png\""
+ },
+ {
+  "file": "dist/electron/126.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/skin_thumb4--images.png\"",
+  "new": "\"imgs/skin_thumb4--images.png\""
+ },
+ {
+  "file": "dist/electron/126.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/skin_thumb5--images.png\"",
+  "new": "\"imgs/skin_thumb5--images.png\""
+ },
+ {
+  "file": "dist/electron/126.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/skin_thumb6--images.png\"",
+  "new": "\"imgs/skin_thumb6--images.png\""
+ },
+ {
+  "file": "dist/electron/126.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/skin_thumb7--images.png\"",
+  "new": "\"imgs/skin_thumb7--images.png\""
+ },
+ {
+  "file": "dist/electron/127.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/share-camera-guide--png-icons.png\"",
+  "new": "\"imgs/share-camera-guide--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/127.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/super_clip_gui_pad_dark--png-icons.png\"",
+  "new": "\"imgs/super_clip_gui_pad_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/127.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/super_clip_gui_pad_dark_ex--png-icons.png\"",
+  "new": "\"imgs/super_clip_gui_pad_dark_ex--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/127.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/super_clip_gui_pad_light--png-icons.png\"",
+  "new": "\"imgs/super_clip_gui_pad_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/127.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/super_clip_gui_pad_light_ex--png-icons.png\"",
+  "new": "\"imgs/super_clip_gui_pad_light_ex--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/127.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/telephoto_lens_guide--png-icons.png\"",
+  "new": "\"imgs/telephoto_lens_guide--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/128.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/fold_wallpaper--png-icons.png\"",
+  "new": "\"imgs/fold_wallpaper--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/128.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/pad_wallpaper--png-icons.png\"",
+  "new": "\"imgs/pad_wallpaper--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/128.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/phone_wallpaper--png-icons.png\"",
+  "new": "\"imgs/phone_wallpaper--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/128.js",
+  "expect": 1,
+  "old": "i.p+\"list.worker.worker.js\"",
+  "new": "\"list.worker.worker.js\""
+ },
+ {
+  "file": "dist/electron/129.js",
+  "expect": 1,
+  "old": "o.p+\"imgs/loading-dark--images.gif\"",
+  "new": "\"imgs/loading-dark--images.gif\""
+ },
+ {
+  "file": "dist/electron/130.js",
+  "expect": 1,
+  "old": "a.p+\"list.worker.worker.js\"",
+  "new": "\"list.worker.worker.js\""
+ },
+ {
+  "file": "dist/electron/132.js",
+  "expect": 1,
+  "old": "i.p+\"media/ai-thinking--mp4.mp4\"",
+  "new": "\"media/ai-thinking--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/136.js",
+  "expect": 1,
+  "old": "i.p+\"thumbnail.worker.worker.js\"",
+  "new": "\"thumbnail.worker.worker.js\""
+ },
+ {
+  "file": "dist/electron/141.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/vClaw--left-sidebar.png\"",
+  "new": "\"imgs/vClaw--left-sidebar.png\""
+ },
+ {
+  "file": "dist/electron/141.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/vClaw_ex--left-sidebar.png\"",
+  "new": "\"imgs/vClaw_ex--left-sidebar.png\""
+ },
+ {
+  "file": "dist/electron/158.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/loading-dark--images.gif\"",
+  "new": "\"imgs/loading-dark--images.gif\""
+ },
+ {
+  "file": "dist/electron/167.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/quantum-kit3--png-icons.png\"",
+  "new": "\"imgs/quantum-kit3--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/167.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/quantum-kit3-dark--png-icons.png\"",
+  "new": "\"imgs/quantum-kit3-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/167.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/quantum-kit3-isex--png-icons.png\"",
+  "new": "\"imgs/quantum-kit3-isex--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/170.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/fv-note--left-sidebar.svg\"",
+  "new": "\"imgs/fv-note--left-sidebar.svg\""
+ },
+ {
+  "file": "dist/electron/20.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/fv-note--left-sidebar.svg\"",
+  "new": "\"imgs/fv-note--left-sidebar.svg\""
+ },
+ {
+  "file": "dist/electron/7.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/note--png-icons.png\"",
+  "new": "\"imgs/note--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/8.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/loading-dark--images.gif\"",
+  "new": "\"imgs/loading-dark--images.gif\""
+ },
+ {
+  "file": "dist/electron/app-modules-note.js",
+  "expect": 1,
+  "old": "o.p+\"imgs/loading--images.gif\"",
+  "new": "\"imgs/loading--images.gif\""
+ },
+ {
+  "file": "dist/electron/app-modules-note.js",
+  "expect": 1,
+  "old": "o.p+\"imgs/skin_thumb1--images.png\"",
+  "new": "\"imgs/skin_thumb1--images.png\""
+ },
+ {
+  "file": "dist/electron/app-modules-note.js",
+  "expect": 1,
+  "old": "o.p+\"imgs/skin_thumb2--images.png\"",
+  "new": "\"imgs/skin_thumb2--images.png\""
+ },
+ {
+  "file": "dist/electron/app-modules-note.js",
+  "expect": 1,
+  "old": "o.p+\"imgs/skin_thumb4--images.png\"",
+  "new": "\"imgs/skin_thumb4--images.png\""
+ },
+ {
+  "file": "dist/electron/app-modules-note.js",
+  "expect": 1,
+  "old": "o.p+\"imgs/skin_thumb5--images.png\"",
+  "new": "\"imgs/skin_thumb5--images.png\""
+ },
+ {
+  "file": "dist/electron/app-modules-note.js",
+  "expect": 1,
+  "old": "o.p+\"imgs/skin_thumb6--images.png\"",
+  "new": "\"imgs/skin_thumb6--images.png\""
+ },
+ {
+  "file": "dist/electron/app-modules-note.js",
+  "expect": 1,
+  "old": "o.p+\"imgs/skin_thumb7--images.png\"",
+  "new": "\"imgs/skin_thumb7--images.png\""
+ },
+ {
+  "file": "dist/electron/app-modules.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/device-backup-dark--png.png\"",
+  "new": "\"imgs/device-backup-dark--png.png\""
+ },
+ {
+  "file": "dist/electron/app-modules.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/device-backup-light--png.png\"",
+  "new": "\"imgs/device-backup-light--png.png\""
+ },
+ {
+  "file": "dist/electron/app-modules.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/loading--images.gif\"",
+  "new": "\"imgs/loading--images.gif\""
+ },
+ {
+  "file": "dist/electron/app-modules.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/loading-dark--images.gif\"",
+  "new": "\"imgs/loading-dark--images.gif\""
+ },
+ {
+  "file": "dist/electron/app-svg.js",
+  "expect": 2,
+  "old": "i.p+\"imgs/app_com.zing.zalo--side-bar.svg\"",
+  "new": "\"imgs/app_com.zing.zalo--side-bar.svg\""
+ },
+ {
+  "file": "dist/electron/app-svg.js",
+  "expect": 2,
+  "old": "i.p+\"imgs/app_com.zing.zalo_active--side-bar.svg\"",
+  "new": "\"imgs/app_com.zing.zalo_active--side-bar.svg\""
+ },
+ {
+  "file": "dist/electron/app-svg.js",
+  "expect": 2,
+  "old": "i.p+\"imgs/cad--file-icon.svg\"",
+  "new": "\"imgs/cad--file-icon.svg\""
+ },
+ {
+  "file": "dist/electron/app-svg.js",
+  "expect": 2,
+  "old": "i.p+\"imgs/caj--file-icon.svg\"",
+  "new": "\"imgs/caj--file-icon.svg\""
+ },
+ {
+  "file": "dist/electron/app-svg.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/fv-note--left-sidebar.svg\"",
+  "new": "\"imgs/fv-note--left-sidebar.svg\""
+ },
+ {
+  "file": "dist/electron/app-svg.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/logo-yun--header.svg\"",
+  "new": "\"imgs/logo-yun--header.svg\""
+ },
+ {
+  "file": "dist/electron/app-svg.js",
+  "expect": 2,
+  "old": "i.p+\"imgs/md--file-icon.svg\"",
+  "new": "\"imgs/md--file-icon.svg\""
+ },
+ {
+  "file": "dist/electron/app-svg.js",
+  "expect": 2,
+  "old": "i.p+\"imgs/ps--file-icon.svg\"",
+  "new": "\"imgs/ps--file-icon.svg\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.0_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.0_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.0_light--png-icons.png\"",
+  "new": "\"imgs/USB1.0_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.1_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.1_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.1_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.1_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.1_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.1_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.1_light--png-icons.png\"",
+  "new": "\"imgs/USB1.1_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.2_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.2_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.2_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.2_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.2_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.2_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.2_light--png-icons.png\"",
+  "new": "\"imgs/USB1.2_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.3_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.3_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.3_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.3_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.3_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.3_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.3_light--png-icons.png\"",
+  "new": "\"imgs/USB1.3_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.4_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.4_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.4_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.4_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.4_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.4_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.4_light--png-icons.png\"",
+  "new": "\"imgs/USB1.4_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.5_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.5_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.5_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.5_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.5_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.5_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.5_light--png-icons.png\"",
+  "new": "\"imgs/USB1.5_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/connect_need_pad_agree_icon-dark--png-icons.png\"",
+  "new": "\"imgs/connect_need_pad_agree_icon-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/connect_need_pad_agree_icon-light--png-icons.png\"",
+  "new": "\"imgs/connect_need_pad_agree_icon-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.1-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.1-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.1-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.1-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.2-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.2-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.2-ex-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.2-ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.2-ex-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.2-ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.4-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.4-ex-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.4-ex-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.4-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/data_sync_pic--png-icons.png\"",
+  "new": "\"imgs/data_sync_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_permissions_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_permissions_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_permissions_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_permissions_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/extended-screen-open-succ-tips-fold-dark--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-fold-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/extended-screen-open-succ-tips-fold-light--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-fold-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/extended-screen-open-succ-tips-pad-dark--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-pad-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/extended-screen-open-succ-tips-pad-light--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-pad-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/file_access_pic--png-icons.png\"",
+  "new": "\"imgs/file_access_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/projection_close_prompt_eng_icon-dark--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_eng_icon-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/projection_close_prompt_eng_icon-light--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_eng_icon-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/projection_close_prompt_icon-dark--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_icon-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/projection_close_prompt_icon-light--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_icon-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/remote_ctrl_pic--png-icons.png\"",
+  "new": "\"imgs/remote_ctrl_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/task_relay_pic--png-icons.png\"",
+  "new": "\"imgs/task_relay_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/usb-guide-left--png-icons.png\"",
+  "new": "\"imgs/usb-guide-left--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/usb-guide-left-dark--png-icons.png\"",
+  "new": "\"imgs/usb-guide-left-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/usb-guide-right--png-icons.png\"",
+  "new": "\"imgs/usb-guide-right--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/usb-guide-right-dark--png-icons.png\"",
+  "new": "\"imgs/usb-guide-right-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/vivo_screen_pic--png-icons.png\"",
+  "new": "\"imgs/vivo_screen_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-help-guide.5-dark--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-help-guide.5-ex-dark--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-ex-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-help-guide.5-ex-light--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-ex-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-help-guide.5-light--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-set-guide-pad-dark--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-pad-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-set-guide-pad-light--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-pad-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-set-guide-phone--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-phone--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-set-guide-xfold-dark--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-xfold-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-set-guide-xfold-light--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-xfold-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/extended-screen-open-succ-tips-fold-dark--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-fold-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/extended-screen-open-succ-tips-fold-light--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-fold-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/extended-screen-open-succ-tips-pad-dark--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-pad-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/extended-screen-open-succ-tips-pad-light--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-pad-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/pad-suite-guide--mp4.mp4\"",
+  "new": "\"media/pad-suite-guide--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/phone-suite-guide--mp4.mp4\"",
+  "new": "\"media/phone-suite-guide--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/qrcode-scan-guide-dark--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/qrcode-scan-guide-dark-ex--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-dark-ex--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/qrcode-scan-guide-light--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "i.p+\"media/qrcode-scan-guide-light-ex--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-light-ex--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/components-connection.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_loading--pngs.gif\"",
+  "new": "\"imgs/coordination_loading--pngs.gif\""
+ },
+ {
+  "file": "dist/electron/components-connection.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/loading--pngs.gif\"",
+  "new": "\"imgs/loading--pngs.gif\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.0_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.0_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.0_light--png-icons.png\"",
+  "new": "\"imgs/USB1.0_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.1_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.1_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.1_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.1_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.1_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.1_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.1_light--png-icons.png\"",
+  "new": "\"imgs/USB1.1_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.2_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.2_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.2_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.2_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.2_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.2_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.2_light--png-icons.png\"",
+  "new": "\"imgs/USB1.2_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.3_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.3_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.3_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.3_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.3_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.3_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.3_light--png-icons.png\"",
+  "new": "\"imgs/USB1.3_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.4_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.4_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.4_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.4_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.4_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.4_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.4_light--png-icons.png\"",
+  "new": "\"imgs/USB1.4_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.5_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.5_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.5_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.5_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.5_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.5_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/USB1.5_light--png-icons.png\"",
+  "new": "\"imgs/USB1.5_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/connect_need_pad_agree_icon-dark--png-icons.png\"",
+  "new": "\"imgs/connect_need_pad_agree_icon-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/connect_need_pad_agree_icon-light--png-icons.png\"",
+  "new": "\"imgs/connect_need_pad_agree_icon-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.1-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.1-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.1-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.1-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.2-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.2-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.2-ex-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.2-ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.2-ex-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.2-ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.4-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.4-ex-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.4-ex-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/coordination_help.4-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/data_sync_pic--png-icons.png\"",
+  "new": "\"imgs/data_sync_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_permissions_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_permissions_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_permissions_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_permissions_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_1_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_2_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_mac_3_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_1_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/ext_screen_set_win_2_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/extended-screen-open-succ-tips-fold-dark--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-fold-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/extended-screen-open-succ-tips-fold-light--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-fold-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/extended-screen-open-succ-tips-pad-dark--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-pad-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/extended-screen-open-succ-tips-pad-light--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-pad-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/file_access_pic--png-icons.png\"",
+  "new": "\"imgs/file_access_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/projection_close_prompt_eng_icon-dark--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_eng_icon-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/projection_close_prompt_eng_icon-light--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_eng_icon-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/projection_close_prompt_icon-dark--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_icon-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/projection_close_prompt_icon-light--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_icon-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/remote_ctrl_pic--png-icons.png\"",
+  "new": "\"imgs/remote_ctrl_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/task_relay_pic--png-icons.png\"",
+  "new": "\"imgs/task_relay_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/usb-guide-left--png-icons.png\"",
+  "new": "\"imgs/usb-guide-left--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/usb-guide-left-dark--png-icons.png\"",
+  "new": "\"imgs/usb-guide-left-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/usb-guide-right--png-icons.png\"",
+  "new": "\"imgs/usb-guide-right--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/usb-guide-right-dark--png-icons.png\"",
+  "new": "\"imgs/usb-guide-right-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"imgs/vivo_screen_pic--png-icons.png\"",
+  "new": "\"imgs/vivo_screen_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-help-guide.5-dark--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-help-guide.5-ex-dark--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-ex-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-help-guide.5-ex-light--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-ex-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-help-guide.5-light--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-set-guide-pad-dark--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-pad-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-set-guide-pad-light--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-pad-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-set-guide-phone--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-phone--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-set-guide-xfold-dark--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-xfold-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/coordination-set-guide-xfold-light--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-xfold-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/extended-screen-open-succ-tips-fold-dark--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-fold-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/extended-screen-open-succ-tips-fold-light--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-fold-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/extended-screen-open-succ-tips-pad-dark--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-pad-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/extended-screen-open-succ-tips-pad-light--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-pad-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/pad-suite-guide--mp4.mp4\"",
+  "new": "\"media/pad-suite-guide--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/phone-suite-guide--mp4.mp4\"",
+  "new": "\"media/phone-suite-guide--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/qrcode-scan-guide-dark--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/qrcode-scan-guide-dark-ex--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-dark-ex--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/qrcode-scan-guide-light--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "i.p+\"media/qrcode-scan-guide-light-ex--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-light-ex--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"daily.worker.worker.js\"",
+  "new": "\"daily.worker.worker.js\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"date.worker.worker.js\"",
+  "new": "\"date.worker.worker.js\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.0_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.0_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.0_light--png-icons.png\"",
+  "new": "\"imgs/USB1.0_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.1_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.1_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.1_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.1_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.1_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.1_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.1_light--png-icons.png\"",
+  "new": "\"imgs/USB1.1_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.2_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.2_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.2_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.2_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.2_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.2_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.2_light--png-icons.png\"",
+  "new": "\"imgs/USB1.2_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.3_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.3_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.3_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.3_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.3_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.3_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.3_light--png-icons.png\"",
+  "new": "\"imgs/USB1.3_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.4_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.4_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.4_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.4_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.4_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.4_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.4_light--png-icons.png\"",
+  "new": "\"imgs/USB1.4_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.5_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.5_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.5_ex_dark--png-icons.png\"",
+  "new": "\"imgs/USB1.5_ex_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.5_ex_light--png-icons.png\"",
+  "new": "\"imgs/USB1.5_ex_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/USB1.5_light--png-icons.png\"",
+  "new": "\"imgs/USB1.5_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/big-pic2--download.png\"",
+  "new": "\"imgs/big-pic2--download.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/connect_need_pad_agree_icon-dark--png-icons.png\"",
+  "new": "\"imgs/connect_need_pad_agree_icon-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/connect_need_pad_agree_icon-light--png-icons.png\"",
+  "new": "\"imgs/connect_need_pad_agree_icon-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/coordination_help.1-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.1-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/coordination_help.1-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.1-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/coordination_help.2-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.2-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/coordination_help.2-ex-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.2-ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/coordination_help.2-ex-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.2-ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/coordination_help.4-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/coordination_help.4-ex-dark--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/coordination_help.4-ex-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/coordination_help.4-light--png-icons.png\"",
+  "new": "\"imgs/coordination_help.4-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/data_sync_pic--png-icons.png\"",
+  "new": "\"imgs/data_sync_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/default-swiper--components.png\"",
+  "new": "\"imgs/default-swiper--components.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/dialog1--assets.png\"",
+  "new": "\"imgs/dialog1--assets.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/dialog2--assets.png\"",
+  "new": "\"imgs/dialog2--assets.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_permissions_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_permissions_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_permissions_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_permissions_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_permissions_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_os13_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_1_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_1_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_2_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_2_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_2_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_2_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_2_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_2_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_2_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_2_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_2_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_3_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_3_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_3_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_3_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_3_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_3_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_3_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_mac_3_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_mac_3_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_1_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_1_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_1_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_1_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_1_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_1_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_1_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_1_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_1_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_2_purpose_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_2_purpose_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_2_purpose_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_2_purpose_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_purpose_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_2_sort_guide-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_2_sort_guide-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_2_sort_guide_ex-dark--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide_ex-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/ext_screen_set_win_2_sort_guide_ex-light--png-icons.png\"",
+  "new": "\"imgs/ext_screen_set_win_2_sort_guide_ex-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/extended-screen-open-succ-tips-fold-dark--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-fold-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/extended-screen-open-succ-tips-fold-light--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-fold-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/extended-screen-open-succ-tips-pad-dark--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-pad-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/extended-screen-open-succ-tips-pad-light--png-icons.png\"",
+  "new": "\"imgs/extended-screen-open-succ-tips-pad-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/file_access_pic--png-icons.png\"",
+  "new": "\"imgs/file_access_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guid-mac--png-icons.png\"",
+  "new": "\"imgs/guid-mac--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guid-mac-12-en--png-icons.png\"",
+  "new": "\"imgs/guid-mac-12-en--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guid-mac-12-en-dark--png-icons.png\"",
+  "new": "\"imgs/guid-mac-12-en-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guid-mac-en--png-icons.png\"",
+  "new": "\"imgs/guid-mac-en--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-1--sync.png\"",
+  "new": "\"imgs/guide-1--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-1-dark--sync.png\"",
+  "new": "\"imgs/guide-1-dark--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-3--sync.png\"",
+  "new": "\"imgs/guide-3--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-3-dark--sync.png\"",
+  "new": "\"imgs/guide-3-dark--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-4--sync.png\"",
+  "new": "\"imgs/guide-4--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-4-dark--sync.png\"",
+  "new": "\"imgs/guide-4-dark--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-5--sync.png\"",
+  "new": "\"imgs/guide-5--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-5-dark--sync.png\"",
+  "new": "\"imgs/guide-5-dark--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-6--sync.png\"",
+  "new": "\"imgs/guide-6--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-6-dark--sync.png\"",
+  "new": "\"imgs/guide-6-dark--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-7--sync.png\"",
+  "new": "\"imgs/guide-7--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-7-dark--sync.png\"",
+  "new": "\"imgs/guide-7-dark--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-9--sync.png\"",
+  "new": "\"imgs/guide-9--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-9-dark--sync.png\"",
+  "new": "\"imgs/guide-9-dark--sync.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-mac-dark--png-icons.png\"",
+  "new": "\"imgs/guide-mac-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-mac-dark-12--png-icons.png\"",
+  "new": "\"imgs/guide-mac-dark-12--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/guide-mac-en-dark--png-icons.png\"",
+  "new": "\"imgs/guide-mac-en-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/new-version-guide-3--download.png\"",
+  "new": "\"imgs/new-version-guide-3--download.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/note--png-icons.png\"",
+  "new": "\"imgs/note--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/pcscreenshortcutkey_mac--png-icons.png\"",
+  "new": "\"imgs/pcscreenshortcutkey_mac--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/pcscreenshortcutkey_win--png-icons.png\"",
+  "new": "\"imgs/pcscreenshortcutkey_win--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/point-pc-step1--png-icons.png\"",
+  "new": "\"imgs/point-pc-step1--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/point-pc-step2--png-icons.png\"",
+  "new": "\"imgs/point-pc-step2--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/point-pc-step3--png-icons.png\"",
+  "new": "\"imgs/point-pc-step3--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/point-step2--png-icons.png\"",
+  "new": "\"imgs/point-step2--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/point-step3--png-icons.png\"",
+  "new": "\"imgs/point-step3--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/projection_close_prompt_eng_icon-dark--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_eng_icon-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/projection_close_prompt_eng_icon-light--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_eng_icon-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/projection_close_prompt_icon-dark--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_icon-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/projection_close_prompt_icon-light--png-icons.png\"",
+  "new": "\"imgs/projection_close_prompt_icon-light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/remote_ctrl_pic--png-icons.png\"",
+  "new": "\"imgs/remote_ctrl_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/shortcutkey_mac_des--png-icons.png\"",
+  "new": "\"imgs/shortcutkey_mac_des--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/shortcutkey_web_mac_des--png-icons.png\"",
+  "new": "\"imgs/shortcutkey_web_mac_des--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/shortcutkey_web_win_des--png-icons.png\"",
+  "new": "\"imgs/shortcutkey_web_win_des--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/shortcutkey_win_des--png-icons.png\"",
+  "new": "\"imgs/shortcutkey_win_des--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/super_clip_gui_pad_dark--png-icons.png\"",
+  "new": "\"imgs/super_clip_gui_pad_dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/super_clip_gui_pad_dark_ex--png-icons.png\"",
+  "new": "\"imgs/super_clip_gui_pad_dark_ex--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/super_clip_gui_pad_light--png-icons.png\"",
+  "new": "\"imgs/super_clip_gui_pad_light--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/super_clip_gui_pad_light_ex--png-icons.png\"",
+  "new": "\"imgs/super_clip_gui_pad_light_ex--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/task_relay_pic--png-icons.png\"",
+  "new": "\"imgs/task_relay_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/telephoto_lens_guide--png-icons.png\"",
+  "new": "\"imgs/telephoto_lens_guide--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/usb-guide-left--png-icons.png\"",
+  "new": "\"imgs/usb-guide-left--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/usb-guide-left-dark--png-icons.png\"",
+  "new": "\"imgs/usb-guide-left-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/usb-guide-right--png-icons.png\"",
+  "new": "\"imgs/usb-guide-right--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/usb-guide-right-dark--png-icons.png\"",
+  "new": "\"imgs/usb-guide-right-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/vivo_screen_pic--png-icons.png\"",
+  "new": "\"imgs/vivo_screen_pic--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/win-guid-en--png-icons.png\"",
+  "new": "\"imgs/win-guid-en--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/win-guid-en-dark--png-icons.png\"",
+  "new": "\"imgs/win-guid-en-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/win-guid2-en--png-icons.png\"",
+  "new": "\"imgs/win-guid2-en--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/win-guid2-en-dark--png-icons.png\"",
+  "new": "\"imgs/win-guid2-en-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"imgs/win-guide2-dark--png-icons.png\"",
+  "new": "\"imgs/win-guide2-dark--png-icons.png\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/coordination-help-guide.5-dark--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/coordination-help-guide.5-ex-dark--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-ex-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/coordination-help-guide.5-ex-light--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-ex-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/coordination-help-guide.5-light--mp4.mp4\"",
+  "new": "\"media/coordination-help-guide.5-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/coordination-set-guide-pad-dark--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-pad-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/coordination-set-guide-pad-light--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-pad-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/coordination-set-guide-phone--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-phone--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/coordination-set-guide-xfold-dark--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-xfold-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/coordination-set-guide-xfold-light--mp4.mp4\"",
+  "new": "\"media/coordination-set-guide-xfold-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/extended-screen-open-succ-tips-fold-dark--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-fold-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/extended-screen-open-succ-tips-fold-light--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-fold-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/extended-screen-open-succ-tips-pad-dark--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-pad-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/extended-screen-open-succ-tips-pad-light--mp4.mp4\"",
+  "new": "\"media/extended-screen-open-succ-tips-pad-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/first-coordination-guide-pad-dark--mp4.mp4\"",
+  "new": "\"media/first-coordination-guide-pad-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/first-coordination-guide-pad-light--mp4.mp4\"",
+  "new": "\"media/first-coordination-guide-pad-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/first-coordination-guide-phone-dark--mp4.mp4\"",
+  "new": "\"media/first-coordination-guide-phone-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/first-coordination-guide-phone-light--mp4.mp4\"",
+  "new": "\"media/first-coordination-guide-phone-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/pad-suite-guide--mp4.mp4\"",
+  "new": "\"media/pad-suite-guide--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/phone-suite-guide--mp4.mp4\"",
+  "new": "\"media/phone-suite-guide--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/qrcode-scan-guide-dark--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-dark--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/qrcode-scan-guide-dark-ex--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-dark-ex--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/qrcode-scan-guide-light--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-light--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "a.p+\"media/qrcode-scan-guide-light-ex--mp4.mp4\"",
+  "new": "\"media/qrcode-scan-guide-light-ex--mp4.mp4\""
  }
 ]
