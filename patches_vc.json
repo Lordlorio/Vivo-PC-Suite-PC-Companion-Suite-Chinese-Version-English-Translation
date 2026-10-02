@@ -1,0 +1,80 @@
+[
+ {
+  "file": "dist/renderer.js",
+  "expect": 1,
+  "old": "getRenderI18nDefaultLocale=function(){return\"vzh_rCN\"}",
+  "new": "getRenderI18nDefaultLocale=function(){return\"vus\"}"
+ },
+ {
+  "file": "dist/renderer.js",
+  "expect": 1,
+  "old": "defaultLangData={lang:\"vzh_rCN\",isRtl:!1,language:\"zh_CN\",isRtlSysEnv:!1}",
+  "new": "defaultLangData={lang:\"vus\",isRtl:!1,language:\"en_US\",isRtlSysEnv:!1}"
+ },
+ {
+  "file": "dist/main.js",
+  "expect": 1,
+  "old": "getRenderI18nDefaultLocale=function(){return\"vzh_rCN\"}",
+  "new": "getRenderI18nDefaultLocale=function(){return\"vus\"}"
+ },
+ {
+  "file": "dist/main.js",
+  "expect": 1,
+  "old": "defaultLangData={lang:\"vzh_rCN\",isRtl:!1,language:\"zh_CN\",isRtlSysEnv:!1}",
+  "new": "defaultLangData={lang:\"vus\",isRtl:!1,language:\"en_US\",isRtlSysEnv:!1}"
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "this.powerDialogShow=!1,this.isEx=!1}",
+  "new": "this.powerDialogShow=!1,this.isEx=!0}"
+ },
+ {
+  "file": "dist/1.js",
+  "expect": 1,
+  "old": "this.setPasswordMessageInstance=\"\",this.isEx=!1,",
+  "new": "this.setPasswordMessageInstance=\"\",this.isEx=!0,"
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "title:\"欢迎使用vivo远控PC\",cnt:\"如需远程控制本设备，需在主控端输入设备代码及密码(密码区分大小写)进行连接。\"",
+  "new": "title:\"Welcome to vivo Remote PC\",cnt:\"To remotely control this device, enter the device code and password (case-sensitive) on the controlling device to connect.\""
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "<div class=\"tt\">设备代码</div>",
+  "new": "<div class=\"tt\">Device code</div>"
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "<div class=\"tt\">临时密码</div>",
+  "new": "<div class=\"tt\">Temporary password</div>"
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "a({title:\"登录\",cnt:\"登录后可以把当前设备自动加入到设备列表内，让您在移动端设备列表便捷控制此设备。\",step:2})",
+  "new": "a({title:\"Sign in\",cnt:\"Sign in to automatically add this device to the device list, so you can control it conveniently from the device list on your mobile device.\",step:2})"
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "a({title:\"设备列表\",cnt:\"登录账号即可将设备保存至设备列表，方便后续连接，支持查看设备列表和查看被控历史。\",step:3})",
+  "new": "a({title:\"Device list\",cnt:\"Sign in to save devices to the device list for easy reconnection. You can view the device list and the history of controlled sessions.\",step:3})"
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "a({title:\"安全设置\",cnt:\"安全设置中可配置远控验证方式、密码更新策略、隐私设置。\",step:4})",
+  "new": "a({title:\"Security settings\",cnt:\"Security settings lets you configure remote verification, password update policy and privacy.\",step:4})"
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "a({title:\"开机自启动\",cnt:\"设置开机启动，可以保障您在任意时刻都可直接控制此电脑。\",step:5})",
+  "new": "a({title:\"Launch at startup\",cnt:\"Enable launch at startup so you can control this PC at any time.\",step:5})"
+ }
+]
