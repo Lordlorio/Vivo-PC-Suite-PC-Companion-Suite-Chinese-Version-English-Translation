@@ -5,3 +5,4 @@ locales-en_US.js.new
 *.new
 *.bak*
 *.log
+report_literals.txt
