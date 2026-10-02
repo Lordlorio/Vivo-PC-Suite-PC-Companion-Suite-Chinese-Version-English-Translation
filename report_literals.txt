@@ -1,0 +1,7212 @@
+dist/electron/1.js@45126
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/1.js@47314
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1539822
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/125.js@2070717
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/125.js@2071046
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/125.js@2099697
+    OLD "最近删除"
+    NEW "Recently deleted"
+dist/electron/125.js@1220767
+    OLD "一句话总结全文内容，涵盖观点碰撞、论据支撑及决策方向，完整呈现讨论背景、过程及关键结论，为后续行动提供全面信息支撑。"
+    NEW "A one-sentence summary of the whole conversation, covering viewpoints, supporting evidence, and the direction of the decision, with the background, process and conclusions for follow-up action."
+dist/electron/125.js@1170184
+    OLD "一键开启"
+    NEW "Turn on all"
+dist/electron/125.js@2017344
+    OLD "下载"
+    NEW "Download"
+dist/electron/125.js@2027498
+    OLD "下载"
+    NEW "Download"
+dist/electron/125.js@2028452
+    OLD "下载"
+    NEW "Download"
+dist/electron/125.js@2031690
+    OLD "下载"
+    NEW "Download"
+dist/electron/125.js@2032964
+    OLD "下载"
+    NEW "Download"
+dist/electron/125.js@2103548
+    OLD "下载"
+    NEW "Download"
+dist/electron/125.js@2117340
+    OLD "下载"
+    NEW "Download"
+dist/electron/125.js@2117825
+    OLD "下载"
+    NEW "Download"
+dist/electron/125.js@1258451
+    OLD "下载客户端"
+    NEW "Download the desktop app"
+dist/electron/125.js@1276242
+    OLD "下载客户端"
+    NEW "Download the desktop app"
+dist/electron/125.js@1288505
+    OLD "下载客户端"
+    NEW "Download the desktop app"
+dist/electron/125.js@1294991
+    OLD "下载客户端"
+    NEW "Download the desktop app"
+dist/electron/125.js@1321266
+    OLD "下载客户端"
+    NEW "Download the desktop app"
+dist/electron/125.js@1220332
+    OLD "主题"
+    NEW "Topic"
+dist/electron/125.js@1222118
+    OLD "主题"
+    NEW "Topic"
+dist/electron/125.js@1224359
+    OLD "主题"
+    NEW "Topic"
+dist/electron/125.js@1226251
+    OLD "主题"
+    NEW "Topic"
+dist/electron/125.js@1228032
+    OLD "主题"
+    NEW "Topic"
+dist/electron/125.js@1229974
+    OLD "主题"
+    NEW "Topic"
+dist/electron/125.js@1539752
+    OLD "全部"
+    NEW "All"
+dist/electron/125.js@1539796
+    OLD "全部"
+    NEW "All"
+dist/electron/125.js@1809588
+    OLD "删除"
+    NEW "Delete"
+dist/electron/125.js@1912633
+    OLD "删除"
+    NEW "Delete"
+dist/electron/125.js@1398610
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@1399512
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@1190162
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@1235052
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@1235195
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@1236037
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@1256765
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@1324087
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@1728298
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@2017360
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@2027514
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@2028468
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@2031706
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@2032980
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@2103564
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@2117356
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@2117841
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/125.js@1294845
+    OLD "可下载客户端生成总结"
+    NEW "Download the desktop app to generate a summary"
+dist/electron/125.js@1288359
+    OLD "可下载客户端生成洞察"
+    NEW "Download the desktop app to generate insights"
+dist/electron/125.js@1295220
+    OLD "可前往电脑下载客户端生成总结"
+    NEW "On your computer, download the desktop app to generate a summary"
+dist/electron/125.js@1288728
+    OLD "可前往电脑下载客户端生成洞察"
+    NEW "On your computer, download the desktop app to generate insights"
+dist/electron/125.js@1311715
+    OLD "复制"
+    NEW "Copy"
+dist/electron/125.js@1809510
+    OLD "复制"
+    NEW "Copy"
+dist/electron/125.js@1912555
+    OLD "复制"
+    NEW "Copy"
+dist/electron/125.js@1221287
+    OLD "对录音文件中的全部对话内容进行系统性梳理，精准提炼其中的核心议题，按照逻辑层次分点分段展示，确保关键讨论要点清晰明了。"
+    NEW "A structured review of the whole recording that extracts the key topics and presents them by logical level so the main discussion points are easy to follow."
+dist/electron/125.js@1519179
+    OLD "导入中..."
+    NEW "Importing..."
+dist/electron/125.js@1171702
+    OLD "导入电脑音频"
+    NEW "Import audio from this computer"
+dist/electron/125.js@1539871
+    OLD "应用"
+    NEW "Apps"
+dist/electron/125.js@1295458
+    OLD "录音内容较少，无需生成AI总结。"
+    NEW "The recording is too short to generate a summary."
+dist/electron/125.js@1929057
+    OLD "录音内容较少，无需生成AI总结。"
+    NEW "The recording is too short to generate a summary."
+dist/electron/125.js@951574
+    OLD "录音内容较少，无需生成AI洞察。"
+    NEW "The recording is too short to generate AI insights."
+dist/electron/125.js@961674
+    OLD "录音内容较少，无需生成AI洞察。"
+    NEW "The recording is too short to generate AI insights."
+dist/electron/125.js@1288960
+    OLD "录音内容较少，无需生成AI洞察。"
+    NEW "The recording is too short to generate AI insights."
+dist/electron/125.js@1523704
+    OLD "录音文件"
+    NEW "Audio files"
+dist/electron/125.js@1575419
+    OLD "录音文件"
+    NEW "Audio files"
+dist/electron/125.js@2095353
+    OLD "录音文件"
+    NEW "Audio files"
+dist/electron/125.js@1221556
+    OLD "待办事项"
+    NEW "To-dos"
+dist/electron/125.js@1223792
+    OLD "待办事项"
+    NEW "To-dos"
+dist/electron/125.js@1225689
+    OLD "待办事项"
+    NEW "To-dos"
+dist/electron/125.js@1562541
+    OLD "总结"
+    NEW "Summary"
+dist/electron/125.js@1220439
+    OLD "总结当前录音内容的主题"
+    NEW "Topics in this recording"
+dist/electron/125.js@1350995
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/125.js@1539679
+    OLD "按创建时间：新到旧"
+    NEW "By created: newest first"
+dist/electron/125.js@2099624
+    OLD "按创建时间：新到旧"
+    NEW "By created: newest first"
+dist/electron/125.js@1539707
+    OLD "按创建时间：旧到新"
+    NEW "By created: oldest first"
+dist/electron/125.js@2099652
+    OLD "按创建时间：旧到新"
+    NEW "By created: oldest first"
+dist/electron/125.js@1539653
+    OLD "按名称：A到Z"
+    NEW "By name: A to Z"
+dist/electron/125.js@2099598
+    OLD "按名称：A到Z"
+    NEW "By name: A to Z"
+dist/electron/125.js@1169967
+    OLD "提升录音管理效率,开启录音内容搜索、标记智能命名。"
+    NEW "Get more from recordings: content search and smart mark naming."
+dist/electron/125.js@1304432
+    OLD "收起"
+    NEW "Hide"
+dist/electron/125.js@1678502
+    OLD "收起"
+    NEW "Hide"
+dist/electron/125.js@1188667
+    OLD "放弃生成"
+    NEW "Discard"
+dist/electron/125.js@1294785
+    OLD "无AI总结"
+    NEW "No AI summary"
+dist/electron/125.js@1295160
+    OLD "无AI总结"
+    NEW "No AI summary"
+dist/electron/125.js@1295381
+    OLD "无AI总结"
+    NEW "No AI summary"
+dist/electron/125.js@1288299
+    OLD "无AI洞察"
+    NEW "No AI insights"
+dist/electron/125.js@1288668
+    OLD "无AI洞察"
+    NEW "No AI insights"
+dist/electron/125.js@1288883
+    OLD "无AI洞察"
+    NEW "No AI insights"
+dist/electron/125.js@1175823
+    OLD "无内容"
+    NEW "No content"
+dist/electron/125.js@1506219
+    OLD "无应用通话录音"
+    NEW "No app call recordings"
+dist/electron/125.js@1506267
+    OLD "无录音"
+    NEW "No recordings"
+dist/electron/125.js@1506209
+    OLD "无电话录音"
+    NEW "No call recordings"
+dist/electron/125.js@1188525
+    OLD "智能命名正在进行中，是否放弃生成的内容？"
+    NEW "Smart naming is in progress. Discard the generated content?"
+dist/electron/125.js@1596704
+    OLD "未命名音频"
+    NEW "Untitled recording"
+dist/electron/125.js@2104083
+    OLD "未命名音频"
+    NEW "Untitled recording"
+dist/electron/125.js@2118441
+    OLD "未命名音频"
+    NEW "Untitled recording"
+dist/electron/125.js@1596886
+    OLD "未找到云端音频信息"
+    NEW "No cloud recording info found"
+dist/electron/125.js@1380152
+    OLD "未设置"
+    NEW "Not set"
+dist/electron/125.js@1647776 [BLANCHE]
+    OLD "标记 "
+    NEW "Mark "
+dist/electron/125.js@1649701 [BLANCHE]
+    OLD "标记 "
+    NEW "Mark "
+dist/electron/125.js@2123288 [BLANCHE]
+    OLD "标记 "
+    NEW "Mark "
+dist/electron/125.js@1562442
+    OLD "标记"
+    NEW "Mark"
+dist/electron/125.js@1221723
+    OLD "根据议题得出具体待办任务列表"
+    NEW "A list of to-dos derived from the topics"
+dist/electron/125.js@1220660
+    OLD "概要"
+    NEW "Overview"
+dist/electron/125.js@1222448
+    OLD "概要"
+    NEW "Overview"
+dist/electron/125.js@1224685
+    OLD "概要"
+    NEW "Overview"
+dist/electron/125.js@1226579
+    OLD "概要"
+    NEW "Overview"
+dist/electron/125.js@1228359
+    OLD "概要"
+    NEW "Overview"
+dist/electron/125.js@1230301
+    OLD "概要"
+    NEW "Overview"
+dist/electron/125.js@2070707
+    OLD "概要"
+    NEW "Overview"
+dist/electron/125.js@1562506
+    OLD "洞察"
+    NEW "Insights"
+dist/electron/125.js@1539847
+    OLD "电话"
+    NEW "Phone"
+dist/electron/125.js@1716534
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1886430
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1888336
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1890339
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1894345
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1925740
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1928236
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1935154
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1935263
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1950083
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1950192
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/125.js@1399534
+    OLD "确定"
+    NEW "OK"
+dist/electron/125.js@1190246
+    OLD "确定"
+    NEW "OK"
+dist/electron/125.js@1256843
+    OLD "确定"
+    NEW "OK"
+dist/electron/125.js@2077610
+    OLD "确定重新生成AI总结吗？"
+    NEW "Regenerate the AI summary?"
+dist/electron/125.js@1496342
+    OLD "继续生成"
+    NEW "Continue generating"
+dist/electron/125.js@1497363
+    OLD "继续生成"
+    NEW "Continue generating"
+dist/electron/125.js@1188747
+    OLD "继续生成"
+    NEW "Continue generating"
+dist/electron/125.js@1311521
+    OLD "编辑"
+    NEW "Edit"
+dist/electron/125.js@1236151
+    OLD "编辑AI总结"
+    NEW "Edit AI summary"
+dist/electron/125.js@1235868
+    OLD "编辑过程中，若修改总结中的要点，可能会导致要点关联原文失败。"
+    NEW "If you change a key point while editing, it may no longer link back to the original text."
+dist/electron/125.js@2018948
+    OLD "网络异常"
+    NEW "Network error"
+dist/electron/125.js@2029006
+    OLD "网络异常"
+    NEW "Network error"
+dist/electron/125.js@2029842
+    OLD "网络异常"
+    NEW "Network error"
+dist/electron/125.js@2033752
+    OLD "网络异常"
+    NEW "Network error"
+dist/electron/125.js@2034219
+    OLD "网络异常"
+    NEW "Network error"
+dist/electron/125.js@1527110
+    OLD "网络未连接"
+    NEW "No network connection"
+dist/electron/125.js@1580400
+    OLD "网络未连接"
+    NEW "No network connection"
+dist/electron/125.js@1716758
+    OLD "网络未连接"
+    NEW "No network connection"
+dist/electron/125.js@1771281
+    OLD "网络未连接"
+    NEW "No network connection"
+dist/electron/125.js@1888498
+    OLD "网络未连接"
+    NEW "No network connection"
+dist/electron/125.js@1925904
+    OLD "网络未连接"
+    NEW "No network connection"
+dist/electron/125.js@1221035
+    OLD "要点"
+    NEW "Key points"
+dist/electron/125.js@2070712
+    OLD "要点"
+    NEW "Key points"
+dist/electron/125.js@1235606
+    OLD "要点关联原文中，是否要编辑AI总结？"
+    NEW "While key points are linked to the original text, do you want to edit the AI summary?"
+dist/electron/125.js@1221143
+    OLD "议题 1"
+    NEW "Topic 1"
+dist/electron/125.js@1259081
+    OLD "记录想法"
+    NEW "Capture ideas"
+dist/electron/125.js@1562474
+    OLD "转写"
+    NEW "Transcript"
+dist/electron/125.js@1188982
+    OLD "重命名"
+    NEW "Rename"
+dist/electron/125.js@1255632
+    OLD "重命名"
+    NEW "Rename"
+dist/electron/125.js@1234924
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/125.js@1235315
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/125.js@1276439
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/125.js@1284031
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/125.js@1284946
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/125.js@1290575
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/125.js@1291840
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/125.js@1321487
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/125.js@1325079
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/125.js@1851912
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/125.js@2077799
+    OLD "重新生成的AI总结会替换当前内容。"
+    NEW "A regenerated AI summary will replace the current content."
+dist/electron/125.js@1261256
+    OLD "重试"
+    NEW "Retry"
+dist/electron/125.js@1273491
+    OLD "重试"
+    NEW "Retry"
+dist/electron/126.js@164101
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/126.js@70956
+    OLD "待办及数据已迁移至\"日历\""
+    NEW "To-dos and their data have been moved to \"Calendar\""
+dist/electron/126.js@70966
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/126.js@71930
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/126.js@164046
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/126.js@164073
+    OLD "相册"
+    NEW "Album"
+dist/electron/126.js@163901
+    OLD "立即开启"
+    NEW "Turn on now"
+dist/electron/126.js@164016
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/126.js@390555
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/126.js@71626
+    OLD "\\n          您的所有待办数据已自动迁移至“日历”，包含提醒、分组、颜色等设置，还支持通过云同步，在多设备间自动保持一致。\\n        "
+    NEW "\\n          All of your to-dos have been moved to Calendar, including reminders, groups and colours, and stay in sync across your devices.\\n        "
+dist/electron/126.js@71817
+    OLD "\\n          更智能高效的待办\\n        "
+    NEW "\\n          Smarter, simpler to-dos\\n        "
+dist/electron/126.js@71913
+    OLD "\\n          现在可在\"日历\"中更集中的管理日程和待办任务，智能安排更高效。\\n        "
+    NEW "\\n          Manage your schedules and to-dos together in Calendar for smarter planning.\\n        "
+dist/electron/126.js@72974
+    OLD "\\n      后续可在日历-待办使用此功能。\\n    "
+    NEW "\\n      You can use this feature later under Calendar - To-do.\\n    "
+dist/electron/126.js@143432
+    OLD "\\n              云空间将满，暂停同步历史版本。"
+    NEW "\\\\n              Cloud space is almost full, so syncing history versions is paused."
+dist/electron/126.js@148959
+    OLD "\\n              云空间将满，暂停同步历史版本。"
+    NEW "\\\\n              Cloud space is almost full, so syncing history versions is paused."
+dist/electron/126.js@146288 [BLANCHE]
+    OLD "\\n              另存为新笔记\\n            "
+    NEW "\\\\n              Save as new note\\\\n            "
+dist/electron/126.js@136504
+    OLD "云端及所有同步设备"
+    NEW "Cloud and all synced devices"
+dist/electron/126.js@136909
+    OLD "云端及所有同步设备"
+    NEW "Cloud and all synced devices"
+dist/electron/126.js@404359
+    OLD "保存失败"
+    NEW "Save failed"
+dist/electron/126.js@659716
+    OLD "修改时间"
+    NEW "Modified time"
+dist/electron/126.js@142094
+    OLD "修改笔记数据后，需要找回旧版本的内容时，可使用历史版本功能，该功能支持记录最近30天内，至多10条历史编辑版本。"
+    NEW "If you need to restore an earlier version after editing a note, use Version History. It keeps up to 10 revisions from the last 30 days."
+dist/electron/126.js@630146
+    OLD "删除失败"
+    NEW "Delete failed"
+dist/electron/126.js@651225
+    OLD "删除失败"
+    NEW "Delete failed"
+dist/electron/126.js@69765
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/126.js@659837
+    OLD "所属文件夹"
+    NEW "Notebook"
+dist/electron/126.js@71526 [BLANCHE]
+    OLD "\\n          数据自动迁移，多设备同步\\n        "
+    NEW "\\n          Automatic data migration and multi-device sync\\n        "
+dist/electron/126.js@153539
+    OLD "正在保存"
+    NEW "Saving"
+dist/electron/126.js@155560
+    OLD "正在还原"
+    NEW "Restoring..."
+dist/electron/126.js@487877
+    OLD "此${this.text}已被加密"
+    NEW "This \\${this.text} has been encrypted"
+dist/electron/126.js@697051
+    OLD "此${this.text}已被加密"
+    NEW "This \\${this.text} has been encrypted"
+dist/electron/126.js@396819
+    OLD "目标文件夹"
+    NEW "Target folder"
+dist/electron/126.js@396885
+    OLD "目标文件夹"
+    NEW "Target folder"
+dist/electron/126.js@401130
+    OLD "目标文件夹"
+    NEW "Target folder"
+dist/electron/126.js@401186
+    OLD "目标文件夹"
+    NEW "Target folder"
+dist/electron/126.js@72894
+    OLD "确认不再提示？"
+    NEW "Don't show this again?"
+dist/electron/126.js@142768
+    OLD "重试"
+    NEW "Retry"
+dist/electron/126.js@146718
+    OLD "重试"
+    NEW "Retry"
+dist/electron/126.js@148090
+    OLD "重试"
+    NEW "Retry"
+dist/electron/126.js@152606
+    OLD "重试"
+    NEW "Retry"
+dist/electron/126.js@142216
+    OLD "（涂鸦和小V帮记/电话助手原文内容暂不支持记录编辑历史，始终按最新版本显示）"
+    NEW "(Doodles and Xiao V Assistant / Phone Assistant content do not support version history yet and always show the latest version.)"
+dist/electron/127.js@626386
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/127.js@627849
+    OLD "vivo办公套件摄像头"
+    NEW "vivo PC Suite Camera"
+dist/electron/127.js@653122
+    OLD "vivo办公套件摄像头"
+    NEW "vivo PC Suite Camera"
+dist/electron/127.js@350310
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/127.js@350336
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/127.js@350179
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/127.js@350324
+    OLD "相册"
+    NEW "Album"
+dist/electron/127.js@588642
+    OLD "\\n        开启以下设备的日程数据同步开关，实现多端日程自动同步：\\n      "
+    NEW "\\n        Turn on schedule sync for the devices below to keep schedules up to date everywhere:\\n      "
+dist/electron/127.js@119142
+    OLD "使用 USB 连接或扫码连接${this.deviceTypeDesc}与电脑。"
+    NEW "Use USB or scan the QR code to connect your \\${this.deviceTypeDesc} to the computer."
+dist/electron/127.js@465614
+    OLD "其他"
+    NEW "Other"
+dist/electron/127.js@139923
+    OLD "功能不可用，完成下述步骤即可使用"
+    NEW "This feature is unavailable. Complete the steps below to use it"
+dist/electron/127.js@141155
+    OLD "去连接"
+    NEW "Connect"
+dist/electron/127.js@565491
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/127.js@575872
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/127.js@565241
+    OLD "平板"
+    NEW "tablet"
+dist/electron/127.js@565312
+    OLD "平板"
+    NEW "tablet"
+dist/electron/127.js@565347
+    OLD "平板"
+    NEW "tablet"
+dist/electron/127.js@565381
+    OLD "平板"
+    NEW "tablet"
+dist/electron/127.js@140568
+    OLD "开启"
+    NEW "Enable "
+dist/electron/127.js@566002
+    OLD "开启手机投屏将会断开手机与电脑的键鼠协同，是否继续？"
+    NEW "Turning on Screen Mirroring will disconnect keyboard & mouse sharing. Continue?"
+dist/electron/127.js@618995
+    OLD "开启电脑端“原子笔记接力”开关。"
+    NEW "Turn on Notes handoff on your computer."
+dist/electron/127.js@617623
+    OLD "开启电脑端“图片接力”开关。"
+    NEW "Turn on \\\"Photo Relay\\\" on the computer."
+dist/electron/127.js@622405
+    OLD "开启电脑端“电话接力”开关。"
+    NEW "Turn on \\\"Call Relay\\\" on the computer."
+dist/electron/127.js@615744
+    OLD "开启电脑端“通知接力”开关。"
+    NEW "Turn on \\\"Notification Relay\\\" on the computer."
+dist/electron/127.js@624103
+    OLD "开启电脑端“验证码接力”开关。"
+    NEW "Turn on \\\"Verification Code Relay\\\" on the computer."
+dist/electron/127.js@613258
+    OLD "开启电脑端的“剪贴板”开关。"
+    NEW "Turn on the \\\"Clipboard\\\" switch on the computer."
+dist/electron/127.js@575791
+    OLD "开启键鼠协同"
+    NEW "Enable keyboard & mouse sharing"
+dist/electron/127.js@575903
+    OLD "开启键鼠协同"
+    NEW "Enable keyboard & mouse sharing"
+dist/electron/127.js@575805
+    OLD "开启键鼠协同将会关闭手机投屏、断开电脑“vivo远控PC”的远程控制连接，是否继续？"
+    NEW "Enabling keyboard & mouse sharing will turn off Screen Mirroring and disconnect \\\"vivo Remote PC\\\". Continue?"
+dist/electron/127.js@576060
+    OLD "开启键鼠协同将会关闭手机投屏、断开电脑“vivo远控PC”的远程控制连接，是否继续？"
+    NEW "Enabling keyboard & mouse sharing will turn off Screen Mirroring and disconnect \\\"vivo Remote PC\\\". Continue?"
+dist/electron/127.js@564838
+    OLD "开启键鼠协同将会断开手机与其他设备的键鼠协同，是否继续？"
+    NEW "Enabling keyboard & mouse sharing will disconnect it from other devices. Continue?"
+dist/electron/127.js@578609
+    OLD "当前手机的网络质量差，若想键鼠协同更流畅，建议手机切换质量较高的网络重新连接，或使用USB连接电脑。"
+    NEW "The phone has a poor network connection. For smoother keyboard & mouse sharing, switch the phone to a better network and reconnect, or connect it to the computer with USB."
+dist/electron/127.js@565246
+    OLD "手机"
+    NEW "phone"
+dist/electron/127.js@565307
+    OLD "手机"
+    NEW "phone"
+dist/electron/127.js@565342
+    OLD "手机"
+    NEW "phone"
+dist/electron/127.js@565376
+    OLD "手机"
+    NEW "phone"
+dist/electron/127.js@139552
+    OLD "手机接收到短信验证码时，同步展示在电脑上，并可在电脑上进行复制。"
+    NEW "When the phone receives an SMS verification code, it is shown on the computer so you can copy it there."
+dist/electron/127.js@67525
+    OLD "整机备份与恢复"
+    NEW "Full device backup & restore"
+dist/electron/127.js@67707
+    OLD "整机备份与恢复"
+    NEW "Full device backup & restore"
+dist/electron/127.js@590209
+    OLD "查看帮助"
+    NEW "View help"
+dist/electron/127.js@68208
+    OLD "正在保存"
+    NEW "Saving"
+dist/electron/127.js@579130
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/127.js@580415
+    OLD "自动备份"
+    NEW "Auto backup"
+dist/electron/127.js@139493
+    OLD "验证码接力"
+    NEW "Verification code handoff"
+dist/electron/127.js@139518
+    OLD "（不可用）"
+    NEW " (unavailable)"
+dist/electron/128.js@474715
+    OLD "全天"
+    NEW "All day"
+dist/electron/128.js@580628
+    OLD "全天"
+    NEW "All day"
+dist/electron/128.js@601983
+    OLD "全天"
+    NEW "All day"
+dist/electron/128.js@526393
+    OLD "全部项目"
+    NEW "All items"
+dist/electron/128.js@8093
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/128.js@94952
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/128.js@589092
+    OLD "在原子笔记中查看 >"
+    NEW "View in Notes >"
+dist/electron/128.js@12469
+    OLD "开启云相册，可查看云端照片和视频"
+    NEW "Turn on Cloud Album to view photos and videos in the cloud"
+dist/electron/128.js@13316
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/128.js@95170
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/128.js@470878
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/128.js@166162
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/128.js@466704
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/128.js@470724
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/128.js@576059
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/128.js@576138
+    OLD "文档"
+    NEW "Documents"
+dist/electron/128.js@95021
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/128.js@166077
+    OLD "日程"
+    NEW "Event"
+dist/electron/128.js@172024
+    OLD "日程"
+    NEW "Event"
+dist/electron/128.js@172114
+    OLD "日程"
+    NEW "Event"
+dist/electron/128.js@185104
+    OLD "日程"
+    NEW "Event"
+dist/electron/128.js@185168
+    OLD "日程"
+    NEW "Event"
+dist/electron/128.js@185305
+    OLD "日程"
+    NEW "Event"
+dist/electron/128.js@211574
+    OLD "日程"
+    NEW "Event"
+dist/electron/128.js@466752
+    OLD "日程"
+    NEW "Event"
+dist/electron/128.js@470778
+    OLD "日程"
+    NEW "Event"
+dist/electron/128.js@474105
+    OLD "日程"
+    NEW "Event"
+dist/electron/128.js@12436
+    OLD "登录并开启云相册，可查看云端图片和视频"
+    NEW "Sign in and turn on Cloud Album to view photos and videos in the cloud"
+dist/electron/128.js@11937
+    OLD "相册"
+    NEW "Album"
+dist/electron/128.js@95100
+    OLD "相册"
+    NEW "Album"
+dist/electron/128.js@470829
+    OLD "相册"
+    NEW "Album"
+dist/electron/128.js@472074
+    OLD "立即开启"
+    NEW "Turn on now"
+dist/electron/128.js@69546
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/128.js@466726
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/128.js@470678
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/128.js@575978
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/128.js@608805
+    OLD "MM月dd日 HH:mm"
+    NEW "MM/dd HH:mm"
+dist/electron/128.js@226000
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/128.js@228379
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/128.js@228405
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/128.js@475927
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/128.js@552385
+    OLD "下载"
+    NEW "Download"
+dist/electron/128.js@554042
+    OLD "下载"
+    NEW "Download"
+dist/electron/128.js@69458
+    OLD "个人"
+    NEW "Personal"
+dist/electron/128.js@587396
+    OLD "个日程"
+    NEW " events"
+dist/electron/128.js@187705
+    OLD "事件名称"
+    NEW "Event name"
+dist/electron/128.js@188850
+    OLD "事件名称"
+    NEW "Event name"
+dist/electron/128.js@95246
+    OLD "云盘"
+    NEW "Cloud Drive"
+dist/electron/128.js@570387
+    OLD "云盘"
+    NEW "Cloud Drive"
+dist/electron/128.js@145213
+    OLD "仅更改此日程"
+    NEW "Only this event"
+dist/electron/128.js@233760
+    OLD "仅更改此日程"
+    NEW "Only this event"
+dist/electron/128.js@203056
+    OLD "今天"
+    NEW "Today"
+dist/electron/128.js@228808
+    OLD "今天"
+    NEW "Today"
+dist/electron/128.js@229480
+    OLD "今天"
+    NEW "Today"
+dist/electron/128.js@229755
+    OLD "今天"
+    NEW "Today"
+dist/electron/128.js@593395
+    OLD "保留两者"
+    NEW "Keep both"
+dist/electron/128.js@69619
+    OLD "倒数日"
+    NEW "Countdown"
+dist/electron/128.js@178814
+    OLD "倒数日只能选择今天之后的日期"
+    NEW "A countdown can only be a date today or later"
+dist/electron/128.js@593151
+    OLD "停止"
+    NEW "Stop"
+dist/electron/128.js@593761
+    OLD "停止传输"
+    NEW "Stop transfer"
+dist/electron/128.js@32767
+    OLD "全部"
+    NEW "All"
+dist/electron/128.js@515115
+    OLD "全部笔记"
+    NEW "All notes"
+dist/electron/128.js@578704
+    OLD "关闭"
+    NEW "Close"
+dist/electron/128.js@588432
+    OLD "关闭"
+    NEW "Close"
+dist/electron/128.js@187078
+    OLD "准备做什么？"
+    NEW "What's on your mind?"
+dist/electron/128.js@188903
+    OLD "准备做什么？"
+    NEW "What's on your mind?"
+dist/electron/128.js@173905
+    OLD "创建异常"
+    NEW "Could not create"
+dist/electron/128.js@585772
+    OLD "创建更多日程"
+    NEW "Create more events"
+dist/electron/128.js@598680
+    OLD "创建更多日程"
+    NEW "Create more events"
+dist/electron/128.js@588151
+    OLD "删除"
+    NEW "Delete"
+dist/electron/128.js@24576 [BLANCHE]
+    OLD "\\n                        加入会议\\n                    "
+    NEW "\\n                        Join meeting\\n                    "
+dist/electron/128.js@590051
+    OLD "加入会议"
+    NEW "Join meeting"
+dist/electron/128.js@145201
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@184394
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@233748
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@286413
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@291637
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@292539
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@378093
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@388474
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@552401
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@554058
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@594923
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@600852
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/128.js@472103
+    OLD "同步中"
+    NEW "Syncing"
+dist/electron/128.js@593743
+    OLD "后台传输"
+    NEW "Transfer in background"
+dist/electron/128.js@184406
+    OLD "启用"
+    NEW "Enable"
+dist/electron/128.js@184349
+    OLD "启用日程类型"
+    NEW "Enable calendar type"
+dist/electron/128.js@228880 [BLANCHE]
+    OLD " 周"
+    NEW " Week"
+dist/electron/128.js@203052
+    OLD "周"
+    NEW "Week"
+dist/electron/128.js@211466
+    OLD "周"
+    NEW "Week"
+dist/electron/128.js@262036
+    OLD "图片"
+    NEW "Image"
+dist/electron/128.js@466679
+    OLD "图片和视频"
+    NEW "Photos and videos"
+dist/electron/128.js@590234
+    OLD "备注"
+    NEW "Note"
+dist/electron/128.js@261932
+    OLD "复制"
+    NEW "Copy"
+dist/electron/128.js@579048
+    OLD "完成"
+    NEW "Done"
+dist/electron/128.js@601025
+    OLD "完成"
+    NEW "Done"
+dist/electron/128.js@261755
+    OLD "导入"
+    NEW "Import"
+dist/electron/128.js@276158
+    OLD "导入"
+    NEW "Import"
+dist/electron/128.js@276192
+    OLD "导入"
+    NEW "Import"
+dist/electron/128.js@545473
+    OLD "导入中..."
+    NEW "Importing..."
+dist/electron/128.js@13432
+    OLD "导入电脑音频"
+    NEW "Import audio from this computer"
+dist/electron/128.js@187433
+    OLD "寿星名字"
+    NEW "Name of the person celebrating"
+dist/electron/128.js@188778
+    OLD "寿星名字"
+    NEW "Name of the person celebrating"
+dist/electron/128.js@69518
+    OLD "工作"
+    NEW "Work"
+dist/electron/128.js@180217
+    OLD "已达到最大字符限制"
+    NEW "Maximum character limit reached"
+dist/electron/128.js@218270
+    OLD "已达到最大字符限制"
+    NEW "Maximum character limit reached"
+dist/electron/128.js@77703
+    OLD "已过期"
+    NEW "Expired"
+dist/electron/128.js@377843
+    OLD "平板"
+    NEW "tablet"
+dist/electron/128.js@377914
+    OLD "平板"
+    NEW "tablet"
+dist/electron/128.js@377949
+    OLD "平板"
+    NEW "tablet"
+dist/electron/128.js@377983
+    OLD "平板"
+    NEW "tablet"
+dist/electron/128.js@211264
+    OLD "年"
+    NEW "Year"
+dist/electron/128.js@592910
+    OLD "应用全部"
+    NEW "Apply to all"
+dist/electron/128.js@95770
+    OLD "应用列表"
+    NEW "App list"
+dist/electron/128.js@569677
+    OLD "应用列表"
+    NEW "App list"
+dist/electron/128.js@472003
+    OLD "开启同步，XX云端YY"
+    NEW "Turn on sync to view cloud YY"
+dist/electron/128.js@471939
+    OLD "开启同步，查看、编辑、管理云端待办"
+    NEW "Turn on sync to view, edit and manage cloud to-dos"
+dist/electron/128.js@471888
+    OLD "开启同步，查看、编辑、管理云端日程和待办"
+    NEW "Turn on sync to view, edit and manage cloud calendar events and to-dos"
+dist/electron/128.js@378604
+    OLD "开启手机投屏将会断开手机与电脑的键鼠协同，是否继续？"
+    NEW "Turning on Screen Mirroring will disconnect keyboard & mouse sharing. Continue?"
+dist/electron/128.js@405118
+    OLD "开启移动设备的蓝牙和 WLAN 开关，并保持解锁亮屏；"
+    NEW "Turn on Bluetooth and WLAN on your device, and keep it unlocked with the screen on;"
+dist/electron/128.js@388393
+    OLD "开启键鼠协同"
+    NEW "Enable keyboard & mouse sharing"
+dist/electron/128.js@388505
+    OLD "开启键鼠协同"
+    NEW "Enable keyboard & mouse sharing"
+dist/electron/128.js@388407
+    OLD "开启键鼠协同将会关闭手机投屏、断开电脑“vivo远控PC”的远程控制连接，是否继续？"
+    NEW "Enabling keyboard & mouse sharing will turn off Screen Mirroring and disconnect \\\"vivo Remote PC\\\". Continue?"
+dist/electron/128.js@388662
+    OLD "开启键鼠协同将会关闭手机投屏、断开电脑“vivo远控PC”的远程控制连接，是否继续？"
+    NEW "Enabling keyboard & mouse sharing will turn off Screen Mirroring and disconnect \\\"vivo Remote PC\\\". Continue?"
+dist/electron/128.js@377440
+    OLD "开启键鼠协同将会断开手机与其他设备的键鼠协同，是否继续？"
+    NEW "Enabling keyboard & mouse sharing will disconnect it from other devices. Continue?"
+dist/electron/128.js@580926
+    OLD "开始"
+    NEW "Start"
+dist/electron/128.js@602226
+    OLD "开始"
+    NEW "Start"
+dist/electron/128.js@391211
+    OLD "当前手机的网络质量差，若想键鼠协同更流畅，建议手机切换质量较高的网络重新连接，或使用USB连接电脑。"
+    NEW "The phone has a poor network connection. For smoother keyboard & mouse sharing, switch the phone to a better network and reconnect, or connect it to the computer with USB."
+dist/electron/128.js@472230
+    OLD "录音"
+    NEW "recordings"
+dist/electron/128.js@466776
+    OLD "录音文件"
+    NEW "Audio files"
+dist/electron/128.js@471769
+    OLD "录音文件"
+    NEW "Audio files"
+dist/electron/128.js@471988
+    OLD "录音文件"
+    NEW "Audio files"
+dist/electron/128.js@192599
+    OLD "待办创建失败"
+    NEW "Could not create the to-do"
+dist/electron/128.js@192092
+    OLD "待办已创建"
+    NEW "To-do created"
+dist/electron/128.js@502159
+    OLD "待办已更新"
+    NEW "To-do updated"
+dist/electron/128.js@504187
+    OLD "待办已更新"
+    NEW "To-do updated"
+dist/electron/128.js@491492
+    OLD "待办暂不支持在移动设备网页查看"
+    NEW "To-dos cannot be viewed on the mobile web"
+dist/electron/128.js@615709
+    OLD "待添加类型"
+    NEW "Type to add"
+dist/electron/128.js@12403
+    OLD "您也可从电脑中导入图片和视频至相册"
+    NEW "You can also import photos and videos from this computer"
+dist/electron/128.js@110896
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/128.js@377848
+    OLD "手机"
+    NEW "phone"
+dist/electron/128.js@377909
+    OLD "手机"
+    NEW "phone"
+dist/electron/128.js@377944
+    OLD "手机"
+    NEW "phone"
+dist/electron/128.js@377978
+    OLD "手机"
+    NEW "phone"
+dist/electron/128.js@446501
+    OLD "手机投屏"
+    NEW "Phone Mirroring"
+dist/electron/128.js@582498
+    OLD "提醒"
+    NEW "Reminders"
+dist/electron/128.js@603151
+    OLD "提醒"
+    NEW "Reminders"
+dist/electron/128.js@474208
+    OLD "新建日程"
+    NEW "New event"
+dist/electron/128.js@472272
+    OLD "无YY"
+    NEW "No YY"
+dist/electron/128.js@472264
+    OLD "无待办YY"
+    NEW "No to-dos in YY"
+dist/electron/128.js@472193
+    OLD "无待办内容"
+    NEW "No to-dos"
+dist/electron/128.js@589850
+    OLD "无提醒"
+    NEW "No reminder"
+dist/electron/128.js@472157
+    OLD "无日程内容"
+    NEW "No events"
+dist/electron/128.js@182515
+    OLD "无标题"
+    NEW "Untitled"
+dist/electron/128.js@183943
+    OLD "日历类型必填"
+    NEW "Calendar type is required"
+dist/electron/128.js@184216
+    OLD "日历类型必填"
+    NEW "Calendar type is required"
+dist/electron/128.js@236361
+    OLD "日程删除成功"
+    NEW "Event deleted"
+dist/electron/128.js@462006
+    OLD "日程暂不支持在移动设备网页查看"
+    NEW "Events cannot be viewed on the mobile web"
+dist/electron/128.js@582793
+    OLD "时区"
+    NEW "Time zone"
+dist/electron/128.js@603433
+    OLD "时区"
+    NEW "Time zone"
+dist/electron/128.js@14070
+    OLD "更多云服务"
+    NEW "More cloud services"
+dist/electron/128.js@145279
+    OLD "更改所有日程"
+    NEW "Change all events"
+dist/electron/128.js@233826
+    OLD "更改所有日程"
+    NEW "Change all events"
+dist/electron/128.js@593276
+    OLD "替换"
+    NEW "Replace"
+dist/electron/128.js@209650
+    OLD "最多添加10个类型"
+    NEW "You can add up to 10 types"
+dist/electron/128.js@147538
+    OLD "月"
+    NEW "Month"
+dist/electron/128.js@211364
+    OLD "月"
+    NEW "Month"
+dist/electron/128.js@554236
+    OLD "未命名音频"
+    NEW "Untitled recording"
+dist/electron/128.js@554362
+    OLD "未找到云端音频信息"
+    NEW "No cloud recording info found"
+dist/electron/128.js@79702
+    OLD "未知异常"
+    NEW "Unknown error"
+dist/electron/128.js@80403
+    OLD "未知错误"
+    NEW "Unknown error"
+dist/electron/128.js@95579
+    OLD "查找设备"
+    NEW "Find device"
+dist/electron/128.js@570511
+    OLD "查找设备"
+    NEW "Find device"
+dist/electron/128.js@471628
+    OLD "查看"
+    NEW "View"
+dist/electron/128.js@471850
+    OLD "查看"
+    NEW "View"
+dist/electron/128.js@266718 [OUVERT]
+    OLD "正在导入"
+    NEW "Importing"
+dist/electron/128.js@273729 [OUVERT]
+    OLD "正在导入"
+    NEW "Importing"
+dist/electron/128.js@264790 [OUVERT]
+    OLD "正在导入"
+    NEW "Importing"
+dist/electron/128.js@95325
+    OLD "浏览器"
+    NEW "Browser"
+dist/electron/128.js@95946
+    OLD "浏览器"
+    NEW "Browser"
+dist/electron/128.js@569831
+    OLD "浏览器"
+    NEW "Browser"
+dist/electron/128.js@570118
+    OLD "浏览器"
+    NEW "Browser"
+dist/electron/128.js@69486
+    OLD "生日"
+    NEW "Birthday"
+dist/electron/128.js@471784
+    OLD "登录并开启同步，XX云端YY"
+    NEW "Sign in and turn on sync to view cloud YY"
+dist/electron/128.js@471717
+    OLD "登录并开启同步，查看、编辑、管理云端待办"
+    NEW "Sign in and turn on sync to view, edit and manage cloud to-dos"
+dist/electron/128.js@471666
+    OLD "登录并开启同步，查看、编辑、管理云端日程"
+    NEW "Sign in and turn on sync to view, edit and manage cloud calendar events"
+dist/electron/128.js@580900
+    OLD "目标日"
+    NEW "Target date"
+dist/electron/128.js@391732
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/128.js@462069
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/128.js@491555
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/128.js@616837
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/128.js@286341
+    OLD "确定"
+    NEW "OK"
+dist/electron/128.js@292561
+    OLD "确定"
+    NEW "OK"
+dist/electron/128.js@261912
+    OLD "移动"
+    NEW "Move"
+dist/electron/128.js@404933
+    OLD "移动设备与电脑登录相同的 vivo 账号；"
+    NEW "Devices signed in to the same vivo account;"
+dist/electron/128.js@21456
+    OLD "移动设备如何与电脑自动连接？"
+    NEW "How do mobile devices connect to the computer automatically?"
+dist/electron/128.js@590831
+    OLD "类型"
+    NEW "Type"
+dist/electron/128.js@187575
+    OLD "纪念内容"
+    NEW "What is being commemorated"
+dist/electron/128.js@188814
+    OLD "纪念内容"
+    NEW "What is being commemorated"
+dist/electron/128.js@69582
+    OLD "纪念日"
+    NEW "Anniversary"
+dist/electron/128.js@178735
+    OLD "纪念日只能选择今天之前的日期"
+    NEW "An anniversary can only be a date today or earlier"
+dist/electron/128.js@581546
+    OLD "结束"
+    NEW "End"
+dist/electron/128.js@602686
+    OLD "结束"
+    NEW "End"
+dist/electron/128.js@179281
+    OLD "结束时间不能小于开始时间"
+    NEW "The end time cannot be earlier than the start time"
+dist/electron/128.js@587925
+    OLD "编辑"
+    NEW "Edit"
+dist/electron/128.js@145178
+    OLD "编辑日程"
+    NEW "Edit event"
+dist/electron/128.js@233725
+    OLD "编辑日程"
+    NEW "Edit event"
+dist/electron/128.js@578537
+    OLD "编辑日程"
+    NEW "Edit event"
+dist/electron/128.js@600906
+    OLD "编辑日程"
+    NEW "Edit event"
+dist/electron/128.js@95404
+    OLD "联系人"
+    NEW "Contacts"
+dist/electron/128.js@569987
+    OLD "联系人"
+    NEW "Contacts"
+dist/electron/128.js@393017
+    OLD "自动备份"
+    NEW "Auto backup"
+dist/electron/128.js@262031
+    OLD "视频"
+    NEW "Video"
+dist/electron/128.js@411733
+    OLD "设备互联"
+    NEW "Device interconnection"
+dist/electron/128.js@405216
+    OLD "设备接入同一 WLAN 网络，并保持网络稳定。"
+    NEW "Make sure the devices are on the same WLAN network with a stable connection."
+dist/electron/128.js@599841
+    OLD "设置日程类型"
+    NEW "Set calendar type"
+dist/electron/128.js@171338
+    OLD "试着输入“明晚7点聚餐”"
+    NEW "Try typing “Dinner at 7 tomorrow night”"
+dist/electron/128.js@187063
+    OLD "试着输入“明晚7点聚餐”"
+    NEW "Try typing “Dinner at 7 tomorrow night”"
+dist/electron/128.js@188888
+    OLD "试着输入“明晚7点聚餐”"
+    NEW "Try typing “Dinner at 7 tomorrow night”"
+dist/electron/128.js@273630
+    OLD "该相册不支持拖动导入"
+    NEW "You cannot drag files into this album"
+dist/electron/128.js@462024
+    OLD "请前往电脑网页查看"
+    NEW "Open the desktop app to view this"
+dist/electron/128.js@491510
+    OLD "请前往电脑网页查看"
+    NEW "Open the desktop app to view this"
+dist/electron/128.js@616792
+    OLD "请前往电脑网页查看"
+    NEW "Open the desktop app to view this"
+dist/electron/128.js@462346
+    OLD "超出日历显示范围"
+    NEW "Outside the calendar range"
+dist/electron/128.js@583521
+    OLD "输入地点"
+    NEW "Enter location"
+dist/electron/128.js@604098
+    OLD "输入地点"
+    NEW "Enter location"
+dist/electron/128.js@584395
+    OLD "输入备注"
+    NEW "Enter note"
+dist/electron/128.js@605025
+    OLD "输入备注"
+    NEW "Enter note"
+dist/electron/128.js@184358
+    OLD "选定的日程类型已被隐藏，确定重新启用吗？"
+    NEW "That calendar type is hidden. Enable it again?"
+dist/electron/128.js@595016
+    OLD "重试"
+    NEW "Retry"
+dist/electron/128.js@95486
+    OLD "骚扰拦截"
+    NEW "Call blocking"
+dist/electron/128.js@96026
+    OLD "骚扰拦截"
+    NEW "Call blocking"
+dist/electron/128.js@569907
+    OLD "骚扰拦截"
+    NEW "Call blocking"
+dist/electron/128.js@570248
+    OLD "骚扰拦截"
+    NEW "Call blocking"
+dist/electron/129.js@186406
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/129.js@275385
+    OLD "原子笔记-待办"
+    NEW "Notes - To-dos"
+dist/electron/129.js@275538
+    OLD "原子笔记-文档"
+    NEW "Notes - Documents"
+dist/electron/129.js@275236
+    OLD "原子笔记-笔记"
+    NEW "Notes - Notes"
+dist/electron/129.js@186549
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/129.js@290919
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/129.js@2217
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/129.js@186468
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/129.js@2306
+    OLD "文档"
+    NEW "Documents"
+dist/electron/129.js@52987
+    OLD "文档"
+    NEW "Documents"
+dist/electron/129.js@208119
+    OLD "无搜索结果"
+    NEW "No results"
+dist/electron/129.js@318864
+    OLD "无搜索结果"
+    NEW "No results"
+dist/electron/129.js@42296
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/129.js@186436
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/129.js@59572
+    OLD "最近删除"
+    NEW "Recently deleted"
+dist/electron/129.js@41720
+    OLD "相册"
+    NEW "Album"
+dist/electron/129.js@186520
+    OLD "相册"
+    NEW "Album"
+dist/electron/129.js@2132
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/129.js@57188
+    OLD "AI识别"
+    NEW "AI recognized"
+dist/electron/129.js@224461
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/129.js@239168
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/129.js@268787
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/129.js@268818
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/129.js@268929
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/129.js@269579
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/129.js@269652
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/129.js@272567
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/129.js@331847
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/129.js@224475
+    OLD "YYYY年MM月DD日 HH:mm"
+    NEW "YYYY/MM/DD HH:mm"
+dist/electron/129.js@186368
+    OLD "全部"
+    NEW "All"
+dist/electron/129.js@70081
+    OLD "剪切成功"
+    NEW "Cut"
+dist/electron/129.js@25702
+    OLD "加载中"
+    NEW "Loading..."
+dist/electron/129.js@30450
+    OLD "加载中"
+    NEW "Loading..."
+dist/electron/129.js@57072
+    OLD "包含智能识别"
+    NEW "Includes smart recognition"
+dist/electron/129.js@2626
+    OLD "图片"
+    NEW "Image"
+dist/electron/129.js@69338
+    OLD "复制成功"
+    NEW "Copied"
+dist/electron/129.js@62156
+    OLD "已过期"
+    NEW "Expired"
+dist/electron/129.js@299297
+    OLD "录音已不存在"
+    NEW "This recording no longer exists"
+dist/electron/129.js@302366
+    OLD "录音已不存在"
+    NEW "This recording no longer exists"
+dist/electron/129.js@58517
+    OLD "录音文件"
+    NEW "Audio files"
+dist/electron/129.js@70104
+    OLD "所选文档未在设备上未找到，无法剪切"
+    NEW "The selected document was not found on the device, so it cannot be cut"
+dist/electron/129.js@69361
+    OLD "所选文档未在设备上未找到，无法复制"
+    NEW "The selected document was not found on the device, so it cannot be copied"
+dist/electron/129.js@2398
+    OLD "提醒"
+    NEW "Reminders"
+dist/electron/129.js@53622
+    OLD "收起"
+    NEW "Hide"
+dist/electron/129.js@108368
+    OLD "新建Excel"
+    NEW "New Excel"
+dist/electron/129.js@147251
+    OLD "新建PPT"
+    NEW "New PPT"
+dist/electron/129.js@94217
+    OLD "新建Word"
+    NEW "New Word"
+dist/electron/129.js@28775
+    OLD "日历 - 待办"
+    NEW "Calendar - To-do"
+dist/electron/129.js@24802
+    OLD "最多查看到 1901 年的日程"
+    NEW "Events are available from 1901"
+dist/electron/129.js@25420
+    OLD "最多查看到 2099 年的日程"
+    NEW "Events are available up to 2099"
+dist/electron/129.js@41222
+    OLD "查看全部\\n      "
+    NEW "View all\\n      "
+dist/electron/129.js@183088
+    OLD "查看失败, 日程已不存在"
+    NEW "Can't open this event: it no longer exists"
+dist/electron/129.js@232237
+    OLD "查看失败，文档已不存在"
+    NEW "Can't open this document: it no longer exists"
+dist/electron/129.js@246747
+    OLD "查看失败，照片已不存在"
+    NEW "Can't open it: the photo no longer exists"
+dist/electron/129.js@260518
+    OLD "查看失败，照片已不存在"
+    NEW "Can't open it: the photo no longer exists"
+dist/electron/129.js@2992
+    OLD "视频"
+    NEW "Video"
+dist/electron/129.js@108404
+    OLD "输入Excel名称"
+    NEW "Enter an Excel file name"
+dist/electron/129.js@147271
+    OLD "输入PPT名称"
+    NEW "Enter a PPT file name"
+dist/electron/129.js@94252
+    OLD "输入Word名称"
+    NEW "Enter a Word file name"
+dist/electron/129.js@3196
+    OLD "音频"
+    NEW "Audio"
+dist/electron/130.js@192220
+    OLD "全天"
+    NEW "All day"
+dist/electron/130.js@207909
+    OLD "全天"
+    NEW "All day"
+dist/electron/130.js@200684
+    OLD "在原子笔记中查看 >"
+    NEW "View in Notes >"
+dist/electron/130.js@31881
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/130.js@40365
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/130.js@50820
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/130.js@170906
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/130.js@188990
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/130.js@189069
+    OLD "文档"
+    NEW "Documents"
+dist/electron/130.js@41252
+    OLD "无搜索结果"
+    NEW "No results"
+dist/electron/130.js@42352
+    OLD "无搜索结果"
+    NEW "No results"
+dist/electron/130.js@142157
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/130.js@170800
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/130.js@173616
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/130.js@180968
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/130.js@40218
+    OLD "日程"
+    NEW "Event"
+dist/electron/130.js@50735
+    OLD "日程"
+    NEW "Event"
+dist/electron/130.js@56682
+    OLD "日程"
+    NEW "Event"
+dist/electron/130.js@56772
+    OLD "日程"
+    NEW "Event"
+dist/electron/130.js@69762
+    OLD "日程"
+    NEW "Event"
+dist/electron/130.js@69826
+    OLD "日程"
+    NEW "Event"
+dist/electron/130.js@69963
+    OLD "日程"
+    NEW "Event"
+dist/electron/130.js@96232
+    OLD "日程"
+    NEW "Event"
+dist/electron/130.js@35610
+    OLD "日程与待办管理"
+    NEW "Schedules and to-dos"
+dist/electron/130.js@39220
+    OLD "日程与待办管理"
+    NEW "Schedules and to-dos"
+dist/electron/130.js@173720
+    OLD "日程与待办管理"
+    NEW "Schedules and to-dos"
+dist/electron/130.js@181072
+    OLD "日程与待办管理"
+    NEW "Schedules and to-dos"
+dist/electron/130.js@45255
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/130.js@188909
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/130.js@30333
+    OLD "\\n          开启以下设备的日程数据同步开关，实现多端日程自动同步：\\n        "
+    NEW "\\n          Turn on schedule sync for the devices below to keep schedules up to date everywhere:\\n        "
+dist/electron/130.js@110658
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/130.js@113037
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/130.js@113063
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/130.js@156131
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/130.js@159862
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/130.js@161220
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/130.js@156145
+    OLD "YYYY年MM月DD日 HH:mm"
+    NEW "YYYY/MM/DD HH:mm"
+dist/electron/130.js@45167
+    OLD "个人"
+    NEW "Personal"
+dist/electron/130.js@198988
+    OLD "个日程"
+    NEW " events"
+dist/electron/130.js@40980
+    OLD "之前的日程\\n          "
+    NEW "Previous events\\n          "
+dist/electron/130.js@41903
+    OLD "之后的日程\\n          "
+    NEW "Next events\\n          "
+dist/electron/130.js@72363
+    OLD "事件名称"
+    NEW "Event name"
+dist/electron/130.js@73508
+    OLD "事件名称"
+    NEW "Event name"
+dist/electron/130.js@118418
+    OLD "仅更改此日程"
+    NEW "Only this event"
+dist/electron/130.js@34322
+    OLD "今天"
+    NEW "Today"
+dist/electron/130.js@38811
+    OLD "今天"
+    NEW "Today"
+dist/electron/130.js@87714
+    OLD "今天"
+    NEW "Today"
+dist/electron/130.js@113466
+    OLD "今天"
+    NEW "Today"
+dist/electron/130.js@114138
+    OLD "今天"
+    NEW "Today"
+dist/electron/130.js@114413
+    OLD "今天"
+    NEW "Today"
+dist/electron/130.js@29809
+    OLD "今日无日程"
+    NEW "No events today"
+dist/electron/130.js@45328
+    OLD "倒数日"
+    NEW "Countdown"
+dist/electron/130.js@63472
+    OLD "倒数日只能选择今天之后的日期"
+    NEW "A countdown can only be a date today or later"
+dist/electron/130.js@190296
+    OLD "关闭"
+    NEW "Close"
+dist/electron/130.js@200024
+    OLD "关闭"
+    NEW "Close"
+dist/electron/130.js@20669
+    OLD "农历"
+    NEW "Lunar"
+dist/electron/130.js@71736
+    OLD "准备做什么？"
+    NEW "What's on your mind?"
+dist/electron/130.js@73561
+    OLD "准备做什么？"
+    NEW "What's on your mind?"
+dist/electron/130.js@58563
+    OLD "创建异常"
+    NEW "Could not create"
+dist/electron/130.js@197364
+    OLD "创建更多日程"
+    NEW "Create more events"
+dist/electron/130.js@204606
+    OLD "创建更多日程"
+    NEW "Create more events"
+dist/electron/130.js@26393
+    OLD "删除"
+    NEW "Delete"
+dist/electron/130.js@199743
+    OLD "删除"
+    NEW "Delete"
+dist/electron/130.js@201643
+    OLD "加入会议"
+    NEW "Join meeting"
+dist/electron/130.js@22869
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/130.js@69052
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/130.js@118406
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/130.js@149650
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/130.js@206778
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/130.js@69064
+    OLD "启用"
+    NEW "Enable"
+dist/electron/130.js@69007
+    OLD "启用日程类型"
+    NEW "Enable calendar type"
+dist/electron/130.js@113538 [BLANCHE]
+    OLD " 周"
+    NEW " Week"
+dist/electron/130.js@87710
+    OLD "周"
+    NEW "Week"
+dist/electron/130.js@96124
+    OLD "周"
+    NEW "Week"
+dist/electron/130.js@201826
+    OLD "备注"
+    NEW "Note"
+dist/electron/130.js@26567
+    OLD "复制"
+    NEW "Copy"
+dist/electron/130.js@149662
+    OLD "复制"
+    NEW "Copy"
+dist/electron/130.js@149602
+    OLD "复制的日程是重复日程，此次操作将只复制所选择的这一个日程。"
+    NEW "The event you are copying repeats, so only this occurrence will be copied."
+dist/electron/130.js@190640
+    OLD "完成"
+    NEW "Done"
+dist/electron/130.js@206951
+    OLD "完成"
+    NEW "Done"
+dist/electron/130.js@72091
+    OLD "寿星名字"
+    NEW "Name of the person celebrating"
+dist/electron/130.js@73436
+    OLD "寿星名字"
+    NEW "Name of the person celebrating"
+dist/electron/130.js@45227
+    OLD "工作"
+    NEW "Work"
+dist/electron/130.js@98859
+    OLD "工作日(周一至周五)"
+    NEW "Weekdays (Mon-Fri)"
+dist/electron/130.js@110399
+    OLD "工作日(周一至周五)"
+    NEW "Weekdays (Mon-Fri)"
+dist/electron/130.js@64875
+    OLD "已达到最大字符限制"
+    NEW "Maximum character limit reached"
+dist/electron/130.js@102928
+    OLD "已达到最大字符限制"
+    NEW "Maximum character limit reached"
+dist/electron/130.js@21393
+    OLD "年"
+    NEW "Year"
+dist/electron/130.js@95922
+    OLD "年"
+    NEW "Year"
+dist/electron/130.js@192518
+    OLD "开始"
+    NEW "Start"
+dist/electron/130.js@208152
+    OLD "开始"
+    NEW "Start"
+dist/electron/130.js@77257
+    OLD "待办创建失败"
+    NEW "Could not create the to-do"
+dist/electron/130.js@76750
+    OLD "待办已创建"
+    NEW "To-do created"
+dist/electron/130.js@214642
+    OLD "待添加类型"
+    NEW "Type to add"
+dist/electron/130.js@35436
+    OLD "排序"
+    NEW "Sort"
+dist/electron/130.js@194090
+    OLD "提醒"
+    NEW "Reminders"
+dist/electron/130.js@209077
+    OLD "提醒"
+    NEW "Reminders"
+dist/electron/130.js@44496
+    OLD "搜索日程"
+    NEW "Search events"
+dist/electron/130.js@27370
+    OLD "搜索日程或待办"
+    NEW "Search schedules and to-dos"
+dist/electron/130.js@34574
+    OLD "新建"
+    NEW "New"
+dist/electron/130.js@38984
+    OLD "新建日程"
+    NEW "New event"
+dist/electron/130.js@201442
+    OLD "无提醒"
+    NEW "No reminder"
+dist/electron/130.js@67173
+    OLD "无标题"
+    NEW "Untitled"
+dist/electron/130.js@14562
+    OLD "日历最大值为2099年"
+    NEW "The calendar cannot go beyond 2099"
+dist/electron/130.js@14576
+    OLD "日历最小值为1901年"
+    NEW "The calendar cannot go before 1901"
+dist/electron/130.js@68601
+    OLD "日历类型必填"
+    NEW "Calendar type is required"
+dist/electron/130.js@68874
+    OLD "日历类型必填"
+    NEW "Calendar type is required"
+dist/electron/130.js@36202
+    OLD "日期"
+    NEW "Date"
+dist/electron/130.js@20452
+    OLD "日期跳转"
+    NEW "Go to date"
+dist/electron/130.js@121019
+    OLD "日程删除成功"
+    NEW "Event deleted"
+dist/electron/130.js@194385
+    OLD "时区"
+    NEW "Time zone"
+dist/electron/130.js@209359
+    OLD "时区"
+    NEW "Time zone"
+dist/electron/130.js@35962
+    OLD "显示已完成待办"
+    NEW "Show completed to-dos"
+dist/electron/130.js@118484
+    OLD "更改所有日程"
+    NEW "Change all events"
+dist/electron/130.js@40740
+    OLD "最多查看到1901年的日程"
+    NEW "Events are available from 1901"
+dist/electron/130.js@41659
+    OLD "最多查看到2099年的日程"
+    NEW "Events are available up to 2099"
+dist/electron/130.js@94308
+    OLD "最多添加10个类型"
+    NEW "You can add up to 10 types"
+dist/electron/130.js@21886
+    OLD "月"
+    NEW "Month"
+dist/electron/130.js@96022
+    OLD "月"
+    NEW "Month"
+dist/electron/130.js@40909 [BLANCHE]
+    OLD "\\n            查看"
+    NEW "\\n            View"
+dist/electron/130.js@41831 [BLANCHE]
+    OLD "\\n            查看"
+    NEW "\\n            View"
+dist/electron/130.js@122997
+    OLD "查看失败, 日程已不存在"
+    NEW "Can't open this event: it no longer exists"
+dist/electron/130.js@30719
+    OLD "查看帮助"
+    NEW "View help"
+dist/electron/130.js@98815
+    OLD "每月底(公历每月最后一日)"
+    NEW "End of month (last day of each Gregorian month)"
+dist/electron/130.js@110355
+    OLD "每月底(公历每月最后一日)"
+    NEW "End of month (last day of each Gregorian month)"
+dist/electron/130.js@45195
+    OLD "生日"
+    NEW "Birthday"
+dist/electron/130.js@192492
+    OLD "目标日"
+    NEW "Target date"
+dist/electron/130.js@22975
+    OLD "确定"
+    NEW "OK"
+dist/electron/130.js@202423
+    OLD "类型"
+    NEW "Type"
+dist/electron/130.js@26716
+    OLD "粘贴"
+    NEW "Paste"
+dist/electron/130.js@72233
+    OLD "纪念内容"
+    NEW "What is being commemorated"
+dist/electron/130.js@73472
+    OLD "纪念内容"
+    NEW "What is being commemorated"
+dist/electron/130.js@45291
+    OLD "纪念日"
+    NEW "Anniversary"
+dist/electron/130.js@63393
+    OLD "纪念日只能选择今天之前的日期"
+    NEW "An anniversary can only be a date today or earlier"
+dist/electron/130.js@193138
+    OLD "结束"
+    NEW "End"
+dist/electron/130.js@208612
+    OLD "结束"
+    NEW "End"
+dist/electron/130.js@63939
+    OLD "结束时间不能小于开始时间"
+    NEW "The end time cannot be earlier than the start time"
+dist/electron/130.js@26186
+    OLD "编辑"
+    NEW "Edit"
+dist/electron/130.js@199517
+    OLD "编辑"
+    NEW "Edit"
+dist/electron/130.js@118383
+    OLD "编辑日程"
+    NEW "Edit event"
+dist/electron/130.js@190129
+    OLD "编辑日程"
+    NEW "Edit event"
+dist/electron/130.js@206832
+    OLD "编辑日程"
+    NEW "Edit event"
+dist/electron/130.js@205767
+    OLD "设置日程类型"
+    NEW "Set calendar type"
+dist/electron/130.js@55996
+    OLD "试着输入“明晚7点聚餐”"
+    NEW "Try typing “Dinner at 7 tomorrow night”"
+dist/electron/130.js@71721
+    OLD "试着输入“明晚7点聚餐”"
+    NEW "Try typing “Dinner at 7 tomorrow night”"
+dist/electron/130.js@73546
+    OLD "试着输入“明晚7点聚餐”"
+    NEW "Try typing “Dinner at 7 tomorrow night”"
+dist/electron/130.js@195113
+    OLD "输入地点"
+    NEW "Enter location"
+dist/electron/130.js@210024
+    OLD "输入地点"
+    NEW "Enter location"
+dist/electron/130.js@195987
+    OLD "输入备注"
+    NEW "Enter note"
+dist/electron/130.js@210951
+    OLD "输入备注"
+    NEW "Enter note"
+dist/electron/130.js@69016
+    OLD "选定的日程类型已被隐藏，确定重新启用吗？"
+    NEW "That calendar type is hidden. Enable it again?"
+dist/electron/130.js@39433
+    OLD "选择日期"
+    NEW "Select date"
+dist/electron/130.js@35972
+    OLD "隐藏已完成待办"
+    NEW "Hide completed to-dos"
+dist/electron/131.js@202299
+    OLD "文档"
+    NEW "Documents"
+dist/electron/131.js@173133
+    OLD "一次最多只可同时拖拽20个文件进入！"
+    NEW "You can drag and drop up to 20 files at a time!"
+dist/electron/131.js@157641
+    OLD "下载文档"
+    NEW "Download document"
+dist/electron/131.js@158750
+    OLD "下载文档"
+    NEW "Download document"
+dist/electron/131.js@204347
+    OLD "云空间不足"
+    NEW "Not enough cloud space"
+dist/electron/131.js@206328
+    OLD "云空间不足"
+    NEW "Not enough cloud space"
+dist/electron/131.js@204360
+    OLD "云空间不足，无法完成本次数据同步。"
+    NEW "Not enough cloud space to complete this sync."
+dist/electron/131.js@36847
+    OLD "修改时间"
+    NEW "Modified time"
+dist/electron/131.js@153067
+    OLD "全部"
+    NEW "All"
+dist/electron/131.js@65704
+    OLD "剪切成功"
+    NEW "Cut"
+dist/electron/131.js@37969
+    OLD "同步完成"
+    NEW "Sync complete"
+dist/electron/131.js@64961
+    OLD "复制成功"
+    NEW "Copied"
+dist/electron/131.js@158023
+    OLD "复制文档"
+    NEW "Copy document"
+dist/electron/131.js@151722
+    OLD "导入本地文件"
+    NEW "Import local file"
+dist/electron/131.js@197518
+    OLD "已重命名"
+    NEW "Renamed"
+dist/electron/131.js@204651
+    OLD "您最多只能同时打开3个文档，请先关闭当前已打开文档页面。"
+    NEW "You can open up to 3 documents at a time. Close one of the open documents first."
+dist/electron/131.js@65727
+    OLD "所选文档未在设备上未找到，无法剪切"
+    NEW "The selected document was not found on the device, so it cannot be cut"
+dist/electron/131.js@64984
+    OLD "所选文档未在设备上未找到，无法复制"
+    NEW "The selected document was not found on the device, so it cannot be copied"
+dist/electron/131.js@157814
+    OLD "打开文档"
+    NEW "Open document"
+dist/electron/131.js@157938
+    OLD "打开方式"
+    NEW "Open with"
+dist/electron/131.js@36189
+    OLD "文档名称"
+    NEW "Document name"
+dist/electron/131.js@36518
+    OLD "文档大小"
+    NEW "Document size"
+dist/electron/131.js@196053
+    OLD "新名称包含非法字符"
+    NEW "The new name contains invalid characters"
+dist/electron/131.js@199690
+    OLD "新名称包含非法字符"
+    NEW "The new name contains invalid characters"
+dist/electron/131.js@103949
+    OLD "新建Excel"
+    NEW "New Excel"
+dist/electron/131.js@151641
+    OLD "新建Excel"
+    NEW "New Excel"
+dist/electron/131.js@142832
+    OLD "新建PPT"
+    NEW "New PPT"
+dist/electron/131.js@151681
+    OLD "新建PPT"
+    NEW "New PPT"
+dist/electron/131.js@89798
+    OLD "新建Word"
+    NEW "New Word"
+dist/electron/131.js@151602
+    OLD "新建Word"
+    NEW "New Word"
+dist/electron/131.js@48584
+    OLD "无文档"
+    NEW "No documents"
+dist/electron/131.js@204532
+    OLD "未从您的电脑上检测到Office软件，请您正确安装Office软件后再尝试打开文档。"
+    NEW "No Office app was detected on this computer. Install Office, then try opening the document again."
+dist/electron/131.js@204512
+    OLD "未检测到Office软件"
+    NEW "No Office application detected"
+dist/electron/131.js@43291
+    OLD "确定"
+    NEW "OK"
+dist/electron/131.js@44998
+    OLD "确定"
+    NEW "OK"
+dist/electron/131.js@204410
+    OLD "该文档仅保存在云端，请等待文档同步至本地后再重试。"
+    NEW "This document is only stored in the cloud. Wait for it to sync to this computer, then try again."
+dist/electron/131.js@42364
+    OLD "请输入文档名称"
+    NEW "Enter a document name"
+dist/electron/131.js@44076
+    OLD "请输入文档名称"
+    NEW "Enter a document name"
+dist/electron/131.js@194351
+    OLD "请输入文档名称"
+    NEW "Enter a document name"
+dist/electron/131.js@196085
+    OLD "请输入文档名称"
+    NEW "Enter a document name"
+dist/electron/131.js@198668
+    OLD "请输入文档名称"
+    NEW "Enter a document name"
+dist/electron/131.js@199722
+    OLD "请输入文档名称"
+    NEW "Enter a document name"
+dist/electron/131.js@103985
+    OLD "输入Excel名称"
+    NEW "Enter an Excel file name"
+dist/electron/131.js@142852
+    OLD "输入PPT名称"
+    NEW "Enter a PPT file name"
+dist/electron/131.js@89833
+    OLD "输入Word名称"
+    NEW "Enter a Word file name"
+dist/electron/131.js@42083
+    OLD "重命名"
+    NEW "Rename"
+dist/electron/131.js@158121
+    OLD "重命名"
+    NEW "Rename"
+dist/electron/131.js@197556
+    OLD "重命名失败，请稍后再试"
+    NEW "Rename failed. Please try again later."
+dist/electron/132.js@65949
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/132.js@66170
+    OLD "vivo办公套件隐私政策"
+    NEW "vivo PC Suite Privacy Policy"
+dist/electron/132.js@43347
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/132.js@231370
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/132.js@191106 [OUVERT]
+    OLD "已成功保存到原子笔记"
+    NEW "Saved to Notes"
+dist/electron/132.js@232412 [OUVERT]
+    OLD "已成功保存到原子笔记"
+    NEW "Saved to Notes"
+dist/electron/132.js@222724
+    OLD "全部笔记"
+    NEW "All notes"
+dist/electron/132.js@232728
+    OLD "全部笔记"
+    NEW "All notes"
+dist/electron/132.js@68039
+    OLD "音频"
+    NEW "Audio"
+dist/electron/133.js@26880
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/133.js@138607
+    OLD "无已完成待办"
+    NEW "No completed to-dos"
+dist/electron/133.js@138616
+    OLD "无未完成待办"
+    NEW "No incomplete to-dos"
+dist/electron/133.js@111893
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/133.js@28008
+    OLD "日程与待办管理"
+    NEW "Schedules and to-dos"
+dist/electron/133.js@111997
+    OLD "日程与待办管理"
+    NEW "Schedules and to-dos"
+dist/electron/133.js@30259
+    OLD "点击空白处添加待办"
+    NEW "Select a blank area to add a to-do"
+dist/electron/133.js@50422
+    OLD "MM月dd日 HH:mm"
+    NEW "MM/dd HH:mm"
+dist/electron/133.js@290939
+    OLD "MM月dd日 HH:mm"
+    NEW "MM/dd HH:mm"
+dist/electron/133.js@268967
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/133.js@280052
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/133.js@268981
+    OLD "YYYY年MM月DD日 HH:mm"
+    NEW "YYYY/MM/DD HH:mm"
+dist/electron/133.js@281787
+    OLD "今天"
+    NEW "Today"
+dist/electron/133.js@55107
+    OLD "创建子待办"
+    NEW "Create subtask"
+dist/electron/133.js@56856
+    OLD "删除"
+    NEW "Delete"
+dist/electron/133.js@52656
+    OLD "完成"
+    NEW "Done"
+dist/electron/133.js@194761
+    OLD "待办修改失败"
+    NEW "Could not update the to-do"
+dist/electron/133.js@195229
+    OLD "待办修改失败"
+    NEW "Could not update the to-do"
+dist/electron/133.js@278165
+    OLD "待办已创建"
+    NEW "To-do created"
+dist/electron/133.js@278733
+    OLD "待办已更新"
+    NEW "To-do updated"
+dist/electron/133.js@173366
+    OLD "待办新增失败"
+    NEW "Could not add the to-do"
+dist/electron/133.js@55655
+    OLD "成为上一条子待办"
+    NEW "Make it the subtask above"
+dist/electron/133.js@55911
+    OLD "成为上一条子待办"
+    NEW "Make it the subtask above"
+dist/electron/133.js@27191
+    OLD "排序"
+    NEW "Sort"
+dist/electron/133.js@55294
+    OLD "新增子待办"
+    NEW "Add subtask"
+dist/electron/133.js@26970
+    OLD "新建"
+    NEW "New"
+dist/electron/133.js@281735
+    OLD "无"
+    NEW "None"
+dist/electron/133.js@57785
+    OLD "日期"
+    NEW "Date"
+dist/electron/133.js@281561
+    OLD "日期"
+    NEW "Date"
+dist/electron/133.js@28240
+    OLD "显示已完成待办"
+    NEW "Show completed to-dos"
+dist/electron/133.js@55646
+    OLD "独立此待办项"
+    NEW "Make this a top-level to-do"
+dist/electron/133.js@55902
+    OLD "独立此待办项"
+    NEW "Make this a top-level to-do"
+dist/electron/133.js@49748
+    OLD "编辑"
+    NEW "Edit"
+dist/electron/133.js@56717
+    OLD "编辑"
+    NEW "Edit"
+dist/electron/133.js@282022
+    OLD "自定义"
+    NEW "Custom"
+dist/electron/133.js@52432
+    OLD "重新设为新待办"
+    NEW "Reset as a new to-do"
+dist/electron/133.js@28250
+    OLD "隐藏已完成待办"
+    NEW "Hide completed to-dos"
+dist/electron/134.js@35757
+    OLD "MM月dd日 HH:mm"
+    NEW "MM/dd HH:mm"
+dist/electron/134.js@53770
+    OLD "MM月dd日 HH:mm"
+    NEW "MM/dd HH:mm"
+dist/electron/134.js@41204
+    OLD "云端及所有同步设备"
+    NEW "Cloud and all synced devices"
+dist/electron/135.js@67330
+    OLD "正在保存到原子笔记"
+    NEW "Saving to Notes"
+dist/electron/135.js@52842
+    OLD "关闭"
+    NEW "Close"
+dist/electron/135.js@115217
+    OLD "删除"
+    NEW "Delete"
+dist/electron/135.js@121940
+    OLD "删除"
+    NEW "Delete"
+dist/electron/135.js@133515
+    OLD "删除"
+    NEW "Delete"
+dist/electron/135.js@143192
+    OLD "删除"
+    NEW "Delete"
+dist/electron/135.js@143354
+    OLD "删除"
+    NEW "Delete"
+dist/electron/135.js@146864
+    OLD "删除"
+    NEW "Delete"
+dist/electron/135.js@78784
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/135.js@51647
+    OLD "吸附办公套件窗口"
+    NEW "Dock the PC Suite window"
+dist/electron/135.js@75946
+    OLD "复制"
+    NEW "Copy"
+dist/electron/135.js@143302
+    OLD "复制"
+    NEW "Copy"
+dist/electron/135.js@153010
+    OLD "复制"
+    NEW "Copy"
+dist/electron/135.js@76003
+    OLD "复制"
+    NEW "Copy"
+dist/electron/135.js@132734
+    OLD "复制成功"
+    NEW "Copied"
+dist/electron/135.js@65590
+    OLD "查看全部"
+    NEW "View all"
+dist/electron/135.js@72849 [BLANCHE]
+    OLD "查看全部 "
+    NEW "View all "
+dist/electron/135.js@153119
+    OLD "粘贴"
+    NEW "Paste"
+dist/electron/135.js@51457
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/135.js@52135
+    OLD "设置"
+    NEW "Settings"
+dist/electron/135.js@66521
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/135.js@122888
+    OLD "重新生成"
+    NEW "Regenerate"
+dist/electron/136.js@9828
+    OLD "保存全部"
+    NEW "Save all"
+dist/electron/136.js@127061
+    OLD "删除"
+    NEW "Delete"
+dist/electron/136.js@27573
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/136.js@12523
+    OLD "图片"
+    NEW "Image"
+dist/electron/136.js@124521
+    OLD "复制"
+    NEW "Copy"
+dist/electron/136.js@25961
+    OLD "复制全部文本"
+    NEW "Copy all text"
+dist/electron/136.js@24755
+    OLD "提取图中的文本"
+    NEW "Extract text from image"
+dist/electron/136.js@124482
+    OLD "移动"
+    NEW "Move"
+dist/electron/136.js@12518
+    OLD "视频"
+    NEW "Video"
+dist/electron/137.js@8047
+    OLD "新建相册"
+    NEW "New album"
+dist/electron/137.js@13027
+    OLD "新建相册"
+    NEW "New album"
+dist/electron/137.js@104236
+    OLD "新建相册"
+    NEW "New album"
+dist/electron/137.js@121406
+    OLD "新建相册"
+    NEW "New album"
+dist/electron/137.js@124394
+    OLD "新建相册"
+    NEW "New album"
+dist/electron/137.js@125469
+    OLD "新建相册"
+    NEW "New album"
+dist/electron/137.js@104407
+    OLD "从套件、云端及其他同步设备中删除此相册及包含的照片？"
+    NEW "Delete this album and the photos in it from PC Suite, the cloud and other synced devices?"
+dist/electron/137.js@104680
+    OLD "从套件、云端及其他同步设备中删除此相册及包含的照片？"
+    NEW "Delete this album and the photos in it from PC Suite, the cloud and other synced devices?"
+dist/electron/137.js@137066
+    OLD "保留两者"
+    NEW "Keep both"
+dist/electron/137.js@136822
+    OLD "停止"
+    NEW "Stop"
+dist/electron/137.js@137432
+    OLD "停止传输"
+    NEW "Stop transfer"
+dist/electron/137.js@9887
+    OLD "删除"
+    NEW "Delete"
+dist/electron/137.js@12718
+    OLD "删除"
+    NEW "Delete"
+dist/electron/137.js@113684
+    OLD "删除全部项目？"
+    NEW "Delete all items?"
+dist/electron/137.js@104559
+    OLD "删除此相册及包含的照片？"
+    NEW "Delete this album and the photos in it?"
+dist/electron/137.js@7629
+    OLD "删除相册"
+    NEW "Delete album"
+dist/electron/137.js@9732
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/137.js@12627
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/137.js@14242
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/137.js@54681
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/137.js@138594
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/137.js@137414
+    OLD "后台传输"
+    NEW "Transfer in background"
+dist/electron/137.js@30304
+    OLD "图片"
+    NEW "Image"
+dist/electron/137.js@30200
+    OLD "复制"
+    NEW "Copy"
+dist/electron/137.js@30023
+    OLD "导入"
+    NEW "Import"
+dist/electron/137.js@44426
+    OLD "导入"
+    NEW "Import"
+dist/electron/137.js@44460
+    OLD "导入"
+    NEW "Import"
+dist/electron/137.js@6876
+    OLD "展开全部"
+    NEW "Expand all"
+dist/electron/137.js@136581
+    OLD "应用全部"
+    NEW "Apply to all"
+dist/electron/137.js@114333
+    OLD "所选图片将从所有相册中同步删除并在“最近删除”保留30天。"
+    NEW "The selected photos will be deleted from all albums and kept in Recently deleted for 30 days."
+dist/electron/137.js@114472
+    OLD "所选图片将从所有相册中同步删除并在“最近删除”保留30天。"
+    NEW "The selected photos will be deleted from all albums and kept in Recently deleted for 30 days."
+dist/electron/137.js@114126
+    OLD "所选文件将从所有设备所有相册中同步删除。"
+    NEW "The selected files will be deleted from all albums on all devices."
+dist/electron/137.js@114566
+    OLD "所选项目将从所有相册中同步删除并在“最近删除”保留30天。"
+    NEW "The selected items will be deleted from all albums and kept in Recently deleted for 30 days."
+dist/electron/137.js@3665
+    OLD "拖动失败"
+    NEW "Drag failed"
+dist/electron/137.js@6871
+    OLD "收起"
+    NEW "Hide"
+dist/electron/137.js@136947
+    OLD "替换"
+    NEW "Replace"
+dist/electron/137.js@34986 [OUVERT]
+    OLD "正在导入"
+    NEW "Importing"
+dist/electron/137.js@41997 [OUVERT]
+    OLD "正在导入"
+    NEW "Importing"
+dist/electron/137.js@33058 [OUVERT]
+    OLD "正在导入"
+    NEW "Importing"
+dist/electron/137.js@114365
+    OLD "此图片将从所有相册中同步删除并在“最近删除”保留30天。"
+    NEW "This photo will be deleted from all albums and kept in Recently deleted for 30 days."
+dist/electron/137.js@114504
+    OLD "此图片将从所有相册中同步删除并在“最近删除”保留30天。"
+    NEW "This photo will be deleted from all albums and kept in Recently deleted for 30 days."
+dist/electron/137.js@114059
+    OLD "此图片将从所有设备所有相册中同步删除。"
+    NEW "This photo will be deleted from all albums on all devices."
+dist/electron/137.js@114396
+    OLD "此视频将从所有相册中同步删除并在“最近删除”保留30天。"
+    NEW "This video will be deleted from all albums and kept in Recently deleted for 30 days."
+dist/electron/137.js@114535
+    OLD "此视频将从所有相册中同步删除并在“最近删除”保留30天。"
+    NEW "This video will be deleted from all albums and kept in Recently deleted for 30 days."
+dist/electron/137.js@114081
+    OLD "此视频将从所有设备所有相册中同步删除。"
+    NEW "This video will be deleted from all albums on all devices."
+dist/electron/137.js@106047
+    OLD "相册名不能为相机、视频。"
+    NEW "Album name cannot be Camera or Videos."
+dist/electron/137.js@123263
+    OLD "相册名不能为相机、视频。"
+    NEW "Album name cannot be Camera or Videos."
+dist/electron/137.js@107268
+    OLD "相册名不能全为空格。"
+    NEW "Album name cannot be only spaces."
+dist/electron/137.js@123425
+    OLD "相册名不能全为空格。"
+    NEW "Album name cannot be only spaces."
+dist/electron/137.js@122388
+    OLD "相册名不能包含: \\\\，:，*，？，”，<，>，|"
+    NEW "Album name cannot contain: \\\\ : * ? ” < > |"
+dist/electron/137.js@123108
+    OLD "相册名不能包含: \\\\，:，*，？，”，<，>，|"
+    NEW "Album name cannot contain: \\\\ : * ? ” < > |"
+dist/electron/137.js@106252
+    OLD "相册名不能包含: \\\\，:，*，？，”，<，>，|，."
+    NEW "Album name cannot contain: \\\\ : * ? ” < > | ."
+dist/electron/137.js@106149
+    OLD "相册名已存在，请重新输入。"
+    NEW "That album name already exists. Enter another one."
+dist/electron/137.js@123336
+    OLD "相册名已存在，请重新输入。"
+    NEW "That album name already exists. Enter another one."
+dist/electron/137.js@11480
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/137.js@11996
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/137.js@14398 [BLANCHE]
+    OLD "\\n        确定\\n      "
+    NEW "\\n        OK\\n      "
+dist/electron/137.js@54609
+    OLD "确定"
+    NEW "OK"
+dist/electron/137.js@30180
+    OLD "移动"
+    NEW "Move"
+dist/electron/137.js@30299
+    OLD "视频"
+    NEW "Video"
+dist/electron/137.js@41898
+    OLD "该相册不支持拖动导入"
+    NEW "You cannot drag files into this album"
+dist/electron/137.js@7489
+    OLD "重命名相册"
+    NEW "Rename album"
+dist/electron/137.js@138687
+    OLD "重试"
+    NEW "Retry"
+dist/electron/138.js@64567
+    OLD "文档"
+    NEW "Documents"
+dist/electron/138.js@64053
+    OLD "全部"
+    NEW "All"
+dist/electron/138.js@64867
+    OLD "其他"
+    NEW "Other"
+dist/electron/138.js@70465
+    OLD "删除"
+    NEW "Delete"
+dist/electron/138.js@64668
+    OLD "压缩文件"
+    NEW "Archive"
+dist/electron/138.js@64768
+    OLD "可执行文件"
+    NEW "Executable"
+dist/electron/138.js@64255
+    OLD "图片"
+    NEW "Image"
+dist/electron/138.js@69910
+    OLD "打开方式"
+    NEW "Open with"
+dist/electron/138.js@64149
+    OLD "文件夹"
+    NEW "Folder"
+dist/electron/138.js@7817
+    OLD "未知错误"
+    NEW "Unknown error"
+dist/electron/138.js@64363
+    OLD "视频"
+    NEW "Video"
+dist/electron/138.js@64465
+    OLD "音频"
+    NEW "Audio"
+dist/electron/139.js@43465
+    OLD "剪切成功"
+    NEW "Cut"
+dist/electron/139.js@42722
+    OLD "复制成功"
+    NEW "Copied"
+dist/electron/139.js@43488
+    OLD "所选文档未在设备上未找到，无法剪切"
+    NEW "The selected document was not found on the device, so it cannot be cut"
+dist/electron/139.js@42745
+    OLD "所选文档未在设备上未找到，无法复制"
+    NEW "The selected document was not found on the device, so it cannot be copied"
+dist/electron/139.js@81434
+    OLD "新建Excel"
+    NEW "New Excel"
+dist/electron/139.js@120317
+    OLD "新建PPT"
+    NEW "New PPT"
+dist/electron/139.js@67283
+    OLD "新建Word"
+    NEW "New Word"
+dist/electron/139.js@81470
+    OLD "输入Excel名称"
+    NEW "Enter an Excel file name"
+dist/electron/139.js@120337
+    OLD "输入PPT名称"
+    NEW "Enter a PPT file name"
+dist/electron/139.js@67318
+    OLD "输入Word名称"
+    NEW "Enter a Word file name"
+dist/electron/140.js@3137
+    OLD "\\n              当日暂无日程\\n            "
+    NEW "\\n              No events today\\n            "
+dist/electron/140.js@10377
+    OLD "全天"
+    NEW "All day"
+dist/electron/140.js@64700
+    OLD "全天"
+    NEW "All day"
+dist/electron/140.js@66900
+    OLD "全天"
+    NEW "All day"
+dist/electron/140.js@9767
+    OLD "日程"
+    NEW "Event"
+dist/electron/140.js@11589
+    OLD "YYYY年MM月DD日"
+    NEW "YYYY/MM/DD"
+dist/electron/140.js@64492
+    OLD "今天"
+    NEW "Today"
+dist/electron/140.js@64558
+    OLD "今天"
+    NEW "Today"
+dist/electron/140.js@5980 [BLANCHE]
+    OLD "\\n    加入会议\\n  "
+    NEW "\\n    Join meeting\\n  "
+dist/electron/140.js@6752
+    OLD "完成"
+    NEW "Done"
+dist/electron/140.js@4761
+    OLD "新建日程"
+    NEW "New event"
+dist/electron/140.js@9870
+    OLD "新建日程"
+    NEW "New event"
+dist/electron/140.js@6576
+    OLD "标记未完成"
+    NEW "Mark as not done"
+dist/electron/141.js@6566
+    OLD "关闭"
+    NEW "Close"
+dist/electron/142.js@7269
+    OLD "\\n    立即开启\\n  "
+    NEW "\\n    Turn on now\\n  "
+dist/electron/142.js@6918
+    OLD "开启云相册，可查看云端图片和视频\\n      "
+    NEW "\\nTurn on Cloud Album to view photos and videos in the cloud\\n      "
+dist/electron/142.js@6376
+    OLD "开启云相册，可查看云端图片和视频，\\n      "
+    NEW "\\nTurn on Cloud Album to view photos and videos in the cloud.\\n      "
+dist/electron/142.js@7100
+    OLD "您也可将电脑中的图片和视频直接拖到此处"
+    NEW "You can also drag photos and videos from your computer straight to this window"
+dist/electron/142.js@5831
+    OLD "欢迎使用“相册”"
+    NEW "Welcome to Album"
+dist/electron/142.js@12235
+    OLD "今天"
+    NEW "Today"
+dist/electron/142.js@3662
+    OLD "全部"
+    NEW "All"
+dist/electron/142.js@21338
+    OLD "全部"
+    NEW "All"
+dist/electron/142.js@21364
+    OLD "图片"
+    NEW "Image"
+dist/electron/142.js@21389
+    OLD "视频"
+    NEW "Video"
+dist/electron/143.js@1481
+    OLD "最近删除"
+    NEW "Recently deleted"
+dist/electron/143.js@1652
+    OLD "最近删除"
+    NEW "Recently deleted"
+dist/electron/143.js@22224
+    OLD "最近删除"
+    NEW "Recently deleted"
+dist/electron/143.js@22497
+    OLD "最近删除"
+    NEW "Recently deleted"
+dist/electron/143.js@23709
+    OLD "从套件、云端及其他同步设备中永久删除全部项目？"
+    NEW "Permanently delete all items from PC Suite, the cloud and other synced devices?"
+dist/electron/143.js@24139
+    OLD "从套件、云端及其他同步设备中永久删除全部项目？"
+    NEW "Permanently delete all items from PC Suite, the cloud and other synced devices?"
+dist/electron/143.js@2827
+    OLD "全部删除"
+    NEW "Delete all"
+dist/electron/143.js@31841
+    OLD "删除"
+    NEW "Delete"
+dist/electron/143.js@5503
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/143.js@23735
+    OLD "永久删除全部项目？"
+    NEW "Permanently delete all items?"
+dist/electron/143.js@24165
+    OLD "永久删除全部项目？"
+    NEW "Permanently delete all items?"
+dist/electron/143.js@21625
+    OLD "确定永久删除全部项目？"
+    NEW "Are you sure you want to permanently delete all items?"
+dist/electron/144.js@55630 [BLANCHE]
+    OLD "去开启\\n            "
+    NEW "Turn on\\n            "
+dist/electron/146.js@9892
+    OLD "所选文档未在设备上未找到，无法剪切"
+    NEW "The selected document was not found on the device, so it cannot be cut"
+dist/electron/146.js@9149
+    OLD "所选文档未在设备上未找到，无法复制"
+    NEW "The selected document was not found on the device, so it cannot be copied"
+dist/electron/147.js@9027
+    OLD "全天"
+    NEW "All day"
+dist/electron/147.js@15027
+    OLD "全天"
+    NEW "All day"
+dist/electron/147.js@25250
+    OLD "仅更改此日程"
+    NEW "Only this event"
+dist/electron/147.js@25238
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/147.js@25316
+    OLD "更改所有日程"
+    NEW "Change all events"
+dist/electron/147.js@27575
+    OLD "月"
+    NEW "Month"
+dist/electron/147.js@25215
+    OLD "编辑日程"
+    NEW "Edit event"
+dist/electron/151.js@907
+    OLD "导入项目"
+    NEW "Imported items"
+dist/electron/151.js@1371
+    OLD "导入项目"
+    NEW "Imported items"
+dist/electron/151.js@2269
+    OLD "导入项目"
+    NEW "Imported items"
+dist/electron/151.js@7744
+    OLD "今天"
+    NEW "Today"
+dist/electron/151.js@11640
+    OLD "导入"
+    NEW "Import"
+dist/electron/151.js@11776
+    OLD "导入"
+    NEW "Import"
+dist/electron/156.js@939
+    OLD "视频"
+    NEW "Video"
+dist/electron/156.js@1131
+    OLD "视频"
+    NEW "Video"
+dist/electron/156.js@7588
+    OLD "视频"
+    NEW "Video"
+dist/electron/156.js@7724
+    OLD "视频"
+    NEW "Video"
+dist/electron/157.js@1810
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/157.js@1836
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/157.js@1679
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/157.js@1824
+    OLD "相册"
+    NEW "Album"
+dist/electron/157.js@7107
+    OLD "\\n        开启以下设备的日程数据同步开关，实现多端日程自动同步：\\n      "
+    NEW "\\n        Turn on schedule sync for the devices below to keep schedules up to date everywhere:\\n      "
+dist/electron/157.js@8674
+    OLD "查看帮助"
+    NEW "View help"
+dist/electron/158.js@26509
+    OLD "仅更改此日程"
+    NEW "Only this event"
+dist/electron/158.js@26497
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/158.js@26575
+    OLD "更改所有日程"
+    NEW "Change all events"
+dist/electron/158.js@28834
+    OLD "月"
+    NEW "Month"
+dist/electron/158.js@26474
+    OLD "编辑日程"
+    NEW "Edit event"
+dist/electron/164.js@2200
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/164.js@9643
+    OLD "USB连接平板"
+    NEW "Connect a tablet over USB"
+dist/electron/164.js@10163
+    OLD "USB连接平板"
+    NEW "Connect a tablet over USB"
+dist/electron/164.js@9258
+    OLD "USB连接手机"
+    NEW "Connect a phone over USB"
+dist/electron/164.js@9781
+    OLD "USB连接手机"
+    NEW "Connect a phone over USB"
+dist/electron/164.js@9672
+    OLD "在平板上点击“连接办公套件”并允许USB调试，即可连接。"
+    NEW "Tap Connect to PC Suite on your tablet and allow USB debugging to connect."
+dist/electron/164.js@10192
+    OLD "在平板上点击“连接办公套件”并允许USB调试，即可连接。"
+    NEW "Tap Connect to PC Suite on your tablet and allow USB debugging to connect."
+dist/electron/164.js@9287
+    OLD "在手机上点击“连接办公套件”并允许USB调试，即可连接。"
+    NEW "Tap Connect to PC Suite on your phone and allow USB debugging to connect."
+dist/electron/164.js@9810
+    OLD "在手机上点击“连接办公套件”并允许USB调试，即可连接。"
+    NEW "Tap Connect to PC Suite on your phone and allow USB debugging to connect."
+dist/electron/164.js@9720
+    OLD "注：如该弹窗已消失，可拔插USB数据线将平板重新接入电脑，该弹窗会再次弹出。"
+    NEW "Note: if this prompt has gone away, unplug and replug the USB cable to reconnect the tablet and the prompt will appear again."
+dist/electron/164.js@10240
+    OLD "注：如该弹窗已消失，可拔插USB数据线将平板重新接入电脑，该弹窗会再次弹出。"
+    NEW "Note: if this prompt has gone away, unplug and replug the USB cable to reconnect the tablet and the prompt will appear again."
+dist/electron/164.js@9335
+    OLD "注：如该弹窗已消失，可拔插USB数据线将手机重新接入电脑，该弹窗会再次弹出。"
+    NEW "Note: if this prompt has gone away, unplug and replug the USB cable to reconnect the phone and the prompt will appear again."
+dist/electron/164.js@9858
+    OLD "注：如该弹窗已消失，可拔插USB数据线将手机重新接入电脑，该弹窗会再次弹出。"
+    NEW "Note: if this prompt has gone away, unplug and replug the USB cable to reconnect the phone and the prompt will appear again."
+dist/electron/164.js@2995
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/165.js@6619
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/165.js@6640
+    OLD "导入原子笔记"
+    NEW "Import notes"
+dist/electron/165.js@10440
+    OLD " - vivo办公套件"
+    NEW " - vivo PC Suite"
+dist/electron/165.js@6667
+    OLD "将来自分享链接的原子笔记导入到办公套件"
+    NEW "Import Notes from a shared link into PC Suite"
+dist/electron/177.js@427
+    OLD "日程"
+    NEW "Event"
+dist/electron/177.js@446
+    OLD "导入日程"
+    NEW "Import schedules"
+dist/electron/177.js@471
+    OLD "将来自分享链接的日程导入到办公套件"
+    NEW "Import schedules from a shared link into PC Suite"
+dist/electron/180.js@309
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/193.js@3246
+    OLD "全天"
+    NEW "All day"
+dist/electron/2.js@1912
+    OLD "\\n        新建相册\\n        "
+    NEW "\\n        New album\\n        "
+dist/electron/2.js@20340
+    OLD "下载"
+    NEW "Download"
+dist/electron/2.js@25996
+    OLD "保存失败"
+    NEW "Save failed"
+dist/electron/2.js@20423
+    OLD "删除"
+    NEW "Delete"
+dist/electron/2.js@22391
+    OLD "复制"
+    NEW "Copy"
+dist/electron/2.js@22352
+    OLD "移动"
+    NEW "Move"
+dist/electron/20.js@4186
+    OLD "AI识别"
+    NEW "AI recognized"
+dist/electron/21.js@4195
+    OLD "无搜索结果"
+    NEW "No results"
+dist/electron/22.js@6431
+    OLD "去待办查看"
+    NEW "View to-dos"
+dist/electron/22.js@6084
+    OLD "子待办 "
+    NEW "Subtask "
+dist/electron/22.js@29913
+    OLD "待办已更新"
+    NEW "To-do updated"
+dist/electron/22.js@29675
+    OLD "待办新增失败"
+    NEW "Could not add the to-do"
+dist/electron/22.js@29526
+    OLD "待办新增成功"
+    NEW "To-do added"
+dist/electron/22.js@30046
+    OLD "待办更新失败"
+    NEW "Could not update the to-do"
+dist/electron/22.js@6976
+    OLD "新增待办"
+    NEW "New to-do"
+dist/electron/22.js@6983
+    OLD "编辑待办"
+    NEW "Edit to-do"
+dist/electron/27.js@121487
+    OLD "保存"
+    NEW "Save"
+dist/electron/27.js@42433
+    OLD "关闭"
+    NEW "Close"
+dist/electron/28.js@6425
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/28.js@3286
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/28.js@6806
+    OLD "\\n        还未下载vivo办公套件？\\n        "
+    NEW "\\n        Don't have vivo PC Suite yet?\\n        "
+dist/electron/28.js@19426
+    OLD "将来自分享链接的内容导入到办公套件"
+    NEW "Import content from a shared link into PC Suite"
+dist/electron/3.js@2424
+    OLD "升级云空间"
+    NEW "Upgrade cloud storage"
+dist/electron/3.js@1699 [BLANCHE]
+    OLD "\\n      同步失败"
+    NEW "\\n      Sync failed"
+dist/electron/3.js@1781
+    OLD "重试"
+    NEW "Retry"
+dist/electron/3.js@2168
+    OLD "重试"
+    NEW "Retry"
+dist/electron/32.js@149400
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/32.js@164449
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/4.js@2404
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/7.js@1708
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/7.js@14775
+    OLD "搜索指定原子笔记"
+    NEW "Search a specific note"
+dist/electron/7.js@1736
+    OLD "相册"
+    NEW "Album"
+dist/electron/7.js@23701
+    OLD "删除成功"
+    NEW "Deleted"
+dist/electron/7.js@48712
+    OLD "搜索办公套件、电脑和已连接设备的文件"
+    NEW "Search files on PC Suite, this computer and connected devices"
+dist/electron/7.js@57746
+    OLD "搜索办公套件、电脑和已连接设备的文件"
+    NEW "Search files on PC Suite, this computer and connected devices"
+dist/electron/7.js@23240
+    OLD "未知错误"
+    NEW "Unknown error"
+dist/electron/8.js@47377
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/8.js@47372
+    OLD "日程"
+    NEW "Event"
+dist/electron/8.js@62398
+    OLD "15分钟前"
+    NEW "15 minutes before"
+dist/electron/8.js@62661
+    OLD "15分钟前"
+    NEW "15 minutes before"
+dist/electron/8.js@62572
+    OLD "1周前"
+    NEW "1 week ago"
+dist/electron/8.js@62835
+    OLD "1周前"
+    NEW "1 week ago"
+dist/electron/8.js@62976
+    OLD "1周前"
+    NEW "1 week ago"
+dist/electron/8.js@62497
+    OLD "1天前"
+    NEW "1 day ago"
+dist/electron/8.js@62760
+    OLD "1天前"
+    NEW "1 day ago"
+dist/electron/8.js@62901
+    OLD "1天前"
+    NEW "1 day ago"
+dist/electron/8.js@62448
+    OLD "1小时前"
+    NEW "1 hour before"
+dist/electron/8.js@62711
+    OLD "1小时前"
+    NEW "1 hour before"
+dist/electron/8.js@62522
+    OLD "2天前"
+    NEW "2 days ago"
+dist/electron/8.js@62785
+    OLD "2天前"
+    NEW "2 days ago"
+dist/electron/8.js@62926
+    OLD "2天前"
+    NEW "2 days ago"
+dist/electron/8.js@62472
+    OLD "2小时前"
+    NEW "2 hours before"
+dist/electron/8.js@62735
+    OLD "2小时前"
+    NEW "2 hours before"
+dist/electron/8.js@62423
+    OLD "30分钟前"
+    NEW "30 minutes before"
+dist/electron/8.js@62686
+    OLD "30分钟前"
+    NEW "30 minutes before"
+dist/electron/8.js@62547
+    OLD "3天前"
+    NEW "3 days ago"
+dist/electron/8.js@62810
+    OLD "3天前"
+    NEW "3 days ago"
+dist/electron/8.js@62951
+    OLD "3天前"
+    NEW "3 days ago"
+dist/electron/8.js@62375
+    OLD "5分钟前"
+    NEW "5 minutes before"
+dist/electron/8.js@62638
+    OLD "5分钟前"
+    NEW "5 minutes before"
+dist/electron/8.js@53384
+    OLD "一次性待办"
+    NEW "One-time to-do"
+dist/electron/8.js@53392
+    OLD "一次性日程"
+    NEW "One-time event"
+dist/electron/8.js@51919
+    OLD "不重复"
+    NEW "Does not repeat"
+dist/electron/8.js@72264
+    OLD "中"
+    NEW "Medium"
+dist/electron/8.js@32229
+    OLD "优先级"
+    NEW "Priority"
+dist/electron/8.js@72284
+    OLD "低"
+    NEW "Low"
+dist/electron/8.js@19719
+    OLD "农历"
+    NEW "Lunar"
+dist/electron/8.js@30044
+    OLD "准备做什么？"
+    NEW "What's on your mind?"
+dist/electron/8.js@62354
+    OLD "准时"
+    NEW "At time of event"
+dist/electron/8.js@62617
+    OLD "准时"
+    NEW "At time of event"
+dist/electron/8.js@47917
+    OLD "删除"
+    NEW "Delete"
+dist/electron/8.js@51356
+    OLD "周"
+    NEW "Week"
+dist/electron/8.js@54634
+    OLD "周"
+    NEW "Week"
+dist/electron/8.js@61261
+    OLD "周一"
+    NEW "Mon"
+dist/electron/8.js@61309
+    OLD "周三"
+    NEW "Wed"
+dist/electron/8.js@61285
+    OLD "周二"
+    NEW "Tue"
+dist/electron/8.js@61357
+    OLD "周五"
+    NEW "Fri"
+dist/electron/8.js@61381
+    OLD "周六"
+    NEW "Sat"
+dist/electron/8.js@61333
+    OLD "周四"
+    NEW "Thu"
+dist/electron/8.js@61237
+    OLD "周日"
+    NEW "Sun"
+dist/electron/8.js@51093
+    OLD "天"
+    NEW "day"
+dist/electron/8.js@51330
+    OLD "天"
+    NEW "day"
+dist/electron/8.js@54597
+    OLD "天"
+    NEW "day"
+dist/electron/8.js@53764
+    OLD "工作日(周一至周五)"
+    NEW "Weekdays (Mon-Fri)"
+dist/electron/8.js@75547
+    OLD "已达到最大字符限制"
+    NEW "Maximum character limit reached"
+dist/electron/8.js@18086
+    OLD "年"
+    NEW "Year"
+dist/electron/8.js@20229
+    OLD "年"
+    NEW "Year"
+dist/electron/8.js@51411
+    OLD "年"
+    NEW "Year"
+dist/electron/8.js@54898
+    OLD "年"
+    NEW "Year"
+dist/electron/8.js@62880
+    OLD "当天"
+    NEW "Today"
+dist/electron/8.js@31611
+    OLD "提醒"
+    NEW "Reminders"
+dist/electron/8.js@28479
+    OLD "提醒时间"
+    NEW "Reminder time"
+dist/electron/8.js@72224
+    OLD "无"
+    NEW "None"
+dist/electron/8.js@27342
+    OLD "无提醒"
+    NEW "No reminder"
+dist/electron/8.js@27451
+    OLD "无提醒"
+    NEW "No reminder"
+dist/electron/8.js@27739
+    OLD "无提醒"
+    NEW "No reminder"
+dist/electron/8.js@11160
+    OLD "日历最大值为2099年"
+    NEW "The calendar cannot go beyond 2099"
+dist/electron/8.js@11174
+    OLD "日历最小值为1901年"
+    NEW "The calendar cannot go before 1901"
+dist/electron/8.js@30346
+    OLD "日期"
+    NEW "Date"
+dist/electron/8.js@60017
+    OLD "日期"
+    NEW "Date"
+dist/electron/8.js@31019
+    OLD "时间"
+    NEW "Time"
+dist/electron/8.js@35902
+    OLD "时间"
+    NEW "Time"
+dist/electron/8.js@60049
+    OLD "星期"
+    NEW "Weekday"
+dist/electron/8.js@60201
+    OLD "最后一个"
+    NEW "Last"
+dist/electron/8.js@18629
+    OLD "月"
+    NEW "Month"
+dist/electron/8.js@51383
+    OLD "月"
+    NEW "Month"
+dist/electron/8.js@54704
+    OLD "月"
+    NEW "Month"
+dist/electron/8.js@36883
+    OLD "次"
+    NEW "times"
+dist/electron/8.js@36563
+    OLD "次数"
+    NEW "Occurrences"
+dist/electron/8.js@26044
+    OLD "每"
+    NEW "Every"
+dist/electron/8.js@53694
+    OLD "每天"
+    NEW "Every day"
+dist/electron/8.js@51997
+    OLD "每年"
+    NEW "Yearly"
+dist/electron/8.js@51942
+    OLD "每月"
+    NEW "Monthly"
+dist/electron/8.js@54090
+    OLD "每月底(公历每月最后一日)"
+    NEW "End of month (last day of each Gregorian month)"
+dist/electron/8.js@35633
+    OLD "永不"
+    NEW "Never"
+dist/electron/8.js@56297
+    OLD "永不"
+    NEW "Never"
+dist/electron/8.js@56671
+    OLD "永不"
+    NEW "Never"
+dist/electron/8.js@60091
+    OLD "第一个"
+    NEW "1st"
+dist/electron/8.js@60135
+    OLD "第三个"
+    NEW "3rd"
+dist/electron/8.js@60113
+    OLD "第二个"
+    NEW "2nd"
+dist/electron/8.js@60179
+    OLD "第五个"
+    NEW "5th"
+dist/electron/8.js@60157
+    OLD "第四个"
+    NEW "4th"
+dist/electron/8.js@32560
+    OLD "类型"
+    NEW "Type"
+dist/electron/8.js@26702
+    OLD "结束重复"
+    NEW "End repeat"
+dist/electron/8.js@58089
+    OLD "结束重复时间必须大于开始时间"
+    NEW "The end repeat time must be later than the start time"
+dist/electron/8.js@54383
+    OLD "自定义"
+    NEW "Custom"
+dist/electron/8.js@33554
+    OLD "输入地点"
+    NEW "Enter location"
+dist/electron/8.js@34418
+    OLD "输入备注"
+    NEW "Enter note"
+dist/electron/8.js@37278
+    OLD "选择提醒时间"
+    NEW "Select reminder time"
+dist/electron/8.js@38970
+    OLD "选择提醒时间"
+    NEW "Select reminder time"
+dist/electron/8.js@38366
+    OLD "选择日期"
+    NEW "Select date"
+dist/electron/8.js@37673
+    OLD "选择星期"
+    NEW "Select weekday"
+dist/electron/8.js@24871
+    OLD "重复"
+    NEW "Repeat"
+dist/electron/8.js@25732
+    OLD "频率"
+    NEW "Frequency"
+dist/electron/8.js@72244
+    OLD "高"
+    NEW "High"
+dist/electron/app-components.js@715779
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/app-components.js@375923
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/app-components.js@709465
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/app-components.js@716307
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/app-components.js@863082
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/app-components.js@863161
+    OLD "文档"
+    NEW "Documents"
+dist/electron/app-components.js@375868
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/app-components.js@709410
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/app-components.js@716042
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/app-components.js@375895
+    OLD "相册"
+    NEW "Album"
+dist/electron/app-components.js@709437
+    OLD "相册"
+    NEW "Album"
+dist/electron/app-components.js@716173
+    OLD "相册"
+    NEW "Album"
+dist/electron/app-components.js@732721
+    OLD "相册"
+    NEW "Album"
+dist/electron/app-components.js@375723
+    OLD "立即开启"
+    NEW "Turn on now"
+dist/electron/app-components.js@706667
+    OLD "立即开启"
+    NEW "Turn on now"
+dist/electron/app-components.js@375838
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/app-components.js@709380
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/app-components.js@863001
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/app-components.js@199157
+    OLD "今天"
+    NEW "Today"
+dist/electron/app-components.js@200649
+    OLD "今天"
+    NEW "Today"
+dist/electron/app-components.js@202094
+    OLD "今天"
+    NEW "Today"
+dist/electron/app-components.js@203549
+    OLD "今天"
+    NEW "Today"
+dist/electron/app-components.js@200216
+    OLD "全部"
+    NEW "All"
+dist/electron/app-components.js@201644
+    OLD "全部"
+    NEW "All"
+dist/electron/app-components.js@203089
+    OLD "全部"
+    NEW "All"
+dist/electron/app-components.js@204544
+    OLD "全部"
+    NEW "All"
+dist/electron/app-components.js@200107
+    OLD "删除"
+    NEW "Delete"
+dist/electron/app-components.js@202980
+    OLD "删除"
+    NEW "Delete"
+dist/electron/app-components.js@199795
+    OLD "加载中"
+    NEW "Loading..."
+dist/electron/app-components.js@199883
+    OLD "加载中"
+    NEW "Loading..."
+dist/electron/app-components.js@202668
+    OLD "加载中"
+    NEW "Loading..."
+dist/electron/app-components.js@202756
+    OLD "加载中"
+    NEW "Loading..."
+dist/electron/app-components.js@731871
+    OLD "去开启"
+    NEW "Turn on"
+dist/electron/app-components.js@199169
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-components.js@200042
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-components.js@200519
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-components.js@200661
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-components.js@201469
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-components.js@202106
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-components.js@202915
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-components.js@203392
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-components.js@203561
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-components.js@204369
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-components.js@719931
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/app-components.js@134120
+    OLD "年"
+    NEW "Year"
+dist/electron/app-components.js@199365
+    OLD "年"
+    NEW "Year"
+dist/electron/app-components.js@200857
+    OLD "年"
+    NEW "Year"
+dist/electron/app-components.js@202302
+    OLD "年"
+    NEW "Year"
+dist/electron/app-components.js@203757
+    OLD "年"
+    NEW "Year"
+dist/electron/app-components.js@799334
+    OLD "年"
+    NEW "Year"
+dist/electron/app-components.js@707929
+    OLD "开启相册云同步，可查看云端图片和视频。"
+    NEW "Turn on Album cloud sync to view photos and videos."
+dist/electron/app-components.js@716318
+    OLD "录音文件"
+    NEW "Audio files"
+dist/electron/app-components.js@790061
+    OLD "日历最大值为2099年"
+    NEW "The calendar cannot go beyond 2099"
+dist/electron/app-components.js@790208
+    OLD "日历最小值为1901年"
+    NEW "The calendar cannot go before 1901"
+dist/electron/app-components.js@791705
+    OLD "日历最小值为1901年"
+    NEW "The calendar cannot go before 1901"
+dist/electron/app-components.js@134293
+    OLD "月"
+    NEW "Month"
+dist/electron/app-components.js@800371
+    OLD "月"
+    NEW "Month"
+dist/electron/app-components.js@707900
+    OLD "登录账号并开启云相册，可查看云端图片和视频。"
+    NEW "Sign in and turn on Cloud Album to view photos and videos."
+dist/electron/app-components.js@732057
+    OLD "相册云同步现已支持\"优化设备存储空间\"，开启后可节省海量电脑磁盘空间。"
+    NEW "Cloud Album sync now supports Optimise device storage, which frees up a lot of space on this computer."
+dist/electron/app-components.js@68888
+    OLD "确定"
+    NEW "OK"
+dist/electron/app-components.js@199113
+    OLD "确定"
+    NEW "OK"
+dist/electron/app-components.js@199193
+    OLD "确定"
+    NEW "OK"
+dist/electron/app-components.js@200030
+    OLD "确定"
+    NEW "OK"
+dist/electron/app-components.js@200497
+    OLD "确定"
+    NEW "OK"
+dist/electron/app-components.js@202050
+    OLD "确定"
+    NEW "OK"
+dist/electron/app-components.js@202130
+    OLD "确定"
+    NEW "OK"
+dist/electron/app-components.js@202903
+    OLD "确定"
+    NEW "OK"
+dist/electron/app-components.js@203370
+    OLD "确定"
+    NEW "OK"
+dist/electron/app-components.js@21143
+    OLD "网络异常"
+    NEW "Network error"
+dist/electron/app-components.js@200461
+    OLD "返回"
+    NEW "Back"
+dist/electron/app-components.js@201905
+    OLD "返回"
+    NEW "Back"
+dist/electron/app-components.js@203334
+    OLD "返回"
+    NEW "Back"
+dist/electron/app-components.js@204805
+    OLD "返回"
+    NEW "Back"
+dist/electron/app-components.js@199209
+    OLD "选择日期"
+    NEW "Select date"
+dist/electron/app-components.js@202146
+    OLD "选择日期"
+    NEW "Select date"
+dist/electron/app-components.js@832851
+    OLD "选择日期"
+    NEW "Select date"
+dist/electron/app-connection.js@23792
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/app-connection.js@662976
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/app-connection.js@664873
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/app-connection.js@847747
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/app-connection.js@843153
+    OLD "vivo办公套件摄像头"
+    NEW "vivo PC Suite Camera"
+dist/electron/app-connection.js@152650
+    OLD "pc端vivo办公套件需要升级"
+    NEW "The PC version of vivo PC Suite needs an update"
+dist/electron/app-connection.js@152673
+    OLD "pc端vivo办公套件需要升级"
+    NEW "The PC version of vivo PC Suite needs an update"
+dist/electron/app-connection.js@152725
+    OLD "pc端vivo办公套件需要升级"
+    NEW "The PC version of vivo PC Suite needs an update"
+dist/electron/app-connection.js@443169
+    OLD "“办公套件”请求启用文件管理系统以便跨端复制粘贴或传输文件"
+    NEW "PC Suite needs the file management service to copy, paste and transfer files between devices"
+dist/electron/app-connection.js@431404
+    OLD "为了确保连接安全，需升级电脑的办公套件版本才可连接。"
+    NEW "To keep the connection secure, upgrade PC Suite on this computer before connecting."
+dist/electron/app-connection.js@790632
+    OLD "使用vivo办公套件发送到vivo设备"
+    NEW "Send to a vivo device with vivo PC Suite"
+dist/electron/app-connection.js@623828
+    OLD "已关闭"
+    NEW "Off"
+dist/electron/app-connection.js@110600
+    OLD "平板"
+    NEW "tablet"
+dist/electron/app-connection.js@213682
+    OLD "平板"
+    NEW "tablet"
+dist/electron/app-connection.js@873562
+    OLD "平板"
+    NEW "tablet"
+dist/electron/app-connection.js@889960
+    OLD "平板"
+    NEW "tablet"
+dist/electron/app-connection.js@894026
+    OLD "平板"
+    NEW "tablet"
+dist/electron/app-connection.js@895925
+    OLD "平板"
+    NEW "tablet"
+dist/electron/app-connection.js@585706
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-connection.js@110595
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-connection.js@213677
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-connection.js@873557
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-connection.js@889965
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-connection.js@894031
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-connection.js@895930
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-connection.js@110420
+    OLD "投屏"
+    NEW "Screen mirroring"
+dist/electron/app-connection.js@370783
+    OLD "版本信息"
+    NEW "About"
+dist/electron/app-connection.js@110738
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/app-connection.js@235403
+    OLD "网络异常"
+    NEW "Network error"
+dist/electron/app-modules-note.js@198847
+    OLD "MM月dd日 HH:mm"
+    NEW "MM/dd HH:mm"
+dist/electron/app-modules-note.js@232612
+    OLD "\\n              云空间将满，暂停同步历史版本。"
+    NEW "\\\\n              Cloud space is almost full, so syncing history versions is paused."
+dist/electron/app-modules-note.js@238139
+    OLD "\\n              云空间将满，暂停同步历史版本。"
+    NEW "\\\\n              Cloud space is almost full, so syncing history versions is paused."
+dist/electron/app-modules-note.js@235468 [BLANCHE]
+    OLD "\\n              另存为新笔记\\n            "
+    NEW "\\\\n              Save as new note\\\\n            "
+dist/electron/app-modules-note.js@225684
+    OLD "云端及所有同步设备"
+    NEW "Cloud and all synced devices"
+dist/electron/app-modules-note.js@226089
+    OLD "云端及所有同步设备"
+    NEW "Cloud and all synced devices"
+dist/electron/app-modules-note.js@1593002
+    OLD "修改时间"
+    NEW "Modified time"
+dist/electron/app-modules-note.js@231274
+    OLD "修改笔记数据后，需要找回旧版本的内容时，可使用历史版本功能，该功能支持记录最近30天内，至多10条历史编辑版本。"
+    NEW "If you need to restore an earlier version after editing a note, use Version History. It keeps up to 10 revisions from the last 30 days."
+dist/electron/app-modules-note.js@1055826
+    OLD "创建成功"
+    NEW "Created"
+dist/electron/app-modules-note.js@1511963
+    OLD "删除失败"
+    NEW "Delete failed"
+dist/electron/app-modules-note.js@1530634
+    OLD "删除失败"
+    NEW "Delete failed"
+dist/electron/app-modules-note.js@262351
+    OLD "剪切成功"
+    NEW "Cut"
+dist/electron/app-modules-note.js@426745
+    OLD "同步失败"
+    NEW "Sync failed"
+dist/electron/app-modules-note.js@1238316
+    OLD "同步失败"
+    NEW "Sync failed"
+dist/electron/app-modules-note.js@1238540
+    OLD "同步失败"
+    NEW "Sync failed"
+dist/electron/app-modules-note.js@1238867
+    OLD "同步失败"
+    NEW "Sync failed"
+dist/electron/app-modules-note.js@1239051
+    OLD "同步失败"
+    NEW "Sync failed"
+dist/electron/app-modules-note.js@1238281
+    OLD "同步完成"
+    NEW "Sync complete"
+dist/electron/app-modules-note.js@1238505
+    OLD "同步完成"
+    NEW "Sync complete"
+dist/electron/app-modules-note.js@261608
+    OLD "复制成功"
+    NEW "Copied"
+dist/electron/app-modules-note.js@413285
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules-note.js@1051557
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules-note.js@1593123
+    OLD "所属文件夹"
+    NEW "Notebook"
+dist/electron/app-modules-note.js@262374
+    OLD "所选文档未在设备上未找到，无法剪切"
+    NEW "The selected document was not found on the device, so it cannot be cut"
+dist/electron/app-modules-note.js@261631
+    OLD "所选文档未在设备上未找到，无法复制"
+    NEW "The selected document was not found on the device, so it cannot be copied"
+dist/electron/app-modules-note.js@468202
+    OLD "新建Excel"
+    NEW "New Excel"
+dist/electron/app-modules-note.js@507085
+    OLD "新建PPT"
+    NEW "New PPT"
+dist/electron/app-modules-note.js@454051
+    OLD "新建Word"
+    NEW "New Word"
+dist/electron/app-modules-note.js@54376
+    OLD "标题1"
+    NEW "Heading 1"
+dist/electron/app-modules-note.js@54385
+    OLD "标题2"
+    NEW "Heading 2"
+dist/electron/app-modules-note.js@54394
+    OLD "标题3"
+    NEW "Heading 3"
+dist/electron/app-modules-note.js@54403
+    OLD "标题4"
+    NEW "Heading 4"
+dist/electron/app-modules-note.js@242719
+    OLD "正在保存"
+    NEW "Saving"
+dist/electron/app-modules-note.js@255514
+    OLD "正在还原"
+    NEW "Restoring..."
+dist/electron/app-modules-note.js@1636387
+    OLD "此${this.text}已被加密"
+    NEW "This \\${this.text} has been encrypted"
+dist/electron/app-modules-note.js@1193426
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/app-modules-note.js@1193542
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/app-modules-note.js@1058986
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/app-modules-note.js@468238
+    OLD "输入Excel名称"
+    NEW "Enter an Excel file name"
+dist/electron/app-modules-note.js@507105
+    OLD "输入PPT名称"
+    NEW "Enter a PPT file name"
+dist/electron/app-modules-note.js@454086
+    OLD "输入Word名称"
+    NEW "Enter a Word file name"
+dist/electron/app-modules-note.js@231948
+    OLD "重试"
+    NEW "Retry"
+dist/electron/app-modules-note.js@235898
+    OLD "重试"
+    NEW "Retry"
+dist/electron/app-modules-note.js@237270
+    OLD "重试"
+    NEW "Retry"
+dist/electron/app-modules-note.js@241786
+    OLD "重试"
+    NEW "Retry"
+dist/electron/app-modules-note.js@231396
+    OLD "（涂鸦和小V帮记/电话助手原文内容暂不支持记录编辑历史，始终按最新版本显示）"
+    NEW "(Doodles and Xiao V Assistant / Phone Assistant content do not support version history yet and always show the latest version.)"
+dist/electron/app-modules.js@143846
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/app-modules.js@175003
+    OLD "导入项目"
+    NEW "Imported items"
+dist/electron/app-modules.js@175036
+    OLD "导入项目"
+    NEW "Imported items"
+dist/electron/app-modules.js@406667
+    OLD "导入项目"
+    NEW "Imported items"
+dist/electron/app-modules.js@406789
+    OLD "导入项目"
+    NEW "Imported items"
+dist/electron/app-modules.js@162207
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/app-modules.js@413778
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/app-modules.js@413823
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/app-modules.js@413879
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/app-modules.js@1223225
+    OLD "文档"
+    NEW "Documents"
+dist/electron/app-modules.js@143868
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/app-modules.js@416461
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/app-modules.js@162339
+    OLD "最近删除"
+    NEW "Recently deleted"
+dist/electron/app-modules.js@181371
+    OLD "最近删除"
+    NEW "Recently deleted"
+dist/electron/app-modules.js@406922
+    OLD "最近删除"
+    NEW "Recently deleted"
+dist/electron/app-modules.js@407001
+    OLD "最近删除"
+    NEW "Recently deleted"
+dist/electron/app-modules.js@1223404
+    OLD "最近删除"
+    NEW "Recently deleted"
+dist/electron/app-modules.js@143885
+    OLD "相册"
+    NEW "Album"
+dist/electron/app-modules.js@362391
+    OLD "相册"
+    NEW "Album"
+dist/electron/app-modules.js@155333
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/app-modules.js@301996
+    OLD "15分钟前"
+    NEW "15 minutes before"
+dist/electron/app-modules.js@302040
+    OLD "1小时前"
+    NEW "1 hour before"
+dist/electron/app-modules.js@302062
+    OLD "2小时前"
+    NEW "2 hours before"
+dist/electron/app-modules.js@302018
+    OLD "30分钟前"
+    NEW "30 minutes before"
+dist/electron/app-modules.js@301975
+    OLD "5分钟前"
+    NEW "5 minutes before"
+dist/electron/app-modules.js@155245
+    OLD "个人"
+    NEW "Personal"
+dist/electron/app-modules.js@1178083
+    OLD "事件名称"
+    NEW "Event name"
+dist/electron/app-modules.js@155406
+    OLD "倒数日"
+    NEW "Countdown"
+dist/electron/app-modules.js@162164
+    OLD "全部"
+    NEW "All"
+dist/electron/app-modules.js@70331
+    OLD "其他"
+    NEW "Other"
+dist/electron/app-modules.js@1178381
+    OLD "准备做什么？"
+    NEW "What's on your mind?"
+dist/electron/app-modules.js@301957
+    OLD "准时"
+    NEW "At time of event"
+dist/electron/app-modules.js@1177005
+    OLD "创建异常"
+    NEW "Could not create"
+dist/electron/app-modules.js@137151
+    OLD "删除"
+    NEW "Delete"
+dist/electron/app-modules.js@140745
+    OLD "删除"
+    NEW "Delete"
+dist/electron/app-modules.js@123109
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-modules.js@123424
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-modules.js@137117
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-modules.js@145453
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-modules.js@305014
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/app-modules.js@78500
+    OLD "同步成功"
+    NEW "Sync completed"
+dist/electron/app-modules.js@301301
+    OLD "周一"
+    NEW "Mon"
+dist/electron/app-modules.js@545108
+    OLD "周一"
+    NEW "Mon"
+dist/electron/app-modules.js@301349
+    OLD "周三"
+    NEW "Wed"
+dist/electron/app-modules.js@545156
+    OLD "周三"
+    NEW "Wed"
+dist/electron/app-modules.js@301325
+    OLD "周二"
+    NEW "Tue"
+dist/electron/app-modules.js@545132
+    OLD "周二"
+    NEW "Tue"
+dist/electron/app-modules.js@301397
+    OLD "周五"
+    NEW "Fri"
+dist/electron/app-modules.js@545204
+    OLD "周五"
+    NEW "Fri"
+dist/electron/app-modules.js@301421
+    OLD "周六"
+    NEW "Sat"
+dist/electron/app-modules.js@545228
+    OLD "周六"
+    NEW "Sat"
+dist/electron/app-modules.js@301373
+    OLD "周四"
+    NEW "Thu"
+dist/electron/app-modules.js@545180
+    OLD "周四"
+    NEW "Thu"
+dist/electron/app-modules.js@301277
+    OLD "周日"
+    NEW "Sun"
+dist/electron/app-modules.js@545084
+    OLD "周日"
+    NEW "Sun"
+dist/electron/app-modules.js@301489
+    OLD "周末"
+    NEW "Weekend"
+dist/electron/app-modules.js@545296
+    OLD "周末"
+    NEW "Weekend"
+dist/electron/app-modules.js@1223122
+    OLD "图片"
+    NEW "Image"
+dist/electron/app-modules.js@361735
+    OLD "图片视频备份"
+    NEW "Photos & videos backup"
+dist/electron/app-modules.js@32844
+    OLD "失败"
+    NEW "Failed"
+dist/electron/app-modules.js@34375
+    OLD "失败"
+    NEW "Failed"
+dist/electron/app-modules.js@244286
+    OLD "失败"
+    NEW "Failed"
+dist/electron/app-modules.js@244978
+    OLD "失败"
+    NEW "Failed"
+dist/electron/app-modules.js@181351
+    OLD "导入"
+    NEW "Import"
+dist/electron/app-modules.js@1178011
+    OLD "寿星名字"
+    NEW "Name of the person celebrating"
+dist/electron/app-modules.js@302372
+    OLD "小时"
+    NEW " hours"
+dist/electron/app-modules.js@155305
+    OLD "工作"
+    NEW "Work"
+dist/electron/app-modules.js@301445
+    OLD "工作日(周一至周五)"
+    NEW "Weekdays (Mon-Fri)"
+dist/electron/app-modules.js@545252
+    OLD "工作日(周一至周五)"
+    NEW "Weekdays (Mon-Fri)"
+dist/electron/app-modules.js@121689
+    OLD "平板"
+    NEW "tablet"
+dist/electron/app-modules.js@237847
+    OLD "平板"
+    NEW "tablet"
+dist/electron/app-modules.js@241953
+    OLD "平板"
+    NEW "tablet"
+dist/electron/app-modules.js@482948
+    OLD "平板"
+    NEW "tablet"
+dist/electron/app-modules.js@1227914
+    OLD "平板"
+    NEW "tablet"
+dist/electron/app-modules.js@162294
+    OLD "应用"
+    NEW "Apps"
+dist/electron/app-modules.js@775814
+    OLD "待办列表"
+    NEW "To-do list"
+dist/electron/app-modules.js@29537
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@30201
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@30741
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@31165
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@31715
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@32821
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@33772
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@34006
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@34370
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@34472
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@38864
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@244281
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@244973
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@429257
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@1230271
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/app-modules.js@150309
+    OLD "手动"
+    NEW "Manual"
+dist/electron/app-modules.js@121694
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-modules.js@237842
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-modules.js@241958
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-modules.js@281473
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-modules.js@482943
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-modules.js@1225238
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-modules.js@1227919
+    OLD "手机"
+    NEW "phone"
+dist/electron/app-modules.js@361515
+    OLD "收起"
+    NEW "Hide"
+dist/electron/app-modules.js@363812
+    OLD "收起"
+    NEW "Hide"
+dist/electron/app-modules.js@366913
+    OLD "整机备份与恢复"
+    NEW "Full device backup & restore"
+dist/electron/app-modules.js@1177069
+    OLD "无标题"
+    NEW "Untitled"
+dist/electron/app-modules.js@1287806
+    OLD "无标题"
+    NEW "Untitled"
+dist/electron/app-modules.js@78884
+    OLD "日程导入与管理"
+    NEW "Import and manage schedules"
+dist/electron/app-modules.js@375806
+    OLD "更改"
+    NEW "Change"
+dist/electron/app-modules.js@288795
+    OLD "服务器地址格式错误"
+    NEW "Invalid server address format"
+dist/electron/app-modules.js@533026
+    OLD "服务器地址格式错误"
+    NEW "Invalid server address format"
+dist/electron/app-modules.js@80648
+    OLD "未开启自动备份"
+    NEW "Auto backup not enabled"
+dist/electron/app-modules.js@80725
+    OLD "未开启自动备份"
+    NEW "Auto backup not enabled"
+dist/electron/app-modules.js@288865
+    OLD "未知错误"
+    NEW "Unknown error"
+dist/electron/app-modules.js@363177
+    OLD "查看备份文件"
+    NEW "View backup files"
+dist/electron/app-modules.js@78382
+    OLD "正在同步"
+    NEW "Syncing"
+dist/electron/app-modules.js@155273
+    OLD "生日"
+    NEW "Birthday"
+dist/electron/app-modules.js@162252
+    OLD "电话"
+    NEW "Phone"
+dist/electron/app-modules.js@126255
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/app-modules.js@129815
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/app-modules.js@145699
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/app-modules.js@145478
+    OLD "确定"
+    NEW "OK"
+dist/electron/app-modules.js@367739
+    OLD "管理备份数据"
+    NEW "Manage backup data"
+dist/electron/app-modules.js@368103
+    OLD "管理备份数据"
+    NEW "Manage backup data"
+dist/electron/app-modules.js@1178047
+    OLD "纪念内容"
+    NEW "What is being commemorated"
+dist/electron/app-modules.js@155369
+    OLD "纪念日"
+    NEW "Anniversary"
+dist/electron/app-modules.js@244274
+    OLD "结束"
+    NEW "End"
+dist/electron/app-modules.js@244966
+    OLD "结束"
+    NEW "End"
+dist/electron/app-modules.js@362849
+    OLD "自动备份"
+    NEW "Auto backup"
+dist/electron/app-modules.js@362907
+    OLD "自动将本设备相册内的图片、视频备份至电脑。"
+    NEW "Automatically back up photos and videos from this device to this PC."
+dist/electron/app-modules.js@301516
+    OLD "自然日"
+    NEW "Calendar day"
+dist/electron/app-modules.js@545323
+    OLD "自然日"
+    NEW "Calendar day"
+dist/electron/app-modules.js@181331
+    OLD "视频"
+    NEW "Video"
+dist/electron/app-modules.js@405983
+    OLD "视频"
+    NEW "Video"
+dist/electron/app-modules.js@406097
+    OLD "视频"
+    NEW "Video"
+dist/electron/app-modules.js@1223157
+    OLD "视频"
+    NEW "Video"
+dist/electron/app-modules.js@1174287
+    OLD "试着输入“明晚7点聚餐”"
+    NEW "Try typing “Dinner at 7 tomorrow night”"
+dist/electron/app-modules.js@1178366
+    OLD "试着输入“明晚7点聚餐”"
+    NEW "Try typing “Dinner at 7 tomorrow night”"
+dist/electron/app-modules.js@133019
+    OLD "请先使用USB数据线连接该手机和电脑，并保持手机解锁亮屏"
+    NEW "Connect the device to this PC with a USB cable and keep the screen unlocked."
+dist/electron/app-modules.js@133818
+    OLD "请先使用USB数据线连接该手机和电脑，并保持手机解锁亮屏"
+    NEW "Connect the device to this PC with a USB cable and keep the screen unlocked."
+dist/electron/app-modules.js@134042
+    OLD "请先使用USB数据线连接该手机和电脑，并保持手机解锁亮屏"
+    NEW "Connect the device to this PC with a USB cable and keep the screen unlocked."
+dist/electron/app-modules.js@134116
+    OLD "请先使用USB数据线连接该手机和电脑，并保持手机解锁亮屏"
+    NEW "Connect the device to this PC with a USB cable and keep the screen unlocked."
+dist/electron/app-modules.js@145674
+    OLD "请前往电脑网页查看"
+    NEW "Open the desktop app to view this"
+dist/electron/app-modules.js@362557
+    OLD "重试"
+    NEW "Retry"
+dist/electron/app-modules.js@1223192
+    OLD "音频"
+    NEW "Audio"
+dist/electron/child-window.js@218926
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/child-window.js@219183
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/child-window.js@219391
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/child-window.js@219636
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/child-window.js@219860
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/child-window.js@220322
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/child-window.js@220506
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/child-window.js@220697
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/child-window.js@220885
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/child-window.js@221184
+    OLD "保存为新原子笔记"
+    NEW "Save as a new note"
+dist/electron/child-window.js@865809 [OUVERT]
+    OLD "已成功保存到原子笔记"
+    NEW "Saved to Notes"
+dist/electron/child-window.js@404068
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/child-window.js@405605
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/child-window.js@614257
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/child-window.js@523581
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/child-window.js@218847
+    OLD "插入当前原子笔记"
+    NEW "Insert into current note"
+dist/electron/child-window.js@219109
+    OLD "插入当前原子笔记"
+    NEW "Insert into current note"
+dist/electron/child-window.js@219314
+    OLD "插入当前原子笔记"
+    NEW "Insert into current note"
+dist/electron/child-window.js@219564
+    OLD "插入当前原子笔记"
+    NEW "Insert into current note"
+dist/electron/child-window.js@219796
+    OLD "插入当前原子笔记"
+    NEW "Insert into current note"
+dist/electron/child-window.js@220255
+    OLD "插入当前原子笔记"
+    NEW "Insert into current note"
+dist/electron/child-window.js@220442
+    OLD "插入当前原子笔记"
+    NEW "Insert into current note"
+dist/electron/child-window.js@220630
+    OLD "插入当前原子笔记"
+    NEW "Insert into current note"
+dist/electron/child-window.js@220818
+    OLD "插入当前原子笔记"
+    NEW "Insert into current note"
+dist/electron/child-window.js@221120
+    OLD "插入当前原子笔记"
+    NEW "Insert into current note"
+dist/electron/child-window.js@404010
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/child-window.js@404943
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/child-window.js@614229
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/child-window.js@404979
+    OLD "日程与待办管理"
+    NEW "Schedules and to-dos"
+dist/electron/child-window.js@404401
+    OLD "相册"
+    NEW "Album"
+dist/electron/child-window.js@614199
+    OLD "相册"
+    NEW "Album"
+dist/electron/child-window.js@614315
+    OLD "相册"
+    NEW "Album"
+dist/electron/child-window.js@406577
+    OLD "10小时"
+    NEW "10 hours"
+dist/electron/child-window.js@406618
+    OLD "11小时"
+    NEW "11 hours"
+dist/electron/child-window.js@406659
+    OLD "12小时"
+    NEW "12 hours"
+dist/electron/child-window.js@406700
+    OLD "13小时"
+    NEW "13 hours"
+dist/electron/child-window.js@406741
+    OLD "14小时"
+    NEW "14 hours"
+dist/electron/child-window.js@406782
+    OLD "15小时"
+    NEW "15 hours"
+dist/electron/child-window.js@406823
+    OLD "16小时"
+    NEW "16 hours"
+dist/electron/child-window.js@406864
+    OLD "17小时"
+    NEW "17 hours"
+dist/electron/child-window.js@406905
+    OLD "18小时"
+    NEW "18 hours"
+dist/electron/child-window.js@406946
+    OLD "19小时"
+    NEW "19 hours"
+dist/electron/child-window.js@406987
+    OLD "20小时"
+    NEW "20 hours"
+dist/electron/child-window.js@407028
+    OLD "21小时"
+    NEW "21 hours"
+dist/electron/child-window.js@407069
+    OLD "22小时"
+    NEW "22 hours"
+dist/electron/child-window.js@407110
+    OLD "23小时"
+    NEW "23 hours"
+dist/electron/child-window.js@407151
+    OLD "24小时"
+    NEW "24 hours"
+dist/electron/child-window.js@406425
+    OLD "6小时"
+    NEW "6 hours"
+dist/electron/child-window.js@406463
+    OLD "7小时"
+    NEW "7 hours"
+dist/electron/child-window.js@406501
+    OLD "8小时"
+    NEW "8 hours"
+dist/electron/child-window.js@406539
+    OLD "9小时"
+    NEW "9 hours"
+dist/electron/child-window.js@405411
+    OLD "CalDav账号导入"
+    NEW "Import from a CalDAV account"
+dist/electron/child-window.js@406208
+    OLD "一"
+    NEW "M"
+dist/electron/child-window.js@406280
+    OLD "三"
+    NEW "W"
+dist/electron/child-window.js@407367
+    OLD "个人"
+    NEW "Personal"
+dist/electron/child-window.js@407242
+    OLD "中国农历"
+    NEW "Chinese lunar"
+dist/electron/child-window.js@406244
+    OLD "二"
+    NEW "T"
+dist/electron/child-window.js@519762
+    OLD "云服务"
+    NEW "Cloud services"
+dist/electron/child-window.js@406352
+    OLD "五"
+    NEW "F"
+dist/electron/child-window.js@407278
+    OLD "伊斯兰历"
+    NEW "Islamic"
+dist/electron/child-window.js@405287
+    OLD "使用帮助"
+    NEW "Help"
+dist/electron/child-window.js@855582
+    OLD "保存"
+    NEW "Save"
+dist/electron/child-window.js@407653
+    OLD "倒数日"
+    NEW "Countdown"
+dist/electron/child-window.js@865558
+    OLD "全部笔记"
+    NEW "All notes"
+dist/electron/child-window.js@406388
+    OLD "六"
+    NEW "S"
+dist/electron/child-window.js@690021
+    OLD "关闭"
+    NEW "Close"
+dist/electron/child-window.js@218989
+    OLD "删除"
+    NEW "Delete"
+dist/electron/child-window.js@219241
+    OLD "删除"
+    NEW "Delete"
+dist/electron/child-window.js@219452
+    OLD "删除"
+    NEW "Delete"
+dist/electron/child-window.js@219692
+    OLD "删除"
+    NEW "Delete"
+dist/electron/child-window.js@219908
+    OLD "删除"
+    NEW "Delete"
+dist/electron/child-window.js@220015
+    OLD "删除"
+    NEW "Delete"
+dist/electron/child-window.js@220373
+    OLD "删除"
+    NEW "Delete"
+dist/electron/child-window.js@220554
+    OLD "删除"
+    NEW "Delete"
+dist/electron/child-window.js@220748
+    OLD "删除"
+    NEW "Delete"
+dist/electron/child-window.js@220987
+    OLD "删除"
+    NEW "Delete"
+dist/electron/child-window.js@221232
+    OLD "删除"
+    NEW "Delete"
+dist/electron/child-window.js@1019993
+    OLD "删除成功"
+    NEW "Deleted"
+dist/electron/child-window.js@406061
+    OLD "反馈记录"
+    NEW "Feedback history"
+dist/electron/child-window.js@406103
+    OLD "反馈详情"
+    NEW "Feedback details"
+dist/electron/child-window.js@612996
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/child-window.js@855892
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/child-window.js@856436
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/child-window.js@613153
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/child-window.js@398788
+    OLD "同步失败"
+    NEW "Sync failed"
+dist/electron/child-window.js@398795
+    OLD "同步成功"
+    NEW "Sync completed"
+dist/electron/child-window.js@405205
+    OLD "同步的日程类型"
+    NEW "Synced schedule types"
+dist/electron/child-window.js@403624
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/child-window.js@403675
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/child-window.js@404339
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/child-window.js@404367
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/child-window.js@406316
+    OLD "四"
+    NEW "T"
+dist/electron/child-window.js@1239339
+    OLD "图片"
+    NEW "Image"
+dist/electron/child-window.js@219059
+    OLD "复制"
+    NEW "Copy"
+dist/electron/child-window.js@219520
+    OLD "复制"
+    NEW "Copy"
+dist/electron/child-window.js@219756
+    OLD "复制"
+    NEW "Copy"
+dist/electron/child-window.js@219975
+    OLD "复制"
+    NEW "Copy"
+dist/electron/child-window.js@220200
+    OLD "复制"
+    NEW "Copy"
+dist/electron/child-window.js@221058
+    OLD "复制"
+    NEW "Copy"
+dist/electron/child-window.js@855577
+    OLD "复制"
+    NEW "Copy"
+dist/electron/child-window.js@233692
+    OLD "复制成功"
+    NEW "Copied"
+dist/electron/child-window.js@234052
+    OLD "复制成功"
+    NEW "Copied"
+dist/electron/child-window.js@234671
+    OLD "复制成功"
+    NEW "Copied"
+dist/electron/child-window.js@234971
+    OLD "复制成功"
+    NEW "Copied"
+dist/electron/child-window.js@405324
+    OLD "如何从Exchange邮箱账号中导入日程？"
+    NEW "How do I import events from an Exchange mailbox?"
+dist/electron/child-window.js@407440
+    OLD "工作"
+    NEW "Work"
+dist/electron/child-window.js@614376
+    OLD "录音文件"
+    NEW "Audio files"
+dist/electron/child-window.js@405866
+    OLD "手机投屏"
+    NEW "Phone Mirroring"
+dist/electron/child-window.js@405642
+    OLD "扬声器"
+    NEW "Speaker"
+dist/electron/child-window.js@787388
+    OLD "投屏"
+    NEW "Screen mirroring"
+dist/electron/child-window.js@788979
+    OLD "投屏"
+    NEW "Screen mirroring"
+dist/electron/child-window.js@789109
+    OLD "投屏"
+    NEW "Screen mirroring"
+dist/electron/child-window.js@407209
+    OLD "无"
+    NEW "None"
+dist/electron/child-window.js@406172
+    OLD "日"
+    NEW "S"
+dist/electron/child-window.js@405025
+    OLD "日程导入"
+    NEW "Import schedules"
+dist/electron/child-window.js@405454
+    OLD "时区优先"
+    NEW "Use time zone"
+dist/electron/child-window.js@406192
+    OLD "星期一"
+    NEW "Monday"
+dist/electron/child-window.js@406264
+    OLD "星期三"
+    NEW "Wednesday"
+dist/electron/child-window.js@406228
+    OLD "星期二"
+    NEW "Tuesday"
+dist/electron/child-window.js@406336
+    OLD "星期五"
+    NEW "Friday"
+dist/electron/child-window.js@406372
+    OLD "星期六"
+    NEW "Saturday"
+dist/electron/child-window.js@406300
+    OLD "星期四"
+    NEW "Thursday"
+dist/electron/child-window.js@406156
+    OLD "星期日"
+    NEW "Sunday"
+dist/electron/child-window.js@1239060
+    OLD "未完成"
+    NEW "Not done"
+dist/electron/child-window.js@1239360
+    OLD "未设置"
+    NEW "Not set"
+dist/electron/child-window.js@1239521
+    OLD "未设置"
+    NEW "Not set"
+dist/electron/child-window.js@855562
+    OLD "查看"
+    NEW "View"
+dist/electron/child-window.js@557404
+    OLD "正在连接"
+    NEW "Connecting"
+dist/electron/child-window.js@607889
+    OLD "正在连接"
+    NEW "Connecting"
+dist/electron/child-window.js@1241020
+    OLD "正在连接"
+    NEW "Connecting"
+dist/electron/child-window.js@405061
+    OLD "添加类型"
+    NEW "Add type"
+dist/electron/child-window.js@407509
+    OLD "生日"
+    NEW "Birthday"
+dist/electron/child-window.js@279552
+    OLD "电脑、云端及其他同步设备"
+    NEW "Computer, cloud, and other synced devices"
+dist/electron/child-window.js@397901
+    OLD "登录失败"
+    NEW "Sign-in failed"
+dist/electron/child-window.js@397908
+    OLD "登录成功"
+    NEW "Signed in"
+dist/electron/child-window.js@203866
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/child-window.js@865923
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/child-window.js@612712
+    OLD "确定关闭\"相册云同步\"吗？"
+    NEW "Turn off Cloud Album sync?"
+dist/electron/child-window.js@613170
+    OLD "移除并关闭"
+    NEW "Remove and close"
+dist/electron/child-window.js@613271
+    OLD "移除并关闭"
+    NEW "Remove and close"
+dist/electron/child-window.js@613178
+    OLD "立即关闭"
+    NEW "Close now"
+dist/electron/child-window.js@613279
+    OLD "立即关闭"
+    NEW "Close now"
+dist/electron/child-window.js@404866
+    OLD "笔记快捷键"
+    NEW "Note keyboard shortcuts"
+dist/electron/child-window.js@404798
+    OLD "笔记默认字号"
+    NEW "Default note font size"
+dist/electron/child-window.js@407579
+    OLD "纪念日"
+    NEW "Anniversary"
+dist/electron/child-window.js@405094
+    OLD "编辑类型"
+    NEW "Edit type"
+dist/electron/child-window.js@405250
+    OLD "编辑类型"
+    NEW "Edit type"
+dist/electron/child-window.js@404127
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/child-window.js@405906
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/child-window.js@1030456
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/child-window.js@1239355
+    OLD "视频"
+    NEW "Video"
+dist/electron/child-window.js@1278934
+    OLD "设备互联"
+    NEW "Device interconnection"
+dist/electron/child-window.js@1279038
+    OLD "设备互联"
+    NEW "Device interconnection"
+dist/electron/child-window.js@405172
+    OLD "账号信息"
+    NEW "Account info"
+dist/electron/child-window.js@405128
+    OLD "账号详情"
+    NEW "Account details"
+dist/electron/child-window.js@405375
+    OLD "邮箱账号导入"
+    NEW "Import from an email account"
+dist/electron/child-window.js@1231389
+    OLD "预览"
+    NEW "Preview"
+dist/electron/child-window.js@405520
+    OLD "默认待办提醒时间"
+    NEW "Default to-do reminder time"
+dist/electron/child-window.js@405484
+    OLD "默认提醒时间"
+    NEW "Default reminder time"
+dist/electron/child-window.js@405563
+    OLD "默认提醒时间"
+    NEW "Default reminder time"
+dist/electron/components-connection.js@491242
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/components-connection.js@492705
+    OLD "vivo办公套件摄像头"
+    NEW "vivo PC Suite Camera"
+dist/electron/components-connection.js@517978
+    OLD "vivo办公套件摄像头"
+    NEW "vivo PC Suite Camera"
+dist/electron/components-connection.js@103894
+    OLD "2.部分手机或平板接入电脑时，手机或平板的弹窗会显示“连接办公套件”选项，点击后允许USB调试，可开始连接。"
+    NEW "2. When some phones or tablets connect to the computer, a prompt appears offering Connect to PC Suite. Tap it and allow USB debugging to start connecting."
+dist/electron/components-connection.js@203083
+    OLD "“量子套件”已正式更名为“vivo办公套件”，新增了手机、平板与电脑间键鼠协同、远控控制与文件传输管理，为您提供更高效便捷的办公体验。"
+    NEW "Quantum Suite is now vivo PC Suite, with keyboard and mouse control, remote control and file transfer between your phone, tablet and computer."
+dist/electron/components-connection.js@308857
+    OLD "上点击“控制中心”>“自定义”>“办公套件（连接量子套件）”"
+    NEW " tap Control centre > Customise > PC Suite (connect to Quantum Suite)"
+dist/electron/components-connection.js@276535
+    OLD "上的vivo办公套件版本较低， 是否升级？升级成功后需要重新加接\\n    "
+    NEW " has an older version of vivo PC Suite. Upgrade now? You will need to reconnect after upgrading.\\n    "
+dist/electron/components-connection.js@203033
+    OLD "上的vivo办公套件（原量子套件）版本较低，升级后才能重新连接，是否升级？"
+    NEW " runs an older version of vivo PC Suite (formerly Quantum Suite). Upgrade to reconnect. Upgrade now?"
+dist/electron/components-connection.js@232171
+    OLD "使用 USB 连接或扫码连接${this.deviceTypeDesc}与电脑。"
+    NEW "Use USB or scan the QR code to connect your \\${this.deviceTypeDesc} to the computer."
+dist/electron/components-connection.js@314648
+    OLD "关闭"
+    NEW "Close"
+dist/electron/components-connection.js@316198
+    OLD "关闭"
+    NEW "Close"
+dist/electron/components-connection.js@253214
+    OLD "功能不可用，完成下述步骤即可使用"
+    NEW "This feature is unavailable. Complete the steps below to use it"
+dist/electron/components-connection.js@290205
+    OLD "去开启"
+    NEW "Turn on"
+dist/electron/components-connection.js@291911
+    OLD "去开启"
+    NEW "Turn on"
+dist/electron/components-connection.js@254446
+    OLD "去连接"
+    NEW "Connect"
+dist/electron/components-connection.js@23986
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/components-connection.js@415255
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/components-connection.js@276656 [BLANCHE]
+    OLD "\\n         取消\\n    "
+    NEW "\\n         Cancel\\n    "
+dist/electron/components-connection.js@712
+    OLD "平板"
+    NEW "tablet"
+dist/electron/components-connection.js@5178
+    OLD "平板"
+    NEW "tablet"
+dist/electron/components-connection.js@6019
+    OLD "平板"
+    NEW "tablet"
+dist/electron/components-connection.js@8727
+    OLD "平板"
+    NEW "tablet"
+dist/electron/components-connection.js@19649
+    OLD "平板"
+    NEW "tablet"
+dist/electron/components-connection.js@29324
+    OLD "平板"
+    NEW "tablet"
+dist/electron/components-connection.js@38108
+    OLD "平板"
+    NEW "tablet"
+dist/electron/components-connection.js@40428
+    OLD "平板"
+    NEW "tablet"
+dist/electron/components-connection.js@44145
+    OLD "平板"
+    NEW "tablet"
+dist/electron/components-connection.js@253859
+    OLD "开启"
+    NEW "Enable "
+dist/electron/components-connection.js@318325
+    OLD "开启"
+    NEW "Enable "
+dist/electron/components-connection.js@319622
+    OLD "开启"
+    NEW "Enable "
+dist/electron/components-connection.js@483851
+    OLD "开启电脑端“原子笔记接力”开关。"
+    NEW "Turn on Notes handoff on your computer."
+dist/electron/components-connection.js@482479
+    OLD "开启电脑端“图片接力”开关。"
+    NEW "Turn on \\\"Photo Relay\\\" on the computer."
+dist/electron/components-connection.js@487261
+    OLD "开启电脑端“电话接力”开关。"
+    NEW "Turn on \\\"Call Relay\\\" on the computer."
+dist/electron/components-connection.js@480600
+    OLD "开启电脑端“通知接力”开关。"
+    NEW "Turn on \\\"Notification Relay\\\" on the computer."
+dist/electron/components-connection.js@488959
+    OLD "开启电脑端“验证码接力”开关。"
+    NEW "Turn on \\\"Verification Code Relay\\\" on the computer."
+dist/electron/components-connection.js@478114
+    OLD "开启电脑端的“剪贴板”开关。"
+    NEW "Turn on the \\\"Clipboard\\\" switch on the computer."
+dist/electron/components-connection.js@717
+    OLD "手机"
+    NEW "phone"
+dist/electron/components-connection.js@5183
+    OLD "手机"
+    NEW "phone"
+dist/electron/components-connection.js@6024
+    OLD "手机"
+    NEW "phone"
+dist/electron/components-connection.js@8732
+    OLD "手机"
+    NEW "phone"
+dist/electron/components-connection.js@19678
+    OLD "手机"
+    NEW "phone"
+dist/electron/components-connection.js@29329
+    OLD "手机"
+    NEW "phone"
+dist/electron/components-connection.js@38113
+    OLD "手机"
+    NEW "phone"
+dist/electron/components-connection.js@40433
+    OLD "手机"
+    NEW "phone"
+dist/electron/components-connection.js@44150
+    OLD "手机"
+    NEW "phone"
+dist/electron/components-connection.js@107643
+    OLD "手机"
+    NEW "phone"
+dist/electron/components-connection.js@413706
+    OLD "手机投屏"
+    NEW "Phone Mirroring"
+dist/electron/components-connection.js@413717
+    OLD "手机投屏"
+    NEW "Phone Mirroring"
+dist/electron/components-connection.js@414690
+    OLD "手机投屏"
+    NEW "Phone Mirroring"
+dist/electron/components-connection.js@252843
+    OLD "手机接收到短信验证码时，同步展示在电脑上，并可在电脑上进行复制。"
+    NEW "When the phone receives an SMS verification code, it is shown on the computer so you can copy it there."
+dist/electron/components-connection.js@307882
+    OLD "查看帮助"
+    NEW "View help"
+dist/electron/components-connection.js@308564
+    OLD "的vivo办公套件开关"
+    NEW " vivo PC Suite switch"
+dist/electron/components-connection.js@276167
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/components-connection.js@313152
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/components-connection.js@277545 [BLANCHE]
+    OLD "\\n        确定\\n    "
+    NEW "\\n        OK\\n    "
+dist/electron/components-connection.js@278025 [BLANCHE]
+    OLD "\\n         确定\\n    "
+    NEW "\\n         OK\\n    "
+dist/electron/components-connection.js@416860
+    OLD "设备互联"
+    NEW "Device interconnection"
+dist/electron/list.worker.worker.js@2190
+    OLD "今天"
+    NEW "Today"
+dist/electron/list.worker.worker.js@1887
+    OLD "无标题"
+    NEW "Untitled"
+dist/electron/main.js@3942215 [BLANCHE]
+    OLD "vivo办公套件 "
+    NEW "vivo PC Suite "
+dist/electron/main.js@374573
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/main.js@378748
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/main.js@490553
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/main.js@2111180
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/main.js@4149023
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/main.js@4149049
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/main.js@4149070
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/main.js@4434306
+    OLD "vivo办公套件"
+    NEW "vivo PC Suite"
+dist/electron/main.js@4544590
+    OLD "关于vivo办公套件"
+    NEW "About vivo PC Suite"
+dist/electron/main.js@4545206
+    OLD "退出vivo办公套件"
+    NEW "Exit vivo PC Suite"
+dist/electron/main.js@4544718
+    OLD "隐藏vivo办公套件"
+    NEW "Hide vivo PC Suite"
+dist/electron/main.js@3668670
+    OLD "pc端vivo办公套件需要升级"
+    NEW "The PC version of vivo PC Suite needs an update"
+dist/electron/main.js@3668693
+    OLD "pc端vivo办公套件需要升级"
+    NEW "The PC version of vivo PC Suite needs an update"
+dist/electron/main.js@3668745
+    OLD "pc端vivo办公套件需要升级"
+    NEW "The PC version of vivo PC Suite needs an update"
+dist/electron/main.js@1355599
+    OLD "vivo办公套件有更新可用"
+    NEW "An update is available for vivo PC Suite"
+dist/electron/main.js@1280761
+    OLD "全部"
+    NEW "All"
+dist/electron/main.js@4545083
+    OLD "全部显示"
+    NEW "Show all"
+dist/electron/main.js@4546746
+    OLD "关闭全部窗口"
+    NEW "Close all windows"
+dist/electron/main.js@4546510
+    OLD "前置全部窗口"
+    NEW "Bring all windows to front"
+dist/electron/main.js@1280891
+    OLD "应用"
+    NEW "Apps"
+dist/electron/main.js@1280849
+    OLD "电话"
+    NEW "Phone"
+dist/electron/module-share-preview.js@761280 [OUVERT]
+    OLD "已成功保存到原子笔记"
+    NEW "Saved to Notes"
+dist/electron/module-share-preview.js@335684
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/module-share-preview.js@337221
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/module-share-preview.js@542104
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/module-share-preview.js@455197
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/module-share-preview.js@335626
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/module-share-preview.js@336559
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/module-share-preview.js@542076
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/module-share-preview.js@336595
+    OLD "日程与待办管理"
+    NEW "Schedules and to-dos"
+dist/electron/module-share-preview.js@336017
+    OLD "相册"
+    NEW "Album"
+dist/electron/module-share-preview.js@542046
+    OLD "相册"
+    NEW "Album"
+dist/electron/module-share-preview.js@542162
+    OLD "相册"
+    NEW "Album"
+dist/electron/module-share-preview.js@338193
+    OLD "10小时"
+    NEW "10 hours"
+dist/electron/module-share-preview.js@338234
+    OLD "11小时"
+    NEW "11 hours"
+dist/electron/module-share-preview.js@338275
+    OLD "12小时"
+    NEW "12 hours"
+dist/electron/module-share-preview.js@338316
+    OLD "13小时"
+    NEW "13 hours"
+dist/electron/module-share-preview.js@338357
+    OLD "14小时"
+    NEW "14 hours"
+dist/electron/module-share-preview.js@338398
+    OLD "15小时"
+    NEW "15 hours"
+dist/electron/module-share-preview.js@338439
+    OLD "16小时"
+    NEW "16 hours"
+dist/electron/module-share-preview.js@338480
+    OLD "17小时"
+    NEW "17 hours"
+dist/electron/module-share-preview.js@338521
+    OLD "18小时"
+    NEW "18 hours"
+dist/electron/module-share-preview.js@338562
+    OLD "19小时"
+    NEW "19 hours"
+dist/electron/module-share-preview.js@338603
+    OLD "20小时"
+    NEW "20 hours"
+dist/electron/module-share-preview.js@338644
+    OLD "21小时"
+    NEW "21 hours"
+dist/electron/module-share-preview.js@338685
+    OLD "22小时"
+    NEW "22 hours"
+dist/electron/module-share-preview.js@338726
+    OLD "23小时"
+    NEW "23 hours"
+dist/electron/module-share-preview.js@338767
+    OLD "24小时"
+    NEW "24 hours"
+dist/electron/module-share-preview.js@338041
+    OLD "6小时"
+    NEW "6 hours"
+dist/electron/module-share-preview.js@338079
+    OLD "7小时"
+    NEW "7 hours"
+dist/electron/module-share-preview.js@338117
+    OLD "8小时"
+    NEW "8 hours"
+dist/electron/module-share-preview.js@338155
+    OLD "9小时"
+    NEW "9 hours"
+dist/electron/module-share-preview.js@337027
+    OLD "CalDav账号导入"
+    NEW "Import from a CalDAV account"
+dist/electron/module-share-preview.js@337824
+    OLD "一"
+    NEW "M"
+dist/electron/module-share-preview.js@337896
+    OLD "三"
+    NEW "W"
+dist/electron/module-share-preview.js@338983
+    OLD "个人"
+    NEW "Personal"
+dist/electron/module-share-preview.js@338858
+    OLD "中国农历"
+    NEW "Chinese lunar"
+dist/electron/module-share-preview.js@337860
+    OLD "二"
+    NEW "T"
+dist/electron/module-share-preview.js@451378
+    OLD "云服务"
+    NEW "Cloud services"
+dist/electron/module-share-preview.js@337968
+    OLD "五"
+    NEW "F"
+dist/electron/module-share-preview.js@338894
+    OLD "伊斯兰历"
+    NEW "Islamic"
+dist/electron/module-share-preview.js@336903
+    OLD "使用帮助"
+    NEW "Help"
+dist/electron/module-share-preview.js@751053
+    OLD "保存"
+    NEW "Save"
+dist/electron/module-share-preview.js@339269
+    OLD "倒数日"
+    NEW "Countdown"
+dist/electron/module-share-preview.js@761029
+    OLD "全部笔记"
+    NEW "All notes"
+dist/electron/module-share-preview.js@338004
+    OLD "六"
+    NEW "S"
+dist/electron/module-share-preview.js@915464
+    OLD "删除成功"
+    NEW "Deleted"
+dist/electron/module-share-preview.js@337677
+    OLD "反馈记录"
+    NEW "Feedback history"
+dist/electron/module-share-preview.js@337719
+    OLD "反馈详情"
+    NEW "Feedback details"
+dist/electron/module-share-preview.js@541000
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/module-share-preview.js@540843
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/module-share-preview.js@751363
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/module-share-preview.js@751907
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/module-share-preview.js@332247
+    OLD "同步失败"
+    NEW "Sync failed"
+dist/electron/module-share-preview.js@332254
+    OLD "同步成功"
+    NEW "Sync completed"
+dist/electron/module-share-preview.js@336821
+    OLD "同步的日程类型"
+    NEW "Synced schedule types"
+dist/electron/module-share-preview.js@335240
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/module-share-preview.js@335291
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/module-share-preview.js@335955
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/module-share-preview.js@335983
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/module-share-preview.js@337932
+    OLD "四"
+    NEW "T"
+dist/electron/module-share-preview.js@996344
+    OLD "图片"
+    NEW "Image"
+dist/electron/module-share-preview.js@751048
+    OLD "复制"
+    NEW "Copy"
+dist/electron/module-share-preview.js@336940
+    OLD "如何从Exchange邮箱账号中导入日程？"
+    NEW "How do I import events from an Exchange mailbox?"
+dist/electron/module-share-preview.js@339056
+    OLD "工作"
+    NEW "Work"
+dist/electron/module-share-preview.js@542223
+    OLD "录音文件"
+    NEW "Audio files"
+dist/electron/module-share-preview.js@337482
+    OLD "手机投屏"
+    NEW "Phone Mirroring"
+dist/electron/module-share-preview.js@337258
+    OLD "扬声器"
+    NEW "Speaker"
+dist/electron/module-share-preview.js@705892
+    OLD "投屏"
+    NEW "Screen mirroring"
+dist/electron/module-share-preview.js@707483
+    OLD "投屏"
+    NEW "Screen mirroring"
+dist/electron/module-share-preview.js@707613
+    OLD "投屏"
+    NEW "Screen mirroring"
+dist/electron/module-share-preview.js@338825
+    OLD "无"
+    NEW "None"
+dist/electron/module-share-preview.js@337788
+    OLD "日"
+    NEW "S"
+dist/electron/module-share-preview.js@336641
+    OLD "日程导入"
+    NEW "Import schedules"
+dist/electron/module-share-preview.js@337070
+    OLD "时区优先"
+    NEW "Use time zone"
+dist/electron/module-share-preview.js@337808
+    OLD "星期一"
+    NEW "Monday"
+dist/electron/module-share-preview.js@337880
+    OLD "星期三"
+    NEW "Wednesday"
+dist/electron/module-share-preview.js@337844
+    OLD "星期二"
+    NEW "Tuesday"
+dist/electron/module-share-preview.js@337952
+    OLD "星期五"
+    NEW "Friday"
+dist/electron/module-share-preview.js@337988
+    OLD "星期六"
+    NEW "Saturday"
+dist/electron/module-share-preview.js@337916
+    OLD "星期四"
+    NEW "Thursday"
+dist/electron/module-share-preview.js@337772
+    OLD "星期日"
+    NEW "Sunday"
+dist/electron/module-share-preview.js@996065
+    OLD "未完成"
+    NEW "Not done"
+dist/electron/module-share-preview.js@996365
+    OLD "未设置"
+    NEW "Not set"
+dist/electron/module-share-preview.js@996526
+    OLD "未设置"
+    NEW "Not set"
+dist/electron/module-share-preview.js@751033
+    OLD "查看"
+    NEW "View"
+dist/electron/module-share-preview.js@485251
+    OLD "正在连接"
+    NEW "Connecting"
+dist/electron/module-share-preview.js@535736
+    OLD "正在连接"
+    NEW "Connecting"
+dist/electron/module-share-preview.js@998025
+    OLD "正在连接"
+    NEW "Connecting"
+dist/electron/module-share-preview.js@336677
+    OLD "添加类型"
+    NEW "Add type"
+dist/electron/module-share-preview.js@339125
+    OLD "生日"
+    NEW "Birthday"
+dist/electron/module-share-preview.js@213011
+    OLD "电脑、云端及其他同步设备"
+    NEW "Computer, cloud, and other synced devices"
+dist/electron/module-share-preview.js@331360
+    OLD "登录失败"
+    NEW "Sign-in failed"
+dist/electron/module-share-preview.js@331367
+    OLD "登录成功"
+    NEW "Signed in"
+dist/electron/module-share-preview.js@184397
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/module-share-preview.js@761394
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/module-share-preview.js@540559
+    OLD "确定关闭\"相册云同步\"吗？"
+    NEW "Turn off Cloud Album sync?"
+dist/electron/module-share-preview.js@541017
+    OLD "移除并关闭"
+    NEW "Remove and close"
+dist/electron/module-share-preview.js@541118
+    OLD "移除并关闭"
+    NEW "Remove and close"
+dist/electron/module-share-preview.js@541025
+    OLD "立即关闭"
+    NEW "Close now"
+dist/electron/module-share-preview.js@541126
+    OLD "立即关闭"
+    NEW "Close now"
+dist/electron/module-share-preview.js@336482
+    OLD "笔记快捷键"
+    NEW "Note keyboard shortcuts"
+dist/electron/module-share-preview.js@336414
+    OLD "笔记默认字号"
+    NEW "Default note font size"
+dist/electron/module-share-preview.js@339195
+    OLD "纪念日"
+    NEW "Anniversary"
+dist/electron/module-share-preview.js@336710
+    OLD "编辑类型"
+    NEW "Edit type"
+dist/electron/module-share-preview.js@336866
+    OLD "编辑类型"
+    NEW "Edit type"
+dist/electron/module-share-preview.js@335743
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/module-share-preview.js@337522
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/module-share-preview.js@920829
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/module-share-preview.js@996360
+    OLD "视频"
+    NEW "Video"
+dist/electron/module-share-preview.js@1035939
+    OLD "设备互联"
+    NEW "Device interconnection"
+dist/electron/module-share-preview.js@1036043
+    OLD "设备互联"
+    NEW "Device interconnection"
+dist/electron/module-share-preview.js@336788
+    OLD "账号信息"
+    NEW "Account info"
+dist/electron/module-share-preview.js@336744
+    OLD "账号详情"
+    NEW "Account details"
+dist/electron/module-share-preview.js@336991
+    OLD "邮箱账号导入"
+    NEW "Import from an email account"
+dist/electron/module-share-preview.js@988394
+    OLD "预览"
+    NEW "Preview"
+dist/electron/module-share-preview.js@337136
+    OLD "默认待办提醒时间"
+    NEW "Default to-do reminder time"
+dist/electron/module-share-preview.js@337100
+    OLD "默认提醒时间"
+    NEW "Default reminder time"
+dist/electron/module-share-preview.js@337179
+    OLD "默认提醒时间"
+    NEW "Default reminder time"
+dist/electron/note-toolbar.js@45688
+    OLD "MM月dd日 HH:mm"
+    NEW "MM/dd HH:mm"
+dist/electron/renderer.js@1711883
+    OLD "vivo办公套件隐私政策"
+    NEW "vivo PC Suite Privacy Policy"
+dist/electron/renderer.js@944680
+    OLD "办公套件"
+    NEW "PC Suite"
+dist/electron/renderer.js@944730
+    OLD "办公套件"
+    NEW "PC Suite"
+dist/electron/renderer.js@1153820
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1253563
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1343366
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1473374
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1477768
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1569798
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1845447
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1888646
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/renderer.js@2167907
+    OLD "原子笔记"
+    NEW "Notes"
+dist/electron/renderer.js@682025 [OUVERT]
+    OLD "已成功保存到原子笔记"
+    NEW "Saved to Notes"
+dist/electron/renderer.js@390974
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/renderer.js@392511
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/renderer.js@491830
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/renderer.js@1153992
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/renderer.js@1230505
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/renderer.js@1253779
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/renderer.js@1262124
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/renderer.js@1473482
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/renderer.js@1852550
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/renderer.js@1889314
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/renderer.js@2168125
+    OLD "录音机"
+    NEW "Recorder"
+dist/electron/renderer.js@484166
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/renderer.js@1459091
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/renderer.js@1460334
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/renderer.js@1890397
+    OLD "待办"
+    NEW "To-dos"
+dist/electron/renderer.js@1707121
+    OLD "搜索指定原子笔记"
+    NEW "Search a specific note"
+dist/electron/renderer.js@1247415
+    OLD "文档"
+    NEW "Documents"
+dist/electron/renderer.js@1457263
+    OLD "文档"
+    NEW "Documents"
+dist/electron/renderer.js@1916508
+    OLD "文档"
+    NEW "Documents"
+dist/electron/renderer.js@1722507
+    OLD "无搜索结果"
+    NEW "No results"
+dist/electron/renderer.js@390916
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@391849
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@491802
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@1153848
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@1253597
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@1261968
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@1415836
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@1421942
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@1442130
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@1459192
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@1460231
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@1473413
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@1848317
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@2167976
+    OLD "日历"
+    NEW "Calendar"
+dist/electron/renderer.js@1828902
+    OLD "日程"
+    NEW "Event"
+dist/electron/renderer.js@1887924
+    OLD "日程"
+    NEW "Event"
+dist/electron/renderer.js@391885
+    OLD "日程与待办管理"
+    NEW "Schedules and to-dos"
+dist/electron/renderer.js@1808221
+    OLD "日程与待办管理"
+    NEW "Schedules and to-dos"
+dist/electron/renderer.js@391307
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@491772
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@491888
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@1153871
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@1253633
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@1255788
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@1261670
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@1269724
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@1473447
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@1477888
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@1569826
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@1851132
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@1888979
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@2168055
+    OLD "相册"
+    NEW "Album"
+dist/electron/renderer.js@76610
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@390862
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@391574
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@484019
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@491745
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@491861
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1226742
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1226926
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1230340
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1247410
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1261813
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1415591
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1418830
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1418925
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1421914
+    OLD "笔记"
+    NEW "Notes"
+dist/electron/renderer.js@1848065 [BLANCHE]
+    OLD ") 查看便签数据。\\n                  "
+    NEW ") to view your notes.\\n                  "
+dist/electron/renderer.js@1848947
+    OLD "*需手机的日历应用版本≧V6.3.2.0，平板的日历应用版本≧V6.3.4.0；待办同步需手机和平板的日历应用版本≧V8.0.0.0。"
+    NEW "* Phone Calendar app must be V6.3.2.0 or later and tablet V6.3.4.0 or later. To-do sync requires V8.0.0.0 or later on both."
+dist/electron/renderer.js@1854110 [BLANCHE]
+    OLD ". 设置同步数据缓存路径\\n        "
+    NEW ". Set the sync data cache path\\n        "
+dist/electron/renderer.js@1852181
+    OLD "1. 完全退出手机/平板电脑的相册应用，并重新进入。"
+    NEW "1. Completely close the Albums app on your phone or tablet, then reopen it."
+dist/electron/renderer.js@1847519
+    OLD "1. 完全退出手机/平板的原子笔记应用，并重新进入。"
+    NEW "1. Fully quit the Notes app on your phone or tablet, then open it again."
+dist/electron/renderer.js@1853565
+    OLD "1. 完全退出手机/平板的录音机应用，并重新进入。"
+    NEW "1. Completely close the Recorder app on your phone or tablet, then reopen it."
+dist/electron/renderer.js@1846412
+    OLD "1.全部文档同步："
+    NEW "1. Sync all documents:"
+dist/electron/renderer.js@1849515
+    OLD "1.在手机/平板上打开日历应用，点击右上角的“"
+    NEW "1. Open the Calendar app on your phone or tablet and tap “"
+dist/electron/renderer.js@1850689
+    OLD "1.完全退出手机/平板的日历应用，并重新进入。"
+    NEW "1. Completely close the Calendar app on your phone or tablet, then reopen it."
+dist/electron/renderer.js@1749328
+    OLD "1.打开云服务"
+    NEW "1. Open Cloud Service"
+dist/electron/renderer.js@393483
+    OLD "10小时"
+    NEW "10 hours"
+dist/electron/renderer.js@393524
+    OLD "11小时"
+    NEW "11 hours"
+dist/electron/renderer.js@393565
+    OLD "12小时"
+    NEW "12 hours"
+dist/electron/renderer.js@393606
+    OLD "13小时"
+    NEW "13 hours"
+dist/electron/renderer.js@393647
+    OLD "14小时"
+    NEW "14 hours"
+dist/electron/renderer.js@213570
+    OLD "15分钟前"
+    NEW "15 minutes before"
+dist/electron/renderer.js@1332356
+    OLD "15分钟前"
+    NEW "15 minutes before"
+dist/electron/renderer.js@1334688
+    OLD "15分钟前"
+    NEW "15 minutes before"
+dist/electron/renderer.js@393688
+    OLD "15小时"
+    NEW "15 hours"
+dist/electron/renderer.js@393729
+    OLD "16小时"
+    NEW "16 hours"
+dist/electron/renderer.js@393770
+    OLD "17小时"
+    NEW "17 hours"
+dist/electron/renderer.js@393811
+    OLD "18小时"
+    NEW "18 hours"
+dist/electron/renderer.js@393852
+    OLD "19小时"
+    NEW "19 hours"
+dist/electron/renderer.js@1761804 [BLANCHE]
+    OLD "\\n              1、在电脑左上角，点击"
+    NEW "\\n              1. At the top-left of your Mac, click "
+dist/electron/renderer.js@213744
+    OLD "1周前"
+    NEW "1 week ago"
+dist/electron/renderer.js@213891
+    OLD "1周前"
+    NEW "1 week ago"
+dist/electron/renderer.js@1332530
+    OLD "1周前"
+    NEW "1 week ago"
+dist/electron/renderer.js@1334862
+    OLD "1周前"
+    NEW "1 week ago"
+dist/electron/renderer.js@1337186
+    OLD "1周前"
+    NEW "1 week ago"
+dist/electron/renderer.js@213669
+    OLD "1天前"
+    NEW "1 day ago"
+dist/electron/renderer.js@213816
+    OLD "1天前"
+    NEW "1 day ago"
+dist/electron/renderer.js@1332455
+    OLD "1天前"
+    NEW "1 day ago"
+dist/electron/renderer.js@1334787
+    OLD "1天前"
+    NEW "1 day ago"
+dist/electron/renderer.js@1337111
+    OLD "1天前"
+    NEW "1 day ago"
+dist/electron/renderer.js@213620
+    OLD "1小时前"
+    NEW "1 hour before"
+dist/electron/renderer.js@1332406
+    OLD "1小时前"
+    NEW "1 hour before"
+dist/electron/renderer.js@1334738
+    OLD "1小时前"
+    NEW "1 hour before"
+dist/electron/renderer.js@1852274
+    OLD "2. 在手机/平板电脑中进入相册应用的“相册”分页，下拉页面，尝试手动同步。"
+    NEW "2. In the Albums app, open the Albums tab, pull down the page, and try a manual sync."
+dist/electron/renderer.js@1853667
+    OLD "2. 点击录音机应用右上角的"
+    NEW "2. Tap the top-right corner of the Recorder app "
+dist/electron/renderer.js@1847612
+    OLD "2. 进入手机/平板的“原子笔记”>“笔记”，下拉页面，尝试手动同步。"
+    NEW "2. In Notes on your phone or tablet, go to Notes, pull down the page and try syncing manually."
+dist/electron/renderer.js@1846865
+    OLD "2.仅部分文档同步："
+    NEW "2. Sync selected documents only:"
+dist/electron/renderer.js@1850139 [BLANCHE]
+    OLD "\\n                    2.在手机/平板中打开原子笔记应用，点击“我的”，开启“自动同步原子笔记”，即可同步待办。\\n                  "
+    NEW "\\n                    2. Open the Atomic Notes app on your phone or tablet, tap Me, then turn on Auto-sync atomic notes to sync your to-dos.\\n                  "
+dist/electron/renderer.js@1850789
+    OLD "2.打开手机/平板的日历应用，点击右上角的"
+    NEW "2. Open the Calendar app on your phone or tablet and tap the top-right corner "
+dist/electron/renderer.js@1749521
+    OLD "2.点击升级云空间"
+    NEW "2. Tap Upgrade cloud storage"
+dist/electron/renderer.js@393893
+    OLD "20小时"
+    NEW "20 hours"
+dist/electron/renderer.js@393934
+    OLD "21小时"
+    NEW "21 hours"
+dist/electron/renderer.js@393975
+    OLD "22小时"
+    NEW "22 hours"
+dist/electron/renderer.js@394016
+    OLD "23小时"
+    NEW "23 hours"
+dist/electron/renderer.js@394057
+    OLD "24小时"
+    NEW "24 hours"
+dist/electron/renderer.js@213694
+    OLD "2天前"
+    NEW "2 days ago"
+dist/electron/renderer.js@213841
+    OLD "2天前"
+    NEW "2 days ago"
+dist/electron/renderer.js@1332480
+    OLD "2天前"
+    NEW "2 days ago"
+dist/electron/renderer.js@1334812
+    OLD "2天前"
+    NEW "2 days ago"
+dist/electron/renderer.js@1337136
+    OLD "2天前"
+    NEW "2 days ago"
+dist/electron/renderer.js@213644
+    OLD "2小时前"
+    NEW "2 hours before"
+dist/electron/renderer.js@1332430
+    OLD "2小时前"
+    NEW "2 hours before"
+dist/electron/renderer.js@1334762
+    OLD "2小时前"
+    NEW "2 hours before"
+dist/electron/renderer.js@1847714
+    OLD "3. 若仍未查看到笔记，请检查设备的网络状态是否满足“云同步时网络状态”设置项的要求。"
+    NEW "3. If the note still does not appear, check that the device's network meets the Cloud sync network requirement."
+dist/electron/renderer.js@1748989
+    OLD "3.选择套餐完成购买"
+    NEW "3. Choose a plan and complete the purchase"
+dist/electron/renderer.js@1749716
+    OLD "3.选择套餐完成购买"
+    NEW "3. Choose a plan and complete the purchase"
+dist/electron/renderer.js@213595
+    OLD "30分钟前"
+    NEW "30 minutes before"
+dist/electron/renderer.js@1332381
+    OLD "30分钟前"
+    NEW "30 minutes before"
+dist/electron/renderer.js@1334713
+    OLD "30分钟前"
+    NEW "30 minutes before"
+dist/electron/renderer.js@213719
+    OLD "3天前"
+    NEW "3 days ago"
+dist/electron/renderer.js@213866
+    OLD "3天前"
+    NEW "3 days ago"
+dist/electron/renderer.js@1332505
+    OLD "3天前"
+    NEW "3 days ago"
+dist/electron/renderer.js@1334837
+    OLD "3天前"
+    NEW "3 days ago"
+dist/electron/renderer.js@1337161
+    OLD "3天前"
+    NEW "3 days ago"
+dist/electron/renderer.js@213547
+    OLD "5分钟前"
+    NEW "5 minutes before"
+dist/electron/renderer.js@1332333
+    OLD "5分钟前"
+    NEW "5 minutes before"
+dist/electron/renderer.js@1334665
+    OLD "5分钟前"
+    NEW "5 minutes before"
+dist/electron/renderer.js@393331
+    OLD "6小时"
+    NEW "6 hours"
+dist/electron/renderer.js@393369
+    OLD "7小时"
+    NEW "7 hours"
+dist/electron/renderer.js@393407
+    OLD "8小时"
+    NEW "8 hours"
+dist/electron/renderer.js@393445
+    OLD "9小时"
+    NEW "9 hours"
+dist/electron/renderer.js@1851054
+    OLD "> “设置”，重新开启“自动同步日程与待办”开关。"
+    NEW " > Settings, and turn Auto-sync events and to-dos back on."
+dist/electron/renderer.js@1850048
+    OLD ">“同步”，开启“日历”开关，即可同步日程。"
+    NEW " > Sync, then turn on Calendar to sync your events."
+dist/electron/renderer.js@1853058
+    OLD ">“设置”，开启“自动同步录音文件”开关，即可在办公套件中浏览手机/平板的录音文件。"
+    NEW " > Settings, then turn on Auto-sync recordings to browse them in PC Suite."
+dist/electron/renderer.js@1848822
+    OLD ">“设置”，开启“自动同步日程与待办”开关，即可将日程与待办同步至云端，在多个vivo设备或办公套件上同步查看。"
+    NEW " > Settings, then turn on Auto-sync events and to-dos to sync them to the cloud and view them on your vivo devices and PC Suite."
+dist/electron/renderer.js@1851635
+    OLD ">“设置”，开启“自动同步照片”开关，之后可点击“需要同步的相册”设置项，选择相应的相册。"
+    NEW " > Settings, turn on Auto-sync photos, then tap Albums to sync and choose the albums you want."
+dist/electron/renderer.js@1882959
+    OLD "AI搜索问答"
+    NEW "AI search & Q&A"
+dist/electron/renderer.js@1416354
+    OLD "CalDAV日程"
+    NEW "CalDAV events"
+dist/electron/renderer.js@1891693
+    OLD "CalDAV账号导入"
+    NEW "Import from CalDAV"
+dist/electron/renderer.js@392317
+    OLD "CalDav账号导入"
+    NEW "Import from a CalDAV account"
+dist/electron/renderer.js@1416700
+    OLD "CalDav账号导入"
+    NEW "Import from a CalDAV account"
+dist/electron/renderer.js@1442234
+    OLD "CalDav账号登录"
+    NEW "CalDAV sign-in"
+dist/electron/renderer.js@1300826
+    OLD "Exchange日程"
+    NEW "Exchange events"
+dist/electron/renderer.js@1415953
+    OLD "Exchange日程"
+    NEW "Exchange events"
+dist/electron/renderer.js@1416825
+    OLD "Exchange日程"
+    NEW "Exchange events"
+dist/electron/renderer.js@1891360
+    OLD "Exchange账号导入"
+    NEW "Import from Exchange"
+dist/electron/renderer.js@1300874
+    OLD "Google日程"
+    NEW "Google events"
+dist/electron/renderer.js@1416036
+    OLD "Google日程"
+    NEW "Google events"
+dist/electron/renderer.js@1417051
+    OLD "iCload日程"
+    NEW "iCloud events"
+dist/electron/renderer.js@1300892
+    OLD "iCloud日程"
+    NEW "iCloud events"
+dist/electron/renderer.js@1416196
+    OLD "iCloud日程"
+    NEW "iCloud events"
+dist/electron/renderer.js@1761927
+    OLD "“Apple 菜单”>“关于本机”"
+    NEW "the Apple menu > About This Mac"
+dist/electron/renderer.js@1762303
+    OLD "“处理器”"
+    NEW "Processor"
+dist/electron/renderer.js@1762174
+    OLD "“概览”"
+    NEW "Overview"
+dist/electron/renderer.js@1762240
+    OLD "“芯片”"
+    NEW "Chip"
+dist/electron/renderer.js@393114
+    OLD "一"
+    NEW "M"
+dist/electron/renderer.js@1170037
+    OLD "一"
+    NEW "M"
+dist/electron/renderer.js@1845602
+    OLD "一、笔记数据同步"
+    NEW "1. Notes data sync"
+dist/electron/renderer.js@1808495
+    OLD "一周开始日"
+    NEW "First day of week"
+dist/electron/renderer.js@393186
+    OLD "三"
+    NEW "W"
+dist/electron/renderer.js@1170045
+    OLD "三"
+    NEW "W"
+dist/electron/renderer.js@1761417
+    OLD "下载 Apple 芯片版（M 系列）"
+    NEW "Download for Apple chip (M series)"
+dist/electron/renderer.js@1761285
+    OLD "下载 Intel 芯片版"
+    NEW "Download for Intel chip"
+dist/electron/renderer.js@394273
+    OLD "个人"
+    NEW "Personal"
+dist/electron/renderer.js@1858855
+    OLD "个性化推荐服务"
+    NEW "Personalised recommendations"
+dist/electron/renderer.js@394148
+    OLD "中国农历"
+    NEW "Chinese lunar"
+dist/electron/renderer.js@1883330
+    OLD "为确保您能收到通知，请检查并打开电脑系统设置中的“vivo办公套件”通知。"
+    NEW "To make sure you receive notifications, turn on notifications for vivo PC Suite in your computer's system settings."
+dist/electron/renderer.js@393150
+    OLD "二"
+    NEW "T"
+dist/electron/renderer.js@1170041
+    OLD "二"
+    NEW "T"
+dist/electron/renderer.js@1846251
+    OLD "二、选择文档数据的同步范围"
+    NEW "2. Choose what document data to sync"
+dist/electron/renderer.js@480352
+    OLD "云服务"
+    NEW "Cloud services"
+dist/electron/renderer.js@1153967
+    OLD "云服务"
+    NEW "Cloud services"
+dist/electron/renderer.js@1394073
+    OLD "云服务"
+    NEW "Cloud services"
+dist/electron/renderer.js@1394068
+    OLD "云盘"
+    NEW "Cloud Drive"
+dist/electron/renderer.js@2168201
+    OLD "云盘"
+    NEW "Cloud Drive"
+dist/electron/renderer.js@1838411
+    OLD "云空间"
+    NEW "Cloud storage"
+dist/electron/renderer.js@1840641
+    OLD "云空间不足"
+    NEW "Not enough cloud space"
+dist/electron/renderer.js@1796164
+    OLD "云端数据同步"
+    NEW "Cloud data sync"
+dist/electron/renderer.js@393258
+    OLD "五"
+    NEW "F"
+dist/electron/renderer.js@1170053
+    OLD "五"
+    NEW "F"
+dist/electron/renderer.js@1814449
+    OLD "从CalDAV中导入"
+    NEW "Import from CalDAV"
+dist/electron/renderer.js@1813808
+    OLD "从邮箱中导入"
+    NEW "Import from email"
+dist/electron/renderer.js@1814180
+    OLD "从钉钉中导入"
+    NEW "Import from DingTalk"
+dist/electron/renderer.js@394184
+    OLD "伊斯兰历"
+    NEW "Islamic"
+dist/electron/renderer.js@392193
+    OLD "使用帮助"
+    NEW "Help"
+dist/electron/renderer.js@1416747
+    OLD "使用帮助"
+    NEW "Help"
+dist/electron/renderer.js@1782908
+    OLD "使用帮助"
+    NEW "Help"
+dist/electron/renderer.js@1823562
+    OLD "使用帮助"
+    NEW "Help"
+dist/electron/renderer.js@1891275
+    OLD "使用帮助"
+    NEW "Help"
+dist/electron/renderer.js@671808
+    OLD "保存"
+    NEW "Save"
+dist/electron/renderer.js@1416483
+    OLD "修改同步日程类型"
+    NEW "Edit synced schedule types"
+dist/electron/renderer.js@394559
+    OLD "倒数日"
+    NEW "Countdown"
+dist/electron/renderer.js@1332619
+    OLD "倒数日"
+    NEW "Countdown"
+dist/electron/renderer.js@1337545
+    OLD "倒数日"
+    NEW "Countdown"
+dist/electron/renderer.js@1417351
+    OLD "倒数日"
+    NEW "Countdown"
+dist/electron/renderer.js@1899328
+    OLD "允许在电脑端快速打开手机/平板上浏览的笔记。"
+    NEW "Quickly open notes you are viewing on your phone or tablet."
+dist/electron/renderer.js@1898425
+    OLD "允许在电脑端打开手机的链接。"
+    NEW "Open links from your phone on this computer."
+dist/electron/renderer.js@1897457
+    OLD "允许在电脑端查看、复制手机接收的短信验证码。"
+    NEW "View and copy SMS codes received on your phone from this computer."
+dist/electron/renderer.js@1334921
+    OLD "全天待办"
+    NEW "All-day to-dos"
+dist/electron/renderer.js@1337488
+    OLD "全天待办"
+    NEW "All-day to-dos"
+dist/electron/renderer.js@1332585
+    OLD "全天日程"
+    NEW "All-day events"
+dist/electron/renderer.js@1337461
+    OLD "全天日程"
+    NEW "All-day events"
+dist/electron/renderer.js@1417186
+    OLD "全天日程"
+    NEW "All-day events"
+dist/electron/renderer.js@681774
+    OLD "全部笔记"
+    NEW "All notes"
+dist/electron/renderer.js@1129647
+    OLD "全部笔记"
+    NEW "All notes"
+dist/electron/renderer.js@1129789
+    OLD "全部笔记"
+    NEW "All notes"
+dist/electron/renderer.js@393294
+    OLD "六"
+    NEW "S"
+dist/electron/renderer.js@1170057
+    OLD "六"
+    NEW "S"
+dist/electron/renderer.js@1720465
+    OLD "关闭"
+    NEW "Close"
+dist/electron/renderer.js@1720733
+    OLD "关闭"
+    NEW "Close"
+dist/electron/renderer.js@1791087
+    OLD "关闭"
+    NEW "Close"
+dist/electron/renderer.js@1285781
+    OLD "关闭后，将无法收到笔记待办、日历日程设置的提醒，以及无法使用通知接力功能。"
+    NEW "You will no longer receive reminders for notes, to-dos or calendar events, and notification handoff will stop."
+dist/electron/renderer.js@1808956
+    OLD "其他历法"
+    NEW "Other calendars"
+dist/electron/renderer.js@213526
+    OLD "准时"
+    NEW "At time of event"
+dist/electron/renderer.js@1332312
+    OLD "准时"
+    NEW "At time of event"
+dist/electron/renderer.js@1334644
+    OLD "准时"
+    NEW "At time of event"
+dist/electron/renderer.js@1476253
+    OLD "刚刚同步"
+    NEW "Just synced"
+dist/electron/renderer.js@1325363
+    OLD "创建成功"
+    NEW "Created"
+dist/electron/renderer.js@1342740
+    OLD "创建时间"
+    NEW "Created"
+dist/electron/renderer.js@1317304
+    OLD "删除"
+    NEW "Delete"
+dist/electron/renderer.js@1828443
+    OLD "删除"
+    NEW "Delete"
+dist/electron/renderer.js@1873184
+    OLD "删除"
+    NEW "Delete"
+dist/electron/renderer.js@1949438
+    OLD "删除"
+    NEW "Delete"
+dist/electron/renderer.js@1952753
+    OLD "删除失败"
+    NEW "Delete failed"
+dist/electron/renderer.js@832910
+    OLD "删除成功"
+    NEW "Deleted"
+dist/electron/renderer.js@1331333
+    OLD "删除成功"
+    NEW "Deleted"
+dist/electron/renderer.js@1331546
+    OLD "删除成功"
+    NEW "Deleted"
+dist/electron/renderer.js@1919987
+    OLD "删除成功"
+    NEW "Deleted"
+dist/electron/renderer.js@1952617
+    OLD "删除成功"
+    NEW "Deleted"
+dist/electron/renderer.js@1330363
+    OLD "删除类型"
+    NEW "Delete type"
+dist/electron/renderer.js@1330617
+    OLD "删除类型"
+    NEW "Delete type"
+dist/electron/renderer.js@1819885
+    OLD "删除账号"
+    NEW "Delete account"
+dist/electron/renderer.js@1317256
+    OLD "删除账号后将同步移除该账号下的所有日程。"
+    NEW "Deleting this account also removes all its events."
+dist/electron/renderer.js@1895992
+    OLD "剪贴板"
+    NEW "Clipboard"
+dist/electron/renderer.js@1870886
+    OLD "加载中"
+    NEW "Loading..."
+dist/electron/renderer.js@1739918
+    OLD "升级云空间"
+    NEW "Upgrade cloud storage"
+dist/electron/renderer.js@1749100
+    OLD "升级云空间"
+    NEW "Upgrade cloud storage"
+dist/electron/renderer.js@1750622
+    OLD "升级云空间"
+    NEW "Upgrade cloud storage"
+dist/electron/renderer.js@1796734
+    OLD "升级云空间"
+    NEW "Upgrade cloud storage"
+dist/electron/renderer.js@1841101
+    OLD "升级云空间"
+    NEW "Upgrade cloud storage"
+dist/electron/renderer.js@1841376
+    OLD "升级云空间"
+    NEW "Upgrade cloud storage"
+dist/electron/renderer.js@1899261
+    OLD "原子笔记接力"
+    NEW "Notes handoff"
+dist/electron/renderer.js@1797492
+    OLD "去开启"
+    NEW "Turn on"
+dist/electron/renderer.js@392967
+    OLD "反馈记录"
+    NEW "Feedback history"
+dist/electron/renderer.js@1802435
+    OLD "反馈记录"
+    NEW "Feedback history"
+dist/electron/renderer.js@393009
+    OLD "反馈详情"
+    NEW "Feedback details"
+dist/electron/renderer.js@1232839
+    OLD "反馈详情"
+    NEW "Feedback details"
+dist/electron/renderer.js@1785709 [BLANCHE]
+    OLD "\\n          取消\\n        "
+    NEW "\\n          Cancel\\n        "
+dist/electron/renderer.js@490569
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@672118
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@672662
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1240918
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1260602
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1268371
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1285834
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1317292
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1330397
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1330657
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1413652
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1428927
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1442469
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1488459
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1732340
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1739836
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1741178
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1816767
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1826734
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1828264
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1949426
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@490726
+    OLD "取消"
+    NEW "Cancel"
+dist/electron/renderer.js@1782653
+    OLD "可添加邮箱、钉钉等账号并同步账号中的日程"
+    NEW "Add email, DingTalk and other accounts to sync their events."
+dist/electron/renderer.js@1808239
+    OLD "可添加邮箱、钉钉等账号并同步账号中的日程"
+    NEW "Add email, DingTalk and other accounts to sync their events."
+dist/electron/renderer.js@1550230
+    OLD "右上"
+    NEW "Top right"
+dist/electron/renderer.js@1550264
+    OLD "右下"
+    NEW "Bottom right"
+dist/electron/renderer.js@6388535
+    OLD "同步前"
+    NEW "Before sync"
+dist/electron/renderer.js@6392964
+    OLD "同步前"
+    NEW "Before sync"
+dist/electron/renderer.js@384670
+    OLD "同步失败"
+    NEW "Sync failed"
+dist/electron/renderer.js@1474983
+    OLD "同步失败"
+    NEW "Sync failed"
+dist/electron/renderer.js@1475286
+    OLD "同步失败"
+    NEW "Sync failed"
+dist/electron/renderer.js@1474925
+    OLD "同步异常"
+    NEW "Sync error"
+dist/electron/renderer.js@1475031
+    OLD "同步异常"
+    NEW "Sync error"
+dist/electron/renderer.js@1475336
+    OLD "同步异常"
+    NEW "Sync error"
+dist/electron/renderer.js@384677
+    OLD "同步成功"
+    NEW "Sync completed"
+dist/electron/renderer.js@1318555
+    OLD "同步成功"
+    NEW "Sync completed"
+dist/electron/renderer.js@1843248
+    OLD "同步数据缓存至："
+    NEW "Sync data cached to:"
+dist/electron/renderer.js@1416440
+    OLD "同步日程类型"
+    NEW "Synced schedule types"
+dist/electron/renderer.js@392111
+    OLD "同步的日程类型"
+    NEW "Synced schedule types"
+dist/electron/renderer.js@1819312
+    OLD "同步的日程类型"
+    NEW "Synced schedule types"
+dist/electron/renderer.js@390530
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/renderer.js@390581
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/renderer.js@391245
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/renderer.js@391273
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/renderer.js@1226549
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/renderer.js@1230368
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/renderer.js@1436085
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/renderer.js@1477698
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/renderer.js@1841712
+    OLD "同步设置"
+    NEW "Sync settings"
+dist/electron/renderer.js@1107684
+    OLD "周一"
+    NEW "Mon"
+dist/electron/renderer.js@1107694
+    OLD "周三"
+    NEW "Wed"
+dist/electron/renderer.js@1107689
+    OLD "周二"
+    NEW "Tue"
+dist/electron/renderer.js@1107704
+    OLD "周五"
+    NEW "Fri"
+dist/electron/renderer.js@1107709
+    OLD "周六"
+    NEW "Sat"
+dist/electron/renderer.js@1107699
+    OLD "周四"
+    NEW "Thu"
+dist/electron/renderer.js@1107679
+    OLD "周日"
+    NEW "Sun"
+dist/electron/renderer.js@1107714
+    OLD "周日"
+    NEW "Sun"
+dist/electron/renderer.js@1810406
+    OLD "周视图显示范围"
+    NEW "Week view range"
+dist/electron/renderer.js@393222
+    OLD "四"
+    NEW "T"
+dist/electron/renderer.js@1170049
+    OLD "四"
+    NEW "T"
+dist/electron/renderer.js@912178
+    OLD "图片"
+    NEW "Image"
+dist/electron/renderer.js@1916524
+    OLD "图片"
+    NEW "Image"
+dist/electron/renderer.js@1881577
+    OLD "图片视频备份至："
+    NEW "Back up photos and videos to:"
+dist/electron/renderer.js@1811548
+    OLD "在工具栏显示日期和时间，点击可进入vivo办公套件日历模块。"
+    NEW "Show the date and time in the taskbar. Click it to open the PC Suite calendar."
+dist/electron/renderer.js@1848555
+    OLD "在手机/平板上打开日历应用，点击右上角"
+    NEW "Open the Calendar app on your phone or tablet and tap the top-right corner "
+dist/electron/renderer.js@1845750
+    OLD "在手机/平板中打开原子笔记应用，进入“我的”页，开启“自动同步原子笔记”开关。"
+    NEW "Open the Notes app on your phone or tablet, go to the My page and turn on Auto sync Notes."
+dist/electron/renderer.js@1852789
+    OLD "在手机/平板中打开录音机应用，点击右上角的"
+    NEW "Open the Recorder app on your phone or tablet and tap the top-right corner "
+dist/electron/renderer.js@1851367
+    OLD "在手机/平板中打开相册应用，点击右上角的"
+    NEW "Open the Albums app on your phone or tablet and tap the top-right corner "
+dist/electron/renderer.js@1810145
+    OLD "在月视图、周视图中显示未来两周的天气信息"
+    NEW "Show the weather for the next two weeks in month and week views."
+dist/electron/renderer.js@671803
+    OLD "复制"
+    NEW "Copy"
+dist/electron/renderer.js@1369783
+    OLD "复制成功"
+    NEW "Copied"
+dist/electron/renderer.js@1948807
+    OLD "复制成功"
+    NEW "Copied"
+dist/electron/renderer.js@6419433
+    OLD "失败"
+    NEW "Failed"
+dist/electron/renderer.js@6423426
+    OLD "失败"
+    NEW "Failed"
+dist/electron/renderer.js@6423869
+    OLD "失败"
+    NEW "Failed"
+dist/electron/renderer.js@6427862
+    OLD "失败"
+    NEW "Failed"
+dist/electron/renderer.js@6451922
+    OLD "失败"
+    NEW "Failed"
+dist/electron/renderer.js@1814690
+    OLD "如何从CalDAV账号中导入iCloud日程？"
+    NEW "How do I import iCloud events from a CalDAV account?"
+dist/electron/renderer.js@1814507
+    OLD "如何从CalDAV账号中导入飞书日程？"
+    NEW "How do I import Feishu events from a CalDAV account?"
+dist/electron/renderer.js@392230
+    OLD "如何从Exchange邮箱账号中导入日程？"
+    NEW "How do I import events from an Exchange mailbox?"
+dist/electron/renderer.js@1813862
+    OLD "如何从Exchange邮箱账号中导入日程？"
+    NEW "How do I import events from an Exchange mailbox?"
+dist/electron/renderer.js@1814234
+    OLD "如何从钉钉中导入日程？"
+    NEW "How do I import events from DingTalk?"
+dist/electron/renderer.js@1761583
+    OLD "如何确认 Mac 电脑的芯片类型"
+    NEW "How to check which chip your Mac has"
+dist/electron/renderer.js@1816855
+    OLD "完成"
+    NEW "Done"
+dist/electron/renderer.js@1826811
+    OLD "完成"
+    NEW "Done"
+dist/electron/renderer.js@1828582
+    OLD "完成"
+    NEW "Done"
+dist/electron/renderer.js@1821103
+    OLD "密码或授权码"
+    NEW "Password or authorization code"
+dist/electron/renderer.js@1821786
+    OLD "密码或授权码"
+    NEW "Password or authorization code"
+dist/electron/renderer.js@1822136
+    OLD "密码或授权码"
+    NEW "Password or authorization code"
+dist/electron/renderer.js@394346
+    OLD "工作"
+    NEW "Work"
+dist/electron/renderer.js@1550196
+    OLD "左上"
+    NEW "Top left"
+dist/electron/renderer.js@1550300
+    OLD "左下"
+    NEW "Bottom left"
+dist/electron/renderer.js@1321751
+    OLD "已关闭"
+    NEW "Off"
+dist/electron/renderer.js@1844414
+    OLD "已开启"
+    NEW "On"
+dist/electron/renderer.js@1326139
+    OLD "已达到最大字符限制"
+    NEW "Maximum character limit reached"
+dist/electron/renderer.js@1306923
+    OLD "已达到登录上限，请清除账号"
+    NEW "You have reached the sign-in limit. Remove an account first."
+dist/electron/renderer.js@1925427
+    OLD "已过期"
+    NEW "Expired"
+dist/electron/renderer.js@2181328
+    OLD "年"
+    NEW "Year"
+dist/electron/renderer.js@6449717
+    OLD "年"
+    NEW "Year"
+dist/electron/renderer.js@2168725
+    OLD "应用列表"
+    NEW "App list"
+dist/electron/renderer.js@1846488
+    OLD "开启“自动同步原子笔记”后，点击“自动同步的文档范围”设置项，选择“全部文档”，而后所有文档将自动同步至云端。"
+    NEW "After turning on Auto-sync atomic notes, open Sync document scope and choose All documents. All documents will then sync to the cloud automatically."
+dist/electron/renderer.js@1846942
+    OLD "开启“自动同步原子笔记”后，点击“自动同步的文档范围”设置项，选择“部分文档”后，在“文档”分页中长按勾选文档，之后点击“同步到云端”，即可将对应文档同步至云端。"
+    NEW "After turning on Auto-sync atomic notes, open Sync document scope and choose Selected documents. On the Documents tab, long-press to select documents, then tap Sync to cloud to upload them."
+dist/electron/renderer.js@1843091
+    OLD "开启后，云端和本地的数据将保持一致。若多个设备同时开启同步，则多设备间也将保持数据一致。"
+    NEW "Once this is on, cloud and local data stay in sync. If you turn sync on for several devices, they all stay consistent."
+dist/electron/renderer.js@213795
+    OLD "当天"
+    NEW "Today"
+dist/electron/renderer.js@1337090
+    OLD "当天"
+    NEW "Today"
+dist/electron/renderer.js@1905271
+    OLD "录音内容搜索"
+    NEW "Recording content search"
+dist/electron/renderer.js@491949
+    OLD "录音文件"
+    NEW "Audio files"
+dist/electron/renderer.js@1783267
+    OLD "待办类型"
+    NEW "To-do type"
+dist/electron/renderer.js@1839335
+    OLD "待生效"
+    NEW "Pending"
+dist/electron/renderer.js@1811533
+    OLD "快捷入口"
+    NEW "Quick access"
+dist/electron/renderer.js@6451906
+    OLD "成功"
+    NEW "Succeeded"
+dist/electron/renderer.js@1330624
+    OLD "所有与此类型关联的日程都将被删除。"
+    NEW "All events linked to this type will be deleted."
+dist/electron/renderer.js@1316443
+    OLD "手动"
+    NEW "Manual"
+dist/electron/renderer.js@1317068
+    OLD "手动"
+    NEW "Manual"
+dist/electron/renderer.js@1853476
+    OLD "手机/平板的录音文件未同步到电脑的办公套件？"
+    NEW "Recordings on your phone or tablet are not showing in PC Suite?"
+dist/electron/renderer.js@1849416
+    OLD "手机/平板的日历为其他版本或无法找到上述开关"
+    NEW "Your phone or tablet Calendar is an older version, or the option above cannot be found"
+dist/electron/renderer.js@1850600
+    OLD "手机/平板的日历数据未同步到电脑的办公套件？"
+    NEW "Calendar data on your phone or tablet is not showing in PC Suite?"
+dist/electron/renderer.js@1852092
+    OLD "手机/平板的相册数据未同步到电脑的办公套件？"
+    NEW "Album data on your phone or tablet is not showing in PC Suite?"
+dist/electron/renderer.js@392772
+    OLD "手机投屏"
+    NEW "Phone Mirroring"
+dist/electron/renderer.js@392548
+    OLD "扬声器"
+    NEW "Speaker"
+dist/electron/renderer.js@133915
+    OLD "投屏"
+    NEW "Screen mirroring"
+dist/electron/renderer.js@135506
+    OLD "投屏"
+    NEW "Screen mirroring"
+dist/electron/renderer.js@135636
+    OLD "投屏"
+    NEW "Screen mirroring"
+dist/electron/renderer.js@1883297
+    OLD "接收通知提醒"
+    NEW "Receive notification alerts"
+dist/electron/renderer.js@1810853
+    OLD "提醒"
+    NEW "Reminders"
+dist/electron/renderer.js@1830445
+    OLD "提醒时间"
+    NEW "Reminder time"
+dist/electron/renderer.js@958630
+    OLD "搜索办公套件、电脑和已连接设备的文件"
+    NEW "Search files on PC Suite, this computer and connected devices"
+dist/electron/renderer.js@967664
+    OLD "搜索办公套件、电脑和已连接设备的文件"
+    NEW "Search files on PC Suite, this computer and connected devices"
+dist/electron/renderer.js@1891383
+    OLD "支持从Exchange账号导入日程。"
+    NEW "Import events from an Exchange account."
+dist/electron/renderer.js@1891561
+    OLD "支持从钉钉账号中导入日程。"
+    NEW "Import events from a DingTalk account."
+dist/electron/renderer.js@1891714
+    OLD "支持从飞书、iCloud等CalDAV账号中导入日程。"
+    NEW "Import events from Feishu, iCloud and other CalDAV accounts."
+dist/electron/renderer.js@1905288
+    OLD "支持通过录音内容查找录音文件。"
+    NEW "Search your recordings by what is said in them."
+dist/electron/renderer.js@1882398
+    OLD "整机数据备份至："
+    NEW "Back up all device data to:"
+dist/electron/renderer.js@1811247
+    OLD "新建日程时，智能解析日程并提供选择建议。"
+    NEW "When you create an event, its details are parsed and options suggested."
+dist/electron/renderer.js@213774
+    OLD "无"
+    NEW "None"
+dist/electron/renderer.js@394115
+    OLD "无"
+    NEW "None"
+dist/electron/renderer.js@1337069
+    OLD "无"
+    NEW "None"
+dist/electron/renderer.js@1813532
+    OLD "无日程类型"
+    NEW "No event types"
+dist/electron/renderer.js@1110435 [BLANCHE]
+    OLD "日 "
+    NEW "S "
+dist/electron/renderer.js@393078
+    OLD "日"
+    NEW "S"
+dist/electron/renderer.js@1170033
+    OLD "日"
+    NEW "S"
+dist/electron/renderer.js@1808417
+    OLD "日历视图"
+    NEW "Calendar views"
+dist/electron/renderer.js@391931
+    OLD "日程导入"
+    NEW "Import schedules"
+dist/electron/renderer.js@1782638
+    OLD "日程导入"
+    NEW "Import schedules"
+dist/electron/renderer.js@1891254
+    OLD "日程导入"
+    NEW "Import schedules"
+dist/electron/renderer.js@1317716
+    OLD "日程导入与管理"
+    NEW "Import and manage schedules"
+dist/electron/renderer.js@1415871
+    OLD "日程导入与管理"
+    NEW "Import and manage schedules"
+dist/electron/renderer.js@1417093
+    OLD "时区"
+    NEW "Time zone"
+dist/electron/renderer.js@1824732
+    OLD "时区"
+    NEW "Time zone"
+dist/electron/renderer.js@392360
+    OLD "时区优先"
+    NEW "Use time zone"
+dist/electron/renderer.js@1809371
+    OLD "时区优先"
+    NEW "Use time zone"
+dist/electron/renderer.js@1824400
+    OLD "时区优先"
+    NEW "Use time zone"
+dist/electron/renderer.js@393098
+    OLD "星期一"
+    NEW "Monday"
+dist/electron/renderer.js@393170
+    OLD "星期三"
+    NEW "Wednesday"
+dist/electron/renderer.js@393134
+    OLD "星期二"
+    NEW "Tuesday"
+dist/electron/renderer.js@393242
+    OLD "星期五"
+    NEW "Friday"
+dist/electron/renderer.js@393278
+    OLD "星期六"
+    NEW "Saturday"
+dist/electron/renderer.js@393206
+    OLD "星期四"
+    NEW "Thursday"
+dist/electron/renderer.js@393062
+    OLD "星期日"
+    NEW "Sunday"
+dist/electron/renderer.js@1809767
+    OLD "显示周数"
+    NEW "Show week numbers"
+dist/electron/renderer.js@1743094
+    OLD "显示在："
+    NEW "Show in:"
+dist/electron/renderer.js@1810128
+    OLD "显示天气信息"
+    NEW "Show weather information"
+dist/electron/renderer.js@1905217
+    OLD "智能录音服务"
+    NEW "Smart recording services"
+dist/electron/renderer.js@1811230
+    OLD "智能解析日程"
+    NEW "Smart event parsing"
+dist/electron/renderer.js@1843793 [BLANCHE]
+    OLD "\\n                更改\\n              "
+    NEW "\\n                Change\\n              "
+dist/electron/renderer.js@1882276 [BLANCHE]
+    OLD "\\n            更改\\n          "
+    NEW "\\n            Change\\n          "
+dist/electron/renderer.js@1342715
+    OLD "更新时间"
+    NEW "Updated"
+dist/electron/renderer.js@1313487
+    OLD "最多可以添加30个类型"
+    NEW "You can add up to 30 types"
+dist/electron/renderer.js@1812229
+    OLD "服务器地址"
+    NEW "Server address"
+dist/electron/renderer.js@1822992
+    OLD "服务器地址"
+    NEW "Server address"
+dist/electron/renderer.js@1320717
+    OLD "服务器地址格式错误"
+    NEW "Invalid server address format"
+dist/electron/renderer.js@1318650
+    OLD "服务器异常，同步失败"
+    NEW "Server error: sync failed"
+dist/electron/renderer.js@1368030
+    OLD "服务说明"
+    NEW "Service description"
+dist/electron/renderer.js@1857254
+    OLD "服务说明"
+    NEW "Service description"
+dist/electron/renderer.js@911899
+    OLD "未完成"
+    NEW "Not done"
+dist/electron/renderer.js@1844420
+    OLD "未开启"
+    NEW "Not enabled"
+dist/electron/renderer.js@1844426
+    OLD "未登录"
+    NEW "Not signed in"
+dist/electron/renderer.js@1927416
+    OLD "未知异常"
+    NEW "Unknown error"
+dist/electron/renderer.js@6452405
+    OLD "未知异常"
+    NEW "Unknown error"
+dist/electron/renderer.js@1919526
+    OLD "未知错误"
+    NEW "Unknown error"
+dist/electron/renderer.js@1928117
+    OLD "未知错误"
+    NEW "Unknown error"
+dist/electron/renderer.js@6450949
+    OLD "未知错误"
+    NEW "Unknown error"
+dist/electron/renderer.js@912199
+    OLD "未设置"
+    NEW "Not set"
+dist/electron/renderer.js@912360
+    OLD "未设置"
+    NEW "Not set"
+dist/electron/renderer.js@1416536
+    OLD "本地日程类型"
+    NEW "Local schedule types"
+dist/electron/renderer.js@1783010
+    OLD "本地日程类型"
+    NEW "Local schedule types"
+dist/electron/renderer.js@671788
+    OLD "查看"
+    NEW "View"
+dist/electron/renderer.js@1845075
+    OLD "查看版本要求"
+    NEW "View version requirements"
+dist/electron/renderer.js@1905581
+    OLD "标记智能命名"
+    NEW "Smart mark naming"
+dist/electron/renderer.js@1858873
+    OLD "根据使用习惯，为您推荐相关服务"
+    NEW "Recommendations based on how you use the app"
+dist/electron/renderer.js@1318246
+    OLD "正在同步"
+    NEW "Syncing"
+dist/electron/renderer.js@1475167
+    OLD "正在同步"
+    NEW "Syncing"
+dist/electron/renderer.js@1823842
+    OLD "正在登录"
+    NEW "Signing in"
+dist/electron/renderer.js@913835
+    OLD "正在连接"
+    NEW "Connecting"
+dist/electron/renderer.js@1630917
+    OLD "正在连接"
+    NEW "Connecting"
+dist/electron/renderer.js@1681337
+    OLD "正在连接"
+    NEW "Connecting"
+dist/electron/renderer.js@1316547
+    OLD "每隔12小时"
+    NEW "Every 12 hours"
+dist/electron/renderer.js@1316465
+    OLD "每隔15分钟"
+    NEW "Every 15 minutes"
+dist/electron/renderer.js@1316492
+    OLD "每隔1小时"
+    NEW "Every hour"
+dist/electron/renderer.js@1316519
+    OLD "每隔4小时"
+    NEW "Every 4 hours"
+dist/electron/renderer.js@1847830
+    OLD "注：手机“便签”应用数据不支持同步到办公套件，请前往vivo云服务 ("
+    NEW "Note: Notes app data cannot sync to PC Suite. Go to vivo Cloud Services ("
+dist/electron/renderer.js@1845856
+    OLD "注：若原子笔记应用的“我的”页中，“使用数据网络同步”开关为关，则仅支持WLAN下同步原子笔记数据。"
+    NEW "Note: if Use mobile data to sync is turned off on the Notes app's My page, Notes data can only be synced over Wi-Fi."
+dist/electron/renderer.js@1898407
+    OLD "浏览器链接接力"
+    NEW "Browser link handoff"
+dist/electron/renderer.js@1818013
+    OLD "添加待办类型"
+    NEW "Add to-do type"
+dist/electron/renderer.js@1818022
+    OLD "添加日程类型"
+    NEW "Add event type"
+dist/electron/renderer.js@391967
+    OLD "添加类型"
+    NEW "Add type"
+dist/electron/renderer.js@1416583
+    OLD "添加类型"
+    NEW "Add type"
+dist/electron/renderer.js@1859282 [BLANCHE]
+    OLD "\\n                清除\\n            "
+    NEW "\\n                Clear\\n            "
+dist/electron/renderer.js@1413712
+    OLD "清除"
+    NEW "Clear"
+dist/electron/renderer.js@1413611
+    OLD "清除与蓝心小V对话的所有聊天记录，该操作无法撤销。"
+    NEW "Clear all chats with 蓝心小V. This cannot be undone."
+dist/electron/renderer.js@1413600
+    OLD "清除所有聊天记录"
+    NEW "Clear all chat history"
+dist/electron/renderer.js@1859147
+    OLD "清除所有聊天记录"
+    NEW "Clear all chat history"
+dist/electron/renderer.js@1453312
+    OLD "点击关闭按钮弹出退出方式弹窗"
+    NEW "The close button asks how you want to sign out"
+dist/electron/renderer.js@1461830
+    OLD "点击关闭按钮弹出退出方式弹窗"
+    NEW "The close button asks how you want to sign out"
+dist/electron/renderer.js@1453233
+    OLD "点击关闭按钮直接退出"
+    NEW "The close button signs out immediately"
+dist/electron/renderer.js@1461682
+    OLD "点击关闭按钮直接退出"
+    NEW "The close button signs out immediately"
+dist/electron/renderer.js@1905598
+    OLD "点击标记后，会智能识别并生产契合时间点的标记名称。"
+    NEW "When you add a mark, a fitting name is generated for that moment."
+dist/electron/renderer.js@1230470
+    OLD "版本信息"
+    NEW "About"
+dist/electron/renderer.js@394415
+    OLD "生日"
+    NEW "Birthday"
+dist/electron/renderer.js@1332601
+    OLD "生日"
+    NEW "Birthday"
+dist/electron/renderer.js@1337504
+    OLD "生日"
+    NEW "Birthday"
+dist/electron/renderer.js@1417238
+    OLD "生日"
+    NEW "Birthday"
+dist/electron/renderer.js@1885328
+    OLD "用户体验改进计划"
+    NEW "User Experience Improvement Programme"
+dist/electron/renderer.js@302689
+    OLD "电脑、云端及其他同步设备"
+    NEW "Computer, cloud, and other synced devices"
+dist/electron/renderer.js@1847433
+    OLD "电脑的原子笔记数据未同步到手机/平板？"
+    NEW "Notes on this PC not synced to your phone or tablet?"
+dist/electron/renderer.js@1823867
+    OLD "登录"
+    NEW "Sign in"
+dist/electron/renderer.js@1882973
+    OLD "登录vivo账号，可通过日常交流语言搜索已连接设备的文件，为您匹配相关结果及AI问答。"
+    NEW "Sign in with a vivo account to search files on connected devices in everyday language, with matched results and AI answers."
+dist/electron/renderer.js@383783
+    OLD "登录失败"
+    NEW "Sign-in failed"
+dist/electron/renderer.js@383790
+    OLD "登录成功"
+    NEW "Signed in"
+dist/electron/renderer.js@1843026
+    OLD "登录账号"
+    NEW "Sign in to your account"
+dist/electron/renderer.js@1839600 [BLANCHE]
+    OLD "\\n            相同文件只占用一份空间，已使用空间可能会小于各类型数据占用空间大小的总和。\\n          "
+    NEW "\\n            Duplicate files only use one copy of space, so used space may be less than the total of each data type.\\n          "
+dist/electron/renderer.js@291263
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/renderer.js@682139
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/renderer.js@982417
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/renderer.js@1368110
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/renderer.js@1747111
+    OLD "知道了"
+    NEW "Got it"
+dist/electron/renderer.js@1330409
+    OLD "确定"
+    NEW "OK"
+dist/electron/renderer.js@1330669
+    OLD "确定"
+    NEW "OK"
+dist/electron/renderer.js@1428975
+    OLD "确定"
+    NEW "OK"
+dist/electron/renderer.js@1488530
+    OLD "确定"
+    NEW "OK"
+dist/electron/renderer.js@1285846
+    OLD "确定关闭"
+    NEW "Turn off"
+dist/electron/renderer.js@490285
+    OLD "确定关闭\"相册云同步\"吗？"
+    NEW "Turn off Cloud Album sync?"
+dist/electron/renderer.js@1285766
+    OLD "确定关闭接收通知提醒吗？"
+    NEW "Turn off notification reminders?"
+dist/electron/renderer.js@1317244
+    OLD "确定删除此账号吗？"
+    NEW "Delete this account?"
+dist/electron/renderer.js@1330370
+    OLD "确定删除该待办分类吗？"
+    NEW "Delete this to-do category?"
+dist/electron/renderer.js@1428899
+    OLD "确定要退出账号吗？"
+    NEW "Sign out of this account?"
+dist/electron/renderer.js@1488431
+    OLD "确定要退出账号吗？"
+    NEW "Sign out of this account?"
+dist/electron/renderer.js@490743
+    OLD "移除并关闭"
+    NEW "Remove and close"
+dist/electron/renderer.js@490844
+    OLD "移除并关闭"
+    NEW "Remove and close"
+dist/electron/renderer.js@1838886
+    OLD "空间说明"
+    NEW "About storage"
+dist/electron/renderer.js@490751
+    OLD "立即关闭"
+    NEW "Close now"
+dist/electron/renderer.js@490852
+    OLD "立即关闭"
+    NEW "Close now"
+dist/electron/renderer.js@1819790
+    OLD "立即同步"
+    NEW "Sync now"
+dist/electron/renderer.js@1540475
+    OLD "立即登录"
+    NEW "Sign in now"
+dist/electron/renderer.js@1734469
+    OLD "立即登录"
+    NEW "Sign in now"
+dist/electron/renderer.js@391772
+    OLD "笔记快捷键"
+    NEW "Note keyboard shortcuts"
+dist/electron/renderer.js@391704
+    OLD "笔记默认字号"
+    NEW "Default note font size"
+dist/electron/renderer.js@1816008
+    OLD "类型名称"
+    NEW "Type name"
+dist/electron/renderer.js@1825926
+    OLD "类型名称"
+    NEW "Type name"
+dist/electron/renderer.js@1827370
+    OLD "类型名称"
+    NEW "Type name"
+dist/electron/renderer.js@1275559
+    OLD "系统偏好设置"
+    NEW "System preferences"
+dist/electron/renderer.js@1275552
+    OLD "系统设置"
+    NEW "System settings"
+dist/electron/renderer.js@394485
+    OLD "纪念日"
+    NEW "Anniversary"
+dist/electron/renderer.js@1332642
+    OLD "纪念日"
+    NEW "Anniversary"
+dist/electron/renderer.js@1337526
+    OLD "纪念日"
+    NEW "Anniversary"
+dist/electron/renderer.js@1417296
+    OLD "纪念日"
+    NEW "Anniversary"
+dist/electron/renderer.js@1857328
+    OLD "维沃移动通信有限公司版权所有，保留所有权利。"
+    NEW "vivo Mobile Communications Co., Ltd. All rights reserved."
+dist/electron/renderer.js@392000
+    OLD "编辑类型"
+    NEW "Edit type"
+dist/electron/renderer.js@392156
+    OLD "编辑类型"
+    NEW "Edit type"
+dist/electron/renderer.js@1416629
+    OLD "编辑类型"
+    NEW "Edit type"
+dist/electron/renderer.js@6450731
+    OLD "网络异常"
+    NEW "Network error"
+dist/electron/renderer.js@6452101
+    OLD "网络异常"
+    NEW "Network error"
+dist/electron/renderer.js@1317938
+    OLD "网络未连接"
+    NEW "No network connection"
+dist/electron/renderer.js@2168359
+    OLD "联系人"
+    NEW "Contacts"
+dist/electron/renderer.js@391033
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/renderer.js@392812
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/renderer.js@838239
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/renderer.js@1469076
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/renderer.js@1791887
+    OLD "蓝心小V"
+    NEW "BlueLM Copilot"
+dist/electron/renderer.js@912194
+    OLD "视频"
+    NEW "Video"
+dist/electron/renderer.js@1916560
+    OLD "视频"
+    NEW "Video"
+dist/electron/renderer.js@172076
+    OLD "设备互联"
+    NEW "Device interconnection"
+dist/electron/renderer.js@172180
+    OLD "设备互联"
+    NEW "Device interconnection"
+dist/electron/renderer.js@1184040
+    OLD "设备互联"
+    NEW "Device interconnection"
+dist/electron/renderer.js@1415536
+    OLD "设置"
+    NEW "Settings"
+dist/electron/renderer.js@1488094
+    OLD "设置"
+    NEW "Settings"
+dist/electron/renderer.js@1819450
+    OLD "设置同步频率"
+    NEW "Set sync frequency"
+dist/electron/renderer.js@1380371
+    OLD "该设置将在投屏重启后生效"
+    NEW "This setting takes effect after screen mirroring restarts"
+dist/electron/renderer.js@1425894
+    OLD "该账号登录的设备可在手机/平板的“设置”>“vivo账号”>“设备管理”中管理。"
+    NEW "Devices signed in to this account can be managed in Settings > vivo Account > Device Management on your phone or tablet."
+dist/electron/renderer.js@1843899
+    OLD "该路径存储了原子笔记、相册等数据，请勿随意删除，若删除可能会导致应用内容丢失。"
+    NEW "This location stores Notes, album and other data. Do not delete it casually, or app content may be lost."
+dist/electron/renderer.js@1783881
+    OLD "详情"
+    NEW "Details"
+dist/electron/renderer.js@982372
+    OLD "请前往电脑网页查看"
+    NEW "Open the desktop app to view this"
+dist/electron/renderer.js@1826198
+    OLD "请输入日程类型"
+    NEW "Enter an event type"
+dist/electron/renderer.js@1827711
+    OLD "请输入日程类型"
+    NEW "Enter an event type"
+dist/electron/renderer.js@1784248
+    OLD "课程表"
+    NEW "Timetable"
+dist/electron/renderer.js@1820429
+    OLD "账号"
+    NEW "Account"
+dist/electron/renderer.js@1226448
+    OLD "账号与同步"
+    NEW "Accounts and sync"
+dist/electron/renderer.js@1230435
+    OLD "账号与同步"
+    NEW "Accounts and sync"
+dist/electron/renderer.js@392078
+    OLD "账号信息"
+    NEW "Account info"
+dist/electron/renderer.js@1416399
+    OLD "账号信息"
+    NEW "Account info"
+dist/electron/renderer.js@1819170
+    OLD "账号信息"
+    NEW "Account info"
+dist/electron/renderer.js@392034
+    OLD "账号详情"
+    NEW "Account details"
+dist/electron/renderer.js@1811178
+    OLD "辅助功能"
+    NEW "Accessibility"
+dist/electron/renderer.js@1719684
+    OLD "返回"
+    NEW "Back"
+dist/electron/renderer.js@1719948
+    OLD "返回"
+    NEW "Back"
+dist/electron/renderer.js@1785487
+    OLD "返回"
+    NEW "Back"
+dist/electron/renderer.js@1761150
+    OLD "选择合适的 Mac 版本"
+    NEW "Choose the right Mac version"
+dist/electron/renderer.js@1116301
+    OLD "选择项目"
+    NEW "Select an item"
+dist/electron/renderer.js@1227129
+    OLD "通用设置"
+    NEW "General"
+dist/electron/renderer.js@1230400
+    OLD "通用设置"
+    NEW "General"
+dist/electron/renderer.js@392281
+    OLD "邮箱账号导入"
+    NEW "Import from an email account"
+dist/electron/renderer.js@1442481
+    OLD "重新登录"
+    NEW "Sign in again"
+dist/electron/renderer.js@1796533
+    OLD "重新登录"
+    NEW "Sign in again"
+dist/electron/renderer.js@1307232
+    OLD "钉钉"
+    NEW "DingTalk"
+dist/electron/renderer.js@1319829
+    OLD "钉钉"
+    NEW "DingTalk"
+dist/electron/renderer.js@1300848
+    OLD "钉钉日程"
+    NEW "DingTalk events"
+dist/electron/renderer.js@1416119
+    OLD "钉钉日程"
+    NEW "DingTalk events"
+dist/electron/renderer.js@1416903
+    OLD "钉钉日程"
+    NEW "DingTalk events"
+dist/electron/renderer.js@1891544
+    OLD "钉钉账号导入"
+    NEW "Import from DingTalk"
+dist/electron/renderer.js@1230549
+    OLD "隐私保护"
+    NEW "Privacy"
+dist/electron/renderer.js@1916542
+    OLD "音频"
+    NEW "Audio"
+dist/electron/renderer.js@1762189
+    OLD "页中查看"
+    NEW " page, check "
+dist/electron/renderer.js@904236
+    OLD "预览"
+    NEW "Preview"
+dist/electron/renderer.js@1816344
+    OLD "颜色"
+    NEW "Color"
+dist/electron/renderer.js@1826288
+    OLD "颜色"
+    NEW "Color"
+dist/electron/renderer.js@1827801
+    OLD "颜色"
+    NEW "Color"
+dist/electron/renderer.js@1307284
+    OLD "飞书"
+    NEW "Feishu"
+dist/electron/renderer.js@1319951
+    OLD "飞书"
+    NEW "Feishu"
+dist/electron/renderer.js@1300860
+    OLD "飞书日程"
+    NEW "Lark events"
+dist/electron/renderer.js@1416277
+    OLD "飞书日程"
+    NEW "Lark events"
+dist/electron/renderer.js@1416975
+    OLD "飞书日程"
+    NEW "Lark events"
+dist/electron/renderer.js@1897441
+    OLD "验证码接力"
+    NEW "Verification code handoff"
+dist/electron/renderer.js@392426
+    OLD "默认待办提醒时间"
+    NEW "Default to-do reminder time"
+dist/electron/renderer.js@1233603
+    OLD "默认待办提醒时间"
+    NEW "Default to-do reminder time"
+dist/electron/renderer.js@1811035
+    OLD "默认待办提醒时间"
+    NEW "Default to-do reminder time"
+dist/electron/renderer.js@392390
+    OLD "默认提醒时间"
+    NEW "Default reminder time"
+dist/electron/renderer.js@392469
+    OLD "默认提醒时间"
+    NEW "Default reminder time"
+dist/electron/renderer.js@1233614
+    OLD "默认提醒时间"
+    NEW "Default reminder time"
+dist/electron/renderer.js@1417125
+    OLD "默认提醒时间"
+    NEW "Default reminder time"
+dist/electron/renderer.js@1810903
+    OLD "默认日程提醒时间"
+    NEW "Default event reminder time"
+dist/electron/renderer.js@1762319 [BLANCHE]
+    OLD "，确认是“Intel”还是“Apple”\\n            "
+    NEW ", and confirm whether it says \\\"Intel\\\" or \\\"Apple\\\"\\n            "
+dist/electron/renderer.js@1849788
+    OLD "，进入日程列表后，再点击"
+    NEW "”, then, in the event list, tap "

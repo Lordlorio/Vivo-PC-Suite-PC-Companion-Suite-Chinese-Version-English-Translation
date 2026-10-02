@@ -1,0 +1,2514 @@
+{
+ ") 查看便签数据。": [
+  "renderer.js"
+ ],
+ "*需手机的日历应用版本≧V6.3.2.0，平板的日历应用版本≧V6.3.4.0；待办同步需手机和平板的日历应用版本≧V8.0.0.0。": [
+  "renderer.js"
+ ],
+ ". 使用 USB 连接或扫码连接": [
+  "127.js",
+  "components-connection.js"
+ ],
+ ". 开启电脑端的“验证码接力”开关。\\n": [
+  "127.js",
+  "components-connection.js"
+ ],
+ ". 设置同步数据缓存路径": [
+  "renderer.js"
+ ],
+ "1. 完全退出手机/平板电脑的相册应用，并重新进入。": [
+  "renderer.js"
+ ],
+ "1. 完全退出手机/平板的原子笔记应用，并重新进入。": [
+  "renderer.js"
+ ],
+ "1. 完全退出手机/平板的录音机应用，并重新进入。": [
+  "renderer.js"
+ ],
+ "1.全部文档同步：": [
+  "renderer.js"
+ ],
+ "1.在手机/平板上打开日历应用，点击右上角的“": [
+  "renderer.js"
+ ],
+ "1.完全退出手机/平板的日历应用，并重新进入。": [
+  "renderer.js"
+ ],
+ "1.打开云服务": [
+  "renderer.js"
+ ],
+ "10小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "11小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "12小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "13小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "14小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "15分钟前": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "15小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "16小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "17小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "18小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "19小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "1、在电脑左上角，点击": [
+  "renderer.js"
+ ],
+ "1周": [
+  "128.js",
+  "130.js",
+  "140.js"
+ ],
+ "1周前": [
+  "8.js",
+  "renderer.js"
+ ],
+ "1天前": [
+  "8.js",
+  "renderer.js"
+ ],
+ "1小时前": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "2. 在手机/平板电脑中进入相册应用的“相册”分页，下拉页面，尝试手动同步。": [
+  "renderer.js"
+ ],
+ "2. 点击录音机应用右上角的": [
+  "renderer.js"
+ ],
+ "2. 进入手机/平板的“原子笔记”>“笔记”，下拉页面，尝试手动同步。": [
+  "renderer.js"
+ ],
+ "2.仅部分文档同步：": [
+  "renderer.js"
+ ],
+ "2.在手机/平板中打开原子笔记应用，点击“我的”，开启“自动同步原子笔记”，即可同步待办。": [
+  "renderer.js"
+ ],
+ "2.打开手机/平板的日历应用，点击右上角的": [
+  "renderer.js"
+ ],
+ "2.点击升级云空间": [
+  "renderer.js"
+ ],
+ "20小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "21小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "22小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "23小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "24小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "2天前": [
+  "8.js",
+  "renderer.js"
+ ],
+ "2小时前": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "3. 若仍未查看到笔记，请检查设备的网络状态是否满足“云同步时网络状态”设置项的要求。": [
+  "renderer.js"
+ ],
+ "3.选择套餐完成购买": [
+  "renderer.js"
+ ],
+ "30分钟前": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "3天前": [
+  "8.js",
+  "renderer.js"
+ ],
+ "5分钟前": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "6小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "7小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "8小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "9小时": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "> “设置”，重新开启“自动同步日程与待办”开关。": [
+  "renderer.js"
+ ],
+ ">“同步”，开启“日历”开关，即可同步日程。": [
+  "renderer.js"
+ ],
+ ">“设置”，开启“自动同步录音文件”开关，即可在办公套件中浏览手机/平板的录音文件。": [
+  "renderer.js"
+ ],
+ ">“设置”，开启“自动同步日程与待办”开关，即可将日程与待办同步至云端，在多个vivo设备或办公套件上同步查看。": [
+  "renderer.js"
+ ],
+ ">“设置”，开启“自动同步照片”开关，之后可点击“需要同步的相册”设置项，选择相应的相册。": [
+  "renderer.js"
+ ],
+ "AI搜索问答": [
+  "renderer.js"
+ ],
+ "AI识别": [
+  "129.js",
+  "20.js"
+ ],
+ "CalDAV日程": [
+  "renderer.js"
+ ],
+ "CalDAV账号导入": [
+  "renderer.js"
+ ],
+ "CalDav账号导入": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "CalDav账号登录": [
+  "renderer.js"
+ ],
+ "Exchange日程": [
+  "renderer.js"
+ ],
+ "Exchange账号导入": [
+  "renderer.js"
+ ],
+ "Google日程": [
+  "renderer.js"
+ ],
+ "MM月dd日 HH:mm": [
+  "128.js",
+  "133.js",
+  "134.js",
+  "app-modules-note.js",
+  "note-toolbar.js"
+ ],
+ "YYYY年MM月DD日": [
+  "128.js",
+  "129.js",
+  "130.js",
+  "133.js",
+  "140.js"
+ ],
+ "YYYY年MM月DD日 HH:mm": [
+  "129.js",
+  "130.js",
+  "133.js"
+ ],
+ "\\n              云空间将满，暂停同步历史版本。": [
+  "126.js",
+  "app-modules-note.js"
+ ],
+ "\\n              另存为新笔记\\n": [
+  "126.js",
+  "app-modules-note.js"
+ ],
+ "iCload日程": [
+  "renderer.js"
+ ],
+ "iCloud日程": [
+  "renderer.js"
+ ],
+ "vivo办公套件": [
+  "127.js",
+  "164.js",
+  "180.js",
+  "28.js",
+  "app-connection.js",
+  "components-connection.js",
+  "132.js",
+  "main.js"
+ ],
+ "“Apple 菜单”>“关于本机”": [
+  "renderer.js"
+ ],
+ "“处理器”": [
+  "renderer.js"
+ ],
+ "“概览”": [
+  "renderer.js"
+ ],
+ "“芯片”": [
+  "renderer.js"
+ ],
+ "一": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "一、笔记数据同步": [
+  "renderer.js"
+ ],
+ "一句话总结全文内容，涵盖观点碰撞、论据支撑及决策方向，完整呈现讨论背景、过程及关键结论，为后续行动提供全面信息支撑。": [
+  "125.js"
+ ],
+ "一周开始日": [
+  "renderer.js"
+ ],
+ "一次最多只可同时拖拽20个文件进入！": [
+  "131.js"
+ ],
+ "一键开启": [
+  "125.js"
+ ],
+ "三": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "下载": [
+  "125.js",
+  "128.js",
+  "2.js"
+ ],
+ "下载 Apple 芯片版（M 系列）": [
+  "renderer.js"
+ ],
+ "下载 Intel 芯片版": [
+  "renderer.js"
+ ],
+ "下载客户端": [
+  "125.js"
+ ],
+ "不重复": [
+  "8.js"
+ ],
+ "与电脑。\\n": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "个人": [
+  "128.js",
+  "130.js",
+  "app-modules.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "个性化推荐服务": [
+  "renderer.js"
+ ],
+ "中": [
+  "8.js"
+ ],
+ "中国农历": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "为确保您能收到通知，请检查并打开电脑系统设置中的“vivo办公套件”通知。": [
+  "renderer.js"
+ ],
+ "主题": [
+  "125.js"
+ ],
+ "事件名称": [
+  "128.js",
+  "130.js",
+  "app-modules.js"
+ ],
+ "二": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "二、选择文档数据的同步范围": [
+  "renderer.js"
+ ],
+ "云服务": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "云盘": [
+  "128.js",
+  "renderer.js"
+ ],
+ "云空间": [
+  "renderer.js"
+ ],
+ "云空间不足": [
+  "131.js",
+  "renderer.js"
+ ],
+ "云空间不足，无法完成本次数据同步。": [
+  "131.js"
+ ],
+ "云端及所有同步设备": [
+  "126.js",
+  "134.js",
+  "app-modules-note.js"
+ ],
+ "云端数据同步": [
+  "renderer.js"
+ ],
+ "五": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "仅删除此": [
+  "8.js"
+ ],
+ "今天": [
+  "128.js",
+  "130.js",
+  "133.js",
+  "140.js",
+  "142.js",
+  "151.js",
+  "app-components.js",
+  "list.worker.worker.js"
+ ],
+ "今日无日程": [
+  "130.js"
+ ],
+ "从CalDAV中导入": [
+  "renderer.js"
+ ],
+ "从邮箱中导入": [
+  "renderer.js"
+ ],
+ "从钉钉中导入": [
+  "renderer.js"
+ ],
+ "伊斯兰历": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "优先级": [
+  "8.js"
+ ],
+ "低": [
+  "8.js"
+ ],
+ "使用 USB 连接或扫码连接${this.deviceTypeDesc}与电脑。": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "使用帮助": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "保存": [
+  "27.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "保存失败": [
+  "126.js",
+  "2.js"
+ ],
+ "保留两者": [
+  "128.js",
+  "137.js"
+ ],
+ "修改同步日程类型": [
+  "renderer.js"
+ ],
+ "修改时间": [
+  "126.js",
+  "131.js",
+  "app-modules-note.js"
+ ],
+ "修改笔记数据后，需要找回旧版本的内容时，可使用历史版本功能，该功能支持记录最近30天内，至多10条历史编辑版本。": [
+  "126.js",
+  "app-modules-note.js"
+ ],
+ "倒数日": [
+  "128.js",
+  "130.js",
+  "app-modules.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "倒数日只能选择今天之后的日期": [
+  "128.js",
+  "130.js"
+ ],
+ "停止": [
+  "128.js",
+  "137.js"
+ ],
+ "停止传输": [
+  "128.js",
+  "137.js"
+ ],
+ "允许在电脑端快速打开手机/平板上浏览的笔记。": [
+  "renderer.js"
+ ],
+ "允许在电脑端打开手机的链接。": [
+  "renderer.js"
+ ],
+ "允许在电脑端查看、复制手机接收的短信验证码。": [
+  "renderer.js"
+ ],
+ "全天": [
+  "128.js",
+  "130.js",
+  "140.js",
+  "147.js",
+  "193.js"
+ ],
+ "全天待办": [
+  "renderer.js"
+ ],
+ "全天日程": [
+  "renderer.js"
+ ],
+ "全部": [
+  "125.js",
+  "128.js",
+  "129.js",
+  "131.js",
+  "138.js",
+  "142.js",
+  "7.js",
+  "app-components.js",
+  "app-modules.js",
+  "main.js",
+  "renderer.js"
+ ],
+ "全部项目": [
+  "128.js"
+ ],
+ "六": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "关闭": [
+  "128.js",
+  "130.js",
+  "135.js",
+  "141.js",
+  "27.js",
+  "child-window.js",
+  "components-connection.js",
+  "renderer.js"
+ ],
+ "关闭后，将无法收到笔记待办、日历日程设置的提醒，以及无法使用通知接力功能。": [
+  "renderer.js"
+ ],
+ "其他": [
+  "127.js",
+  "138.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "其他历法": [
+  "renderer.js"
+ ],
+ "农历": [
+  "130.js",
+  "8.js"
+ ],
+ "准备做什么？": [
+  "128.js",
+  "130.js",
+  "8.js",
+  "app-modules.js"
+ ],
+ "准备工作": [],
+ "准时": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "刚刚同步": [
+  "renderer.js"
+ ],
+ "创建异常": [
+  "128.js",
+  "130.js",
+  "app-modules.js"
+ ],
+ "创建成功": [
+  "app-modules-note.js",
+  "renderer.js"
+ ],
+ "创建时间": [
+  "renderer.js"
+ ],
+ "删除": [
+  "125.js",
+  "128.js",
+  "130.js",
+  "133.js",
+  "135.js",
+  "136.js",
+  "137.js",
+  "138.js",
+  "143.js",
+  "2.js",
+  "27.js",
+  "8.js",
+  "app-components.js",
+  "app-modules.js",
+  "child-window.js",
+  "renderer.js"
+ ],
+ "删除失败": [
+  "126.js",
+  "app-modules-note.js",
+  "renderer.js"
+ ],
+ "删除成功": [
+  "7.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "删除所有": [
+  "8.js"
+ ],
+ "删除此视频？": [
+  "137.js"
+ ],
+ "删除类型": [
+  "renderer.js"
+ ],
+ "删除账号": [
+  "renderer.js"
+ ],
+ "删除账号后将同步移除该账号下的所有日程。": [
+  "renderer.js"
+ ],
+ "剪切成功": [
+  "129.js",
+  "131.js",
+  "139.js",
+  "app-modules-note.js"
+ ],
+ "剪贴板": [
+  "renderer.js"
+ ],
+ "办公套件": [
+  "renderer.js"
+ ],
+ "功能不可用，完成下述步骤即可使用": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "加入会议": [
+  "128.js",
+  "130.js",
+  "140.js"
+ ],
+ "加载中": [
+  "129.js",
+  "app-components.js",
+  "renderer.js"
+ ],
+ "包含智能识别": [
+  "129.js"
+ ],
+ "升级云空间": [
+  "3.js",
+  "renderer.js"
+ ],
+ "压缩文件": [
+  "138.js"
+ ],
+ "原子笔记": [
+  "127.js",
+  "128.js",
+  "129.js",
+  "157.js",
+  "165.js",
+  "7.js",
+  "app-components.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "原子笔记接力": [
+  "renderer.js"
+ ],
+ "去开启": [
+  "144.js",
+  "app-components.js",
+  "components-connection.js",
+  "renderer.js"
+ ],
+ "去连接": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "反馈记录": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "反馈详情": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "取消": [
+  "125.js",
+  "126.js",
+  "127.js",
+  "128.js",
+  "130.js",
+  "135.js",
+  "136.js",
+  "137.js",
+  "143.js",
+  "147.js",
+  "158.js",
+  "32.js",
+  "app-components.js",
+  "app-modules.js",
+  "child-window.js",
+  "components-connection.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "可下载客户端生成总结": [
+  "125.js"
+ ],
+ "可下载客户端生成洞察": [
+  "125.js"
+ ],
+ "可前往电脑下载客户端生成总结": [
+  "125.js"
+ ],
+ "可前往电脑下载客户端生成洞察": [
+  "125.js"
+ ],
+ "可执行文件": [
+  "138.js"
+ ],
+ "可添加邮箱、钉钉等账号并同步账号中的日程": [
+  "renderer.js"
+ ],
+ "右上": [
+  "renderer.js"
+ ],
+ "右下": [
+  "renderer.js"
+ ],
+ "同步中": [
+  "128.js"
+ ],
+ "同步前": [
+  "renderer.js"
+ ],
+ "同步失败": [
+  "3.js",
+  "app-modules-note.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "同步完成": [
+  "131.js",
+  "app-modules-note.js"
+ ],
+ "同步异常": [
+  "renderer.js"
+ ],
+ "同步成功": [
+  "app-modules.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "同步数据缓存至：": [
+  "renderer.js"
+ ],
+ "同步日程类型": [
+  "renderer.js"
+ ],
+ "同步的日程类型": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "同步设置": [
+  "app-components.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "后台传输": [
+  "128.js",
+  "137.js"
+ ],
+ "启用": [
+  "128.js",
+  "130.js"
+ ],
+ "周": [
+  "128.js",
+  "129.js",
+  "130.js",
+  "8.js",
+  "app-components.js"
+ ],
+ "周一": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "周三": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "周二": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "周五": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "周六": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "周四": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "周日": [
+  "8.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "周末": [
+  "app-modules.js"
+ ],
+ "周视图显示范围": [
+  "renderer.js"
+ ],
+ "四": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "图片": [
+  "128.js",
+  "129.js",
+  "136.js",
+  "137.js",
+  "138.js",
+  "142.js",
+  "app-modules.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "图片和视频": [
+  "128.js"
+ ],
+ "图片视频备份": [
+  "app-modules.js"
+ ],
+ "图片视频备份至：": [
+  "renderer.js"
+ ],
+ "在工具栏显示日期和时间，点击可进入vivo办公套件日历模块。": [
+  "renderer.js"
+ ],
+ "在手机/平板上打开日历应用，点击右上角": [
+  "renderer.js"
+ ],
+ "在手机/平板中打开原子笔记应用，进入“我的”页，开启“自动同步原子笔记”开关。": [
+  "renderer.js"
+ ],
+ "在手机/平板中打开录音机应用，点击右上角的": [
+  "renderer.js"
+ ],
+ "在手机/平板中打开相册应用，点击右上角的": [
+  "renderer.js"
+ ],
+ "在月视图、周视图中显示未来两周的天气信息": [
+  "renderer.js"
+ ],
+ "备注": [
+  "128.js",
+  "130.js"
+ ],
+ "复制": [
+  "125.js",
+  "128.js",
+  "130.js",
+  "135.js",
+  "136.js",
+  "137.js",
+  "2.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "复制成功": [
+  "129.js",
+  "131.js",
+  "135.js",
+  "139.js",
+  "app-modules-note.js",
+  "child-window.js",
+  "renderer.js"
+ ],
+ "天": [
+  "130.js",
+  "143.js",
+  "8.js",
+  "app-modules.js"
+ ],
+ "天后": [
+  "128.js",
+  "130.js",
+  "140.js",
+  "list.worker.worker.js"
+ ],
+ "失败": [
+  "app-modules-note.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "如何从CalDAV账号中导入iCloud日程？": [
+  "renderer.js"
+ ],
+ "如何从CalDAV账号中导入飞书日程？": [
+  "renderer.js"
+ ],
+ "如何从Exchange邮箱账号中导入日程？": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "如何从钉钉中导入日程？": [
+  "renderer.js"
+ ],
+ "如何确认 Mac 电脑的芯片类型": [
+  "renderer.js"
+ ],
+ "完成": [
+  "128.js",
+  "130.js",
+  "133.js",
+  "140.js",
+  "renderer.js"
+ ],
+ "密码或授权码": [
+  "renderer.js"
+ ],
+ "对录音文件中的全部对话内容进行系统性梳理，精准提炼其中的核心议题，按照逻辑层次分点分段展示，确保关键讨论要点清晰明了。": [
+  "125.js"
+ ],
+ "导入": [
+  "128.js",
+  "137.js",
+  "142.js",
+  "151.js",
+  "app-modules.js"
+ ],
+ "导入中...": [
+  "125.js",
+  "128.js"
+ ],
+ "导入失败": [
+  "128.js",
+  "137.js"
+ ],
+ "导入本地文件": [
+  "131.js"
+ ],
+ "导入项目": [
+  "151.js",
+  "app-modules.js"
+ ],
+ "寿星名字": [
+  "128.js",
+  "130.js",
+  "app-modules.js"
+ ],
+ "小V Claw": [
+  "app-modules-note.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "小时": [
+  "app-modules.js"
+ ],
+ "工作": [
+  "128.js",
+  "130.js",
+  "app-modules.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "工作日(周一至周五)": [
+  "130.js",
+  "8.js",
+  "app-modules.js"
+ ],
+ "左上": [
+  "renderer.js"
+ ],
+ "左下": [
+  "renderer.js"
+ ],
+ "已关闭": [
+  "app-connection.js",
+  "renderer.js"
+ ],
+ "已创建": [
+  "128.js",
+  "130.js"
+ ],
+ "已完成": [],
+ "已开启": [
+  "renderer.js"
+ ],
+ "已成功保存到原子笔记": [
+  "132.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "已达到最大字符限制": [
+  "128.js",
+  "130.js",
+  "8.js",
+  "renderer.js"
+ ],
+ "已达到登录上限，请清除账号": [
+  "renderer.js"
+ ],
+ "已过期": [
+  "128.js",
+  "129.js",
+  "renderer.js"
+ ],
+ "已重命名": [
+  "131.js"
+ ],
+ "平板": [
+  "127.js",
+  "128.js",
+  "app-connection.js",
+  "app-modules.js",
+  "components-connection.js"
+ ],
+ "年": [
+  "128.js",
+  "130.js",
+  "8.js",
+  "app-components.js",
+  "renderer.js"
+ ],
+ "应用": [
+  "125.js",
+  "app-modules.js",
+  "main.js"
+ ],
+ "开启": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "开启“自动同步原子笔记”后，点击“自动同步的文档范围”设置项，选择“全部文档”，而后所有文档将自动同步至云端。": [
+  "renderer.js"
+ ],
+ "开启“自动同步原子笔记”后，点击“自动同步的文档范围”设置项，选择“部分文档”后，在“文档”分页中长按勾选文档，之后点击“同步到云端”，即可将对应文档同步至云端。": [
+  "renderer.js"
+ ],
+ "开启同步，XX云端YY": [
+  "128.js"
+ ],
+ "开启同步，查看、编辑、管理云端待办": [
+  "128.js"
+ ],
+ "开启同步，查看、编辑、管理云端日程和待办": [
+  "128.js"
+ ],
+ "开启后，云端和本地的数据将保持一致。若多个设备同时开启同步，则多设备间也将保持数据一致。": [
+  "renderer.js"
+ ],
+ "开启手机投屏将会断开手机与电脑的键鼠协同，是否继续？": [
+  "127.js",
+  "128.js"
+ ],
+ "开启电脑端“图片接力”开关。": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "开启电脑端“电话接力”开关。": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "开启电脑端“通知接力”开关。": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "开启电脑端“验证码接力”开关。": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "开启电脑端的“剪贴板”开关。": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "开启移动设备的蓝牙和 WLAN 开关，并保持解锁亮屏；": [
+  "128.js"
+ ],
+ "开启键鼠协同": [
+  "127.js",
+  "128.js"
+ ],
+ "开启键鼠协同将会关闭手机投屏、断开电脑“vivo远控PC”的远程控制连接，是否继续？": [
+  "127.js",
+  "128.js"
+ ],
+ "开启键鼠协同将会断开手机与其他设备的键鼠协同，是否继续？": [
+  "127.js",
+  "128.js"
+ ],
+ "开始": [
+  "128.js",
+  "130.js"
+ ],
+ "开始: ": [],
+ "当前手机的网络质量差，若想键鼠协同更流畅，建议手机切换质量较高的网络重新连接，或使用USB连接电脑。": [
+  "127.js",
+  "128.js"
+ ],
+ "当天": [
+  "8.js",
+  "renderer.js"
+ ],
+ "录音": [
+  "128.js"
+ ],
+ "录音内容搜索": [
+  "renderer.js"
+ ],
+ "录音内容较少，无需生成AI总结。": [
+  "125.js"
+ ],
+ "录音内容较少，无需生成AI洞察。": [
+  "125.js"
+ ],
+ "录音已不存在": [
+  "129.js"
+ ],
+ "录音文件": [
+  "125.js",
+  "128.js",
+  "129.js",
+  "app-components.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "录音机": [
+  "125.js",
+  "126.js",
+  "127.js",
+  "128.js",
+  "129.js",
+  "157.js",
+  "app-components.js",
+  "app-modules.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "待办": [
+  "125.js",
+  "128.js",
+  "129.js",
+  "130.js",
+  "133.js",
+  "8.js",
+  "app-components.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "待办事项": [
+  "125.js"
+ ],
+ "待办列表": [
+  "app-modules.js"
+ ],
+ "待办暂不支持在移动设备网页查看": [
+  "128.js"
+ ],
+ "待办类型": [
+  "renderer.js"
+ ],
+ "待添加类型": [
+  "128.js",
+  "130.js"
+ ],
+ "待生效": [
+  "renderer.js"
+ ],
+ "快捷入口": [
+  "renderer.js"
+ ],
+ "总结": [
+  "125.js"
+ ],
+ "总结当前录音内容的主题": [
+  "125.js"
+ ],
+ "成功": [
+  "125.js",
+  "128.js",
+  "app-connection.js",
+  "app-modules-note.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "所属文件夹": [
+  "126.js",
+  "app-modules-note.js"
+ ],
+ "所有与此类型关联的日程都将被删除。": [
+  "renderer.js"
+ ],
+ "手动": [
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "手机": [
+  "127.js",
+  "128.js",
+  "app-connection.js",
+  "app-modules.js",
+  "components-connection.js"
+ ],
+ "手机/平板的录音文件未同步到电脑的办公套件？": [
+  "renderer.js"
+ ],
+ "手机/平板的日历为其他版本或无法找到上述开关": [
+  "renderer.js"
+ ],
+ "手机/平板的日历数据未同步到电脑的办公套件？": [
+  "renderer.js"
+ ],
+ "手机/平板的相册数据未同步到电脑的办公套件？": [
+  "renderer.js"
+ ],
+ "手机投屏": [
+  "128.js",
+  "child-window.js",
+  "components-connection.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "手机接收到短信验证码时，同步展示在电脑上，并可在电脑上进行复制。": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "打开方式": [
+  "131.js",
+  "138.js"
+ ],
+ "扬声器": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "批量创建失败": [
+  "128.js",
+  "130.js"
+ ],
+ "投屏": [
+  "app-connection.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "拖动失败": [
+  "137.js"
+ ],
+ "按创建时间：新到旧": [
+  "125.js"
+ ],
+ "按创建时间：旧到新": [
+  "125.js"
+ ],
+ "按名称：A到Z": [
+  "125.js"
+ ],
+ "排序": [
+  "130.js",
+  "133.js"
+ ],
+ "接收通知提醒": [
+  "renderer.js"
+ ],
+ "提升录音管理效率,开启录音内容搜索、标记智能命名。": [
+  "125.js"
+ ],
+ "提取图中的文本": [
+  "136.js"
+ ],
+ "提醒": [
+  "128.js",
+  "129.js",
+  "130.js",
+  "8.js",
+  "renderer.js"
+ ],
+ "提醒时间": [
+  "8.js",
+  "renderer.js"
+ ],
+ "搜索日程": [
+  "130.js"
+ ],
+ "搜索日程或待办": [
+  "130.js"
+ ],
+ "支持从Exchange账号导入日程。": [
+  "renderer.js"
+ ],
+ "支持从钉钉账号中导入日程。": [
+  "renderer.js"
+ ],
+ "支持从飞书、iCloud等CalDAV账号中导入日程。": [
+  "renderer.js"
+ ],
+ "支持通过录音内容查找录音文件。": [
+  "renderer.js"
+ ],
+ "收起": [
+  "125.js",
+  "129.js",
+  "137.js",
+  "app-modules.js"
+ ],
+ "放弃生成": [
+  "125.js"
+ ],
+ "数据自动迁移，多设备同步": [
+  "126.js"
+ ],
+ "整机备份与恢复": [
+  "127.js",
+  "app-modules.js"
+ ],
+ "整机数据备份至：": [
+  "renderer.js"
+ ],
+ "文件夹": [
+  "138.js"
+ ],
+ "文档": [
+  "128.js",
+  "129.js",
+  "130.js",
+  "131.js",
+  "138.js",
+  "app-components.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "新建": [
+  "130.js",
+  "133.js"
+ ],
+ "新建Excel": [
+  "129.js",
+  "131.js",
+  "139.js",
+  "app-modules-note.js"
+ ],
+ "新建PPT": [
+  "129.js",
+  "131.js",
+  "139.js",
+  "app-modules-note.js"
+ ],
+ "新建Word": [
+  "129.js",
+  "131.js",
+  "139.js",
+  "app-modules-note.js"
+ ],
+ "新建日程时，智能解析日程并提供选择建议。": [
+  "renderer.js"
+ ],
+ "新建相册": [
+  "137.js",
+  "2.js"
+ ],
+ "无": [
+  "133.js",
+  "8.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "无AI总结": [
+  "125.js"
+ ],
+ "无AI洞察": [
+  "125.js"
+ ],
+ "无YY": [
+  "128.js"
+ ],
+ "无内容": [
+  "125.js"
+ ],
+ "无已完成待办": [
+  "133.js"
+ ],
+ "无录音": [
+  "125.js"
+ ],
+ "无待办YY": [
+  "128.js"
+ ],
+ "无待办内容": [
+  "128.js"
+ ],
+ "无提醒": [
+  "128.js",
+  "130.js",
+  "8.js"
+ ],
+ "无搜索结果": [
+  "129.js",
+  "130.js",
+  "21.js",
+  "renderer.js"
+ ],
+ "无日程内容": [
+  "128.js"
+ ],
+ "无日程类型": [
+  "renderer.js"
+ ],
+ "无未完成待办": [
+  "133.js"
+ ],
+ "无标题": [
+  "128.js",
+  "130.js",
+  "app-modules.js",
+  "list.worker.worker.js"
+ ],
+ "日": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "日历": [
+  "126.js",
+  "127.js",
+  "128.js",
+  "129.js",
+  "130.js",
+  "133.js",
+  "157.js",
+  "7.js",
+  "app-components.js",
+  "app-modules.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "日历时间": [],
+ "日历最大值为2099年": [
+  "130.js",
+  "8.js",
+  "app-components.js"
+ ],
+ "日历最小值为1901年": [
+  "130.js",
+  "8.js",
+  "app-components.js"
+ ],
+ "日历类型必填": [
+  "128.js",
+  "130.js"
+ ],
+ "日历视图": [
+  "renderer.js"
+ ],
+ "日期": [
+  "130.js",
+  "133.js",
+  "8.js"
+ ],
+ "日期跳转": [
+  "130.js"
+ ],
+ "日程": [
+  "128.js",
+  "130.js",
+  "140.js",
+  "177.js",
+  "8.js",
+  "renderer.js"
+ ],
+ "日程与待办管理": [
+  "130.js",
+  "133.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "日程导入": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "日程暂不支持在移动设备网页查看": [
+  "128.js"
+ ],
+ "时区": [
+  "128.js",
+  "130.js",
+  "renderer.js"
+ ],
+ "时区优先": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "时间": [
+  "8.js"
+ ],
+ "星期": [
+  "8.js"
+ ],
+ "星期一": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "星期三": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "星期二": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "星期五": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "星期六": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "星期四": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "星期日": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "显示周数": [
+  "renderer.js"
+ ],
+ "显示在：": [
+  "renderer.js"
+ ],
+ "显示天气信息": [
+  "renderer.js"
+ ],
+ "显示已完成待办": [
+  "130.js",
+  "133.js"
+ ],
+ "智能命名正在进行中，是否放弃生成的内容？": [
+  "125.js"
+ ],
+ "智能录音服务": [
+  "renderer.js"
+ ],
+ "智能解析日程": [
+  "renderer.js"
+ ],
+ "暂不支持在移动设备网页查看": [
+  "128.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "更多(+": [
+  "129.js"
+ ],
+ "更多云服务": [
+  "128.js"
+ ],
+ "更改": [
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "更新日历时间": [],
+ "更新时间": [
+  "renderer.js"
+ ],
+ "替换": [
+  "128.js",
+  "137.js"
+ ],
+ "最后一个": [
+  "8.js",
+  "app-modules.js"
+ ],
+ "最多可以添加30个类型": [
+  "renderer.js"
+ ],
+ "最多查看到1901年的日程": [
+  "130.js"
+ ],
+ "最多查看到2099年的日程": [
+  "130.js"
+ ],
+ "最多添加10个类型": [
+  "128.js",
+  "130.js"
+ ],
+ "最近删除": [
+  "125.js",
+  "129.js",
+  "143.js",
+  "app-modules.js"
+ ],
+ "月": [
+  "128.js",
+  "130.js",
+  "142.js",
+  "147.js",
+  "151.js",
+  "158.js",
+  "8.js",
+  "app-components.js",
+  "renderer.js"
+ ],
+ "服务器地址": [
+  "renderer.js"
+ ],
+ "服务器地址格式错误": [
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "服务器异常，同步失败": [
+  "renderer.js"
+ ],
+ "服务说明": [
+  "renderer.js"
+ ],
+ "未完成": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "未开启": [
+  "renderer.js"
+ ],
+ "未开启自动备份": [
+  "app-modules.js"
+ ],
+ "未检测到Office软件": [
+  "131.js"
+ ],
+ "未登录": [
+  "renderer.js"
+ ],
+ "未知异常": [
+  "128.js",
+  "renderer.js"
+ ],
+ "未知错误": [
+  "128.js",
+  "138.js",
+  "7.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "未设置": [
+  "125.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "本地日程类型": [
+  "renderer.js"
+ ],
+ "查找设备": [
+  "128.js"
+ ],
+ "查看": [
+  "128.js",
+  "130.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "查看全部": [
+  "135.js"
+ ],
+ "查看备份文件": [
+  "app-modules.js"
+ ],
+ "查看失败，照片已不存在": [
+  "129.js"
+ ],
+ "查看帮助": [
+  "127.js",
+  "130.js",
+  "157.js",
+  "components-connection.js"
+ ],
+ "查看版本要求": [
+  "renderer.js"
+ ],
+ "标记": [
+  "125.js"
+ ],
+ "标记智能命名": [
+  "renderer.js"
+ ],
+ "标记未完成": [
+  "140.js"
+ ],
+ "标题1": [
+  "app-modules-note.js"
+ ],
+ "标题2": [
+  "app-modules-note.js"
+ ],
+ "标题3": [
+  "app-modules-note.js"
+ ],
+ "标题4": [
+  "app-modules-note.js"
+ ],
+ "根据使用习惯，为您推荐相关服务": [
+  "renderer.js"
+ ],
+ "根据议题得出具体待办任务列表": [
+  "125.js"
+ ],
+ "概要": [
+  "125.js"
+ ],
+ "次": [
+  "8.js"
+ ],
+ "次数": [
+  "8.js"
+ ],
+ "正在保存": [
+  "126.js",
+  "127.js",
+  "app-modules-note.js"
+ ],
+ "正在同步": [
+  "125.js",
+  "126.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "正在导入": [],
+ "正在登录": [
+  "renderer.js"
+ ],
+ "正在还原": [
+  "126.js",
+  "app-modules-note.js"
+ ],
+ "正在进行": [],
+ "正在连接": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "此${this.text}已被加密": [
+  "126.js",
+  "app-modules-note.js"
+ ],
+ "每": [
+  "8.js"
+ ],
+ "每天": [
+  "8.js"
+ ],
+ "每年": [
+  "128.js",
+  "130.js",
+  "8.js"
+ ],
+ "每月": [
+  "8.js"
+ ],
+ "每月底(公历每月最后一日)": [
+  "130.js",
+  "8.js"
+ ],
+ "每隔12小时": [
+  "renderer.js"
+ ],
+ "每隔15分钟": [
+  "renderer.js"
+ ],
+ "每隔1小时": [
+  "renderer.js"
+ ],
+ "每隔4小时": [
+  "renderer.js"
+ ],
+ "永不": [
+  "8.js"
+ ],
+ "注：手机“便签”应用数据不支持同步到办公套件，请前往vivo云服务 (": [
+  "renderer.js"
+ ],
+ "注：若原子笔记应用的“我的”页中，“使用数据网络同步”开关为关，则仅支持WLAN下同步原子笔记数据。": [
+  "renderer.js"
+ ],
+ "洞察": [
+  "125.js"
+ ],
+ "浏览器": [
+  "128.js"
+ ],
+ "浏览器链接接力": [
+  "renderer.js"
+ ],
+ "添加待办类型": [
+  "renderer.js"
+ ],
+ "添加日程类型": [
+  "renderer.js"
+ ],
+ "添加类型": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "清除": [
+  "renderer.js"
+ ],
+ "清除与蓝心小V对话的所有聊天记录，该操作无法撤销。": [
+  "renderer.js"
+ ],
+ "清除所有聊天记录": [
+  "renderer.js"
+ ],
+ "点击关闭按钮弹出退出方式弹窗": [
+  "renderer.js"
+ ],
+ "点击关闭按钮直接退出": [
+  "renderer.js"
+ ],
+ "点击标记后，会智能识别并生产契合时间点的标记名称。": [
+  "renderer.js"
+ ],
+ "点击空白处添加待办": [
+  "133.js"
+ ],
+ "版本信息": [
+  "app-connection.js",
+  "renderer.js"
+ ],
+ "生日": [
+  "128.js",
+  "130.js",
+  "app-modules.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "用户体验改进计划": [
+  "renderer.js"
+ ],
+ "电脑、云端及其他同步设备": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "电脑的原子笔记数据未同步到手机/平板？": [
+  "renderer.js"
+ ],
+ "电话": [
+  "125.js",
+  "app-modules.js",
+  "main.js"
+ ],
+ "登录": [
+  "renderer.js"
+ ],
+ "登录vivo账号，可通过日常交流语言搜索已连接设备的文件，为您匹配相关结果及AI问答。": [
+  "renderer.js"
+ ],
+ "登录失败": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "登录并开启同步，XX云端YY": [
+  "128.js"
+ ],
+ "登录并开启同步，查看、编辑、管理云端待办": [
+  "128.js"
+ ],
+ "登录并开启同步，查看、编辑、管理云端日程": [
+  "128.js"
+ ],
+ "登录成功": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "登录账号": [
+  "renderer.js"
+ ],
+ "的出生日": [
+  "128.js",
+  "130.js",
+  "140.js"
+ ],
+ "目标文件夹": [
+  "126.js"
+ ],
+ "目标日": [
+  "128.js",
+  "130.js"
+ ],
+ "相册": [
+  "126.js",
+  "127.js",
+  "128.js",
+  "129.js",
+  "157.js",
+  "7.js",
+  "app-components.js",
+  "app-modules.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "相同文件只占用一份空间，已使用空间可能会小于各类型数据占用空间大小的总和。": [
+  "renderer.js"
+ ],
+ "知道了": [
+  "1.js",
+  "125.js",
+  "127.js",
+  "128.js",
+  "137.js",
+  "164.js",
+  "4.js",
+  "app-connection.js",
+  "app-modules.js",
+  "child-window.js",
+  "components-connection.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "确定": [
+  "125.js",
+  "128.js",
+  "130.js",
+  "131.js",
+  "137.js",
+  "app-components.js",
+  "app-modules.js",
+  "components-connection.js",
+  "renderer.js"
+ ],
+ "确定关闭": [
+  "renderer.js"
+ ],
+ "确定关闭接收通知提醒吗？": [
+  "renderer.js"
+ ],
+ "确定删除此账号吗？": [
+  "renderer.js"
+ ],
+ "确定删除该待办分类吗？": [
+  "renderer.js"
+ ],
+ "确定要退出账号吗？": [
+  "renderer.js"
+ ],
+ "确定重新生成AI总结吗？": [
+  "125.js"
+ ],
+ "确认不再提示？": [
+  "126.js"
+ ],
+ "移动": [
+  "128.js",
+  "136.js",
+  "137.js",
+  "2.js"
+ ],
+ "移动设备与电脑登录相同的 vivo 账号；": [
+  "128.js"
+ ],
+ "移动设备如何与电脑自动连接？": [
+  "128.js"
+ ],
+ "移除并关闭": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "空间说明": [
+  "renderer.js"
+ ],
+ "立即关闭": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "立即同步": [
+  "renderer.js"
+ ],
+ "立即开启": [
+  "126.js",
+  "128.js",
+  "142.js",
+  "app-components.js"
+ ],
+ "立即登录": [
+  "renderer.js"
+ ],
+ "端“剪贴板”开关。": [
+  "127.js",
+  "components-connection.js"
+ ],
+ "笔记": [
+  "126.js",
+  "128.js",
+  "129.js",
+  "130.js",
+  "28.js",
+  "app-components.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "笔记快捷键": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "笔记默认字号": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "第一个": [
+  "8.js"
+ ],
+ "第三个": [
+  "8.js"
+ ],
+ "第二个": [
+  "8.js"
+ ],
+ "第五个": [
+  "8.js"
+ ],
+ "第四个": [
+  "8.js"
+ ],
+ "管理备份数据": [
+  "app-modules.js"
+ ],
+ "类型": [
+  "128.js",
+  "130.js",
+  "8.js"
+ ],
+ "类型名称": [
+  "renderer.js"
+ ],
+ "粘贴": [
+  "130.js",
+  "135.js"
+ ],
+ "系统偏好设置": [
+  "renderer.js"
+ ],
+ "系统设置": [
+  "renderer.js"
+ ],
+ "纪念内容": [
+  "128.js",
+  "130.js",
+  "app-modules.js"
+ ],
+ "纪念日": [
+  "128.js",
+  "130.js",
+  "app-modules.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "纪念日只能选择今天之前的日期": [
+  "128.js",
+  "130.js"
+ ],
+ "结束": [
+  "128.js",
+  "130.js",
+  "app-modules.js"
+ ],
+ "结束: ": [],
+ "结束时间不能小于开始时间": [
+  "128.js",
+  "130.js"
+ ],
+ "结束重复": [
+  "8.js"
+ ],
+ "结束重复时间必须大于开始时间": [
+  "8.js"
+ ],
+ "继续生成": [
+  "125.js"
+ ],
+ "维沃移动通信有限公司版权所有，保留所有权利。": [
+  "renderer.js"
+ ],
+ "编辑": [
+  "125.js",
+  "128.js",
+  "130.js",
+  "133.js"
+ ],
+ "编辑AI总结": [
+  "125.js"
+ ],
+ "编辑成功": [
+  "128.js",
+  "130.js"
+ ],
+ "编辑类型": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "编辑过程中，若修改总结中的要点，可能会导致要点关联原文失败。": [
+  "125.js"
+ ],
+ "网络异常": [
+  "125.js",
+  "app-components.js",
+  "app-connection.js",
+  "renderer.js"
+ ],
+ "网络未连接": [
+  "125.js",
+  "renderer.js"
+ ],
+ "联系人": [
+  "128.js",
+  "renderer.js"
+ ],
+ "自动备份": [
+  "127.js",
+  "128.js",
+  "app-modules.js"
+ ],
+ "自动将本设备相册内的图片、视频备份至电脑。": [
+  "app-modules.js"
+ ],
+ "自定义": [
+  "133.js",
+  "8.js"
+ ],
+ "自然日": [
+  "app-modules.js"
+ ],
+ "蓝心小V": [
+  "135.js",
+  "app-modules-note.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "要点": [
+  "125.js"
+ ],
+ "要点关联原文中，是否要编辑AI总结？": [
+  "125.js"
+ ],
+ "视频": [
+  "128.js",
+  "129.js",
+  "136.js",
+  "137.js",
+  "138.js",
+  "142.js",
+  "156.js",
+  "2.js",
+  "app-modules.js",
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "议题 1": [
+  "125.js"
+ ],
+ "记录想法": [
+  "125.js"
+ ],
+ "设备互联": [
+  "128.js",
+  "child-window.js",
+  "components-connection.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "设备接入同一 WLAN 网络，并保持网络稳定。": [
+  "128.js"
+ ],
+ "设置": [
+  "135.js",
+  "renderer.js"
+ ],
+ "设置同步频率": [
+  "renderer.js"
+ ],
+ "试着输入“明晚7点聚餐”": [
+  "128.js",
+  "130.js",
+  "app-modules.js"
+ ],
+ "该设置将在投屏重启后生效": [
+  "renderer.js"
+ ],
+ "该账号登录的设备可在手机/平板的“设置”>“vivo账号”>“设备管理”中管理。": [
+  "renderer.js"
+ ],
+ "该路径存储了原子笔记、相册等数据，请勿随意删除，若删除可能会导致应用内容丢失。": [
+  "renderer.js"
+ ],
+ "详情": [
+  "renderer.js"
+ ],
+ "请先使用USB数据线连接该手机和电脑，并保持手机解锁亮屏": [
+  "app-modules.js"
+ ],
+ "请前往电脑网页查看": [
+  "128.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "请输入日程类型": [
+  "renderer.js"
+ ],
+ "课程表": [
+  "renderer.js"
+ ],
+ "课程表 — ": [
+  "128.js",
+  "130.js"
+ ],
+ "账号": [
+  "renderer.js"
+ ],
+ "账号与同步": [
+  "renderer.js"
+ ],
+ "账号信息": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "账号登录失效": [
+  "renderer.js"
+ ],
+ "账号详情": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "超出日历显示范围": [
+  "128.js"
+ ],
+ "转写": [
+  "125.js"
+ ],
+ "辅助功能": [
+  "renderer.js"
+ ],
+ "输入Excel名称": [
+  "129.js",
+  "131.js",
+  "139.js",
+  "app-modules-note.js"
+ ],
+ "输入PPT名称": [
+  "129.js",
+  "131.js",
+  "139.js",
+  "app-modules-note.js"
+ ],
+ "输入Word名称": [
+  "129.js",
+  "131.js",
+  "139.js",
+  "app-modules-note.js"
+ ],
+ "输入地点": [
+  "128.js",
+  "130.js",
+  "8.js"
+ ],
+ "输入备注": [
+  "128.js",
+  "130.js",
+  "8.js"
+ ],
+ "返回": [
+  "app-components.js",
+  "renderer.js"
+ ],
+ "选择合适的 Mac 版本": [
+  "renderer.js"
+ ],
+ "选择提醒时间": [
+  "8.js"
+ ],
+ "选择日期": [
+  "130.js",
+  "8.js",
+  "app-components.js"
+ ],
+ "选择星期": [
+  "8.js"
+ ],
+ "选择项目": [
+  "renderer.js"
+ ],
+ "通用设置": [
+  "renderer.js"
+ ],
+ "通知提醒：": [
+  "128.js",
+  "130.js"
+ ],
+ "邮箱账号导入": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "重命名": [
+  "125.js",
+  "131.js"
+ ],
+ "重命名失败，请稍后再试": [
+  "131.js"
+ ],
+ "重复": [
+  "8.js"
+ ],
+ "重复: ": [
+  "128.js",
+  "130.js"
+ ],
+ "重新生成": [
+  "125.js",
+  "135.js"
+ ],
+ "重新生成的AI总结会替换当前内容。": [
+  "125.js"
+ ],
+ "重新登录": [
+  "renderer.js"
+ ],
+ "重试": [
+  "125.js",
+  "126.js",
+  "128.js",
+  "137.js",
+  "3.js",
+  "app-modules-note.js",
+  "app-modules.js"
+ ],
+ "钉钉": [
+  "renderer.js"
+ ],
+ "钉钉日程": [
+  "renderer.js"
+ ],
+ "钉钉账号导入": [
+  "renderer.js"
+ ],
+ "隐私保护": [
+  "renderer.js"
+ ],
+ "隐藏已完成待办": [
+  "130.js",
+  "133.js"
+ ],
+ "音频": [
+  "125.js",
+  "129.js",
+  "132.js",
+  "138.js",
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "页中查看": [
+  "renderer.js"
+ ],
+ "预览": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "频率": [
+  "8.js"
+ ],
+ "颜色": [
+  "app-modules.js",
+  "renderer.js"
+ ],
+ "飞书": [
+  "renderer.js"
+ ],
+ "飞书日程": [
+  "renderer.js"
+ ],
+ "验证码接力": [
+  "127.js",
+  "renderer.js"
+ ],
+ "骚扰拦截": [
+  "128.js"
+ ],
+ "高": [
+  "8.js"
+ ],
+ "默认待办提醒时间": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "默认提醒时间": [
+  "child-window.js",
+  "module-share-preview.js",
+  "renderer.js"
+ ],
+ "默认日程提醒时间": [
+  "renderer.js"
+ ],
+ "（不可用）": [
+  "127.js"
+ ],
+ "（涂鸦和小V帮记/电话助手原文内容暂不支持记录编辑历史，始终按最新版本显示）": [
+  "126.js",
+  "app-modules-note.js"
+ ],
+ "，确认是“Intel”还是“Apple”": [
+  "renderer.js"
+ ],
+ "，进入日程列表后，再点击": [
+  "renderer.js"
+ ]
+}

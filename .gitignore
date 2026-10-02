@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+patched/
+locales-en_US.js.new
+*.new
+*.bak*
+*.log
