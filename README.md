@@ -12,6 +12,16 @@ Unofficial English translation of the **Chinese-market version** of Vivo PC Suit
 
 Get `app.asar` from the [Releases page](../../releases) (~350 MB).
 
+## Screenshots
+
+| File Manager | Settings — Device connectivity |
+|:---:|:---:|
+| <img src="screenshots/file-manager.png" alt="File Manager" width="450"> | <img src="screenshots/settings-device-connectivity.png" alt="Settings - Device connectivity" width="450"> |
+
+| Screen mirroring menu | To-dos — reminders |
+|:---:|:---:|
+| <img src="screenshots/screen-mirroring.png" alt="Screen mirroring menu" width="240"> | <img src="screenshots/todos-reminders.png" alt="To-dos - reminders" width="450"> |
+
 ## Install (Windows)
 
 1. Quit PC Suite completely (tray icon → quit; make sure no `pcsuite` process is left).
