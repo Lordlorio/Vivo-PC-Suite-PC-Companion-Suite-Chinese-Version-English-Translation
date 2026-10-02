@@ -78,13 +78,6 @@ Then quit PC Suite and replace `app.asar` with `app.asar.new`.
 | `check_newlines.py` | Guards against stray newlines in minified bundles |
 | `patches.json`, `literals.json`, `map_en*.json`, `map_files.json`, `skip.json` | The translations themselves |
 
-## French
-
-Traduction non officielle de la version chinoise de Vivo PC Suite 7.0.5 en
-anglais. Téléchargez `app.asar` dans les [Releases](../../releases), renommez votre
-`app.asar` d'origine en `app.asar.original`, remplacez le fichier, relancez
-l'application. Voir le guide ci-dessus pour les détails.
-
 ## Disclaimer
 
 This project only contains translation data and patching tooling written for it.
