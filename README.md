@@ -1,7 +1,15 @@
 # Vivo PC Suite 7.0.5 — English translation
 
+[![Made 100% with AI](https://img.shields.io/badge/Made%20100%25%20with-AI-blueviolet)](#made-with-100-ai)
+
 Unofficial English translation of the **Chinese-market version** of Vivo PC Suite 7.0.5
 (`vivo办公套件`, the build shipped for phones with a China ROM).
+
+> **🤖 Made with 100% AI.** This entire project — every translated string, the
+> patching/build scripts, the validation tooling, this README, and the selection
+> of screenshots — was produced by AI. No human wrote or edited the content;
+> the AI did all the work, and only the download/install steps and the final
+> screenshots come from a real human run of the app.
 
 > **Not your version?** If your phone is a global/international model, your PC Suite
 > already speaks English — this project targets the CN-ROM desktop app only.
@@ -87,6 +95,22 @@ Then quit PC Suite and replace `app.asar` with `app.asar.new`.
 | `verify_asar.py` | Checks en_US key coverage (2 931 keys, 0 missing) |
 | `check_newlines.py` | Guards against stray newlines in minified bundles |
 | `patches.json`, `literals.json`, `map_en*.json`, `map_files.json`, `skip.json` | The translations themselves |
+
+## Made with 100% AI
+
+This project was created entirely by AI. That includes:
+
+- **Every translated string** (hardcoded literals, `zh_CN` locale files, cloud-config filtering)
+- **All tooling**: `inject_locales.py`, `apply_literals.py`, `mk_css_patch.py`, `build_asar.py`, `verify_asar.py`, `check_newlines.py`
+- **All data files**: `patches.json` (1 135 pairs), `literals.json`, `map_en*.json`, `skip.json`
+- **This README**, the release notes, and the commit history
+
+There was no human-in-the-loop editing pass: the AI did 100% of the work.
+The only human contributions are running the app to capture the screenshots
+above and clicking the download/install buttons described in this guide.
+
+If you spot an error or an untranslated string, please open an issue — the AI
+will fix it.
 
 ## Disclaimer
 
