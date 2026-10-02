@@ -6808,5 +6808,29 @@
   "expect": 1,
   "old": "getCommonConRequest=(l,e)=>p.requestBranch({url:l||\"/config/all\",syncName:\"getCommonConRequest\",sync:!1,method:\"post\",data:e})",
   "new": "getCommonConRequest=(l,e)=>p.requestBranch({url:l||\"/config/all\",syncName:\"getCommonConRequest\",sync:!1,method:\"post\",data:e}).then(r=>Array.isArray(r)?r.filter(x=>!x||!x.value||!/[\\u3000-\\u9fff\\uf900-\\ufaff\\uff00-\\uffef]/.test(x.value)):r)"
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "window.vclawName=v?\"Jovi\":\"小V Claw\"",
+  "new": "window.vclawName=v?\"Jovi\":\"V Claw\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "window.vclawName=n?\"Jovi\":\"小V Claw\"",
+  "new": "window.vclawName=n?\"Jovi\":\"V Claw\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "window.vclawName=n?\"Jovi\":\"小V Claw\"",
+  "new": "window.vclawName=n?\"Jovi\":\"V Claw\""
+ },
+ {
+  "file": "dist/electron/main.js",
+  "expect": 1,
+  "old": "title:\"undefined\"!=typeof __buildConfig__&&__buildConfig__.IS_EXPORT?\"Jovi\":\"小V Claw\"",
+  "new": "title:\"undefined\"!=typeof __buildConfig__&&__buildConfig__.IS_EXPORT?\"Jovi\":\"V Claw\""
  }
 ]
