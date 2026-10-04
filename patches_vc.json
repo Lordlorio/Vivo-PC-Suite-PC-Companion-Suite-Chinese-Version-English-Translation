@@ -76,5 +76,47 @@
   "expect": 1,
   "old": "a({title:\"开机自启动\",cnt:\"设置开机启动，可以保障您在任意时刻都可直接控制此电脑。\",step:5})",
   "new": "a({title:\"Launch at startup\",cnt:\"Enable launch at startup so you can control this PC at any time.\",step:5})"
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "case 1:return\"临时密码\";case 2:return\"安全密码\";case 3:default:return\"临时密码或安全密码\"",
+  "new": "case 1:return\"Temporary password\";case 2:return\"Security password\";case 3:default:return\"Temporary password or security password\""
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "<span class=\"driver-omit\">跳过</span>",
+  "new": "<span class=\"driver-omit\">Skip</span>"
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "driver-prev ${1===e.step?\"hidden\":\"\"}\">上一步</div>",
+  "new": "driver-prev ${1===e.step?\"hidden\":\"\"}\">Previous</div>"
+ },
+ {
+  "file": "dist/3.js",
+  "expect": 1,
+  "old": "${5===e.step?\"确认\":\"下一步\"}",
+  "new": "${5===e.step?\"Confirm\":\"Next\"}"
+ },
+ {
+  "file": "dist/2.js",
+  "expect": 1,
+  "old": "e._v(\"暂无连接记录\")",
+  "new": "e._v(\"No connection history\")"
+ },
+ {
+  "file": "dist/1.js",
+  "expect": 1,
+  "old": "desc:\"仅使用随机产生的临时密码作为安全验证\"",
+  "new": "desc:\"Only use randomly generated temporary passwords for verification\""
+ },
+ {
+  "file": "dist/1.js",
+  "expect": 1,
+  "old": "desc:\"仅使用安全密码作为安全验证\"",
+  "new": "desc:\"Only use the security password for verification\""
  }
 ]

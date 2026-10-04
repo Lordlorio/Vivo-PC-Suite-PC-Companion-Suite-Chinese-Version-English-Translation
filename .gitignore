@@ -1,8 +1,8 @@
 __pycache__/
 *.pyc
 patched/
-locales-en_US.js.new
-*.new
+# NOTE: locales-en_US.js.new and tinymce_langs_en_US_in.js are REQUIRED to
+# rebuild app.asar (build_asar.py reads them), so they must stay tracked.
 *.bak*
 *.log
 report_literals.txt

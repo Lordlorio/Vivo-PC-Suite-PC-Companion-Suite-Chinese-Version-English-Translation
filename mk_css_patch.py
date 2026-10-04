@@ -64,12 +64,24 @@ OVERRIDE_ALBUM = (
     'overflow:hidden;text-overflow:ellipsis;word-break:normal}\n'
 )
 
+OVERRIDE_RECORDER = (
+    '\n'
+    '/* batch42recorder: Sync settings tab strip (Notes/Calendar/Album/Recorder).\n'
+    '   Boxes are fixed-width (80+56+56+68=260px) but the pill is only 251px,\n'
+    '   so "Recorder" hangs outside. Pill widened to fit the boxes. */\n'
+    '[data-v-fc27b3a4] .tab-has-recorder .vivo-tab-nav{width:272px!important}\n'
+    '[data-v-fc27b3a4] .tab-has-recorder .vivo-tab-nav .vivo-tab-nav-item:last-child{'
+    '-webkit-box-flex:78px!important;-webkit-flex:78px 0 0!important;'
+    '-ms-flex:78px 0 0!important;flex:78px 0 0!important;white-space:nowrap}\n'
+)
+
 JOBS = [
     ('dist/electron/130.48bfa161.css', 'batch22c', OVERRIDE_130),
     ('dist/electron/8.1ecea9a4.css', 'batch29reminder', OVERRIDE_REMINDER),
     ('dist/electron/14.82fb7103.css', 'batch29margin', OVERRIDE_MARGIN),
     ('dist/electron/117.364ece2c.css', 'batch29margin', OVERRIDE_MARGIN),
     ('dist/electron/137.1d62d6b9.css', 'batch29album', OVERRIDE_ALBUM),
+    ('dist/electron/118.f0687684.css', 'batch42recorder', OVERRIDE_RECORDER),
 ]
 
 

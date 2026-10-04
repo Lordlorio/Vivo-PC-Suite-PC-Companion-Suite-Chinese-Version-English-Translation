@@ -1,6 +1,34 @@
 # Changelog
 
-## Unreleased
+## v1.1.2 (draft — not released, not uploaded)
+
+- System-tray menu is now always English (`Open main window` / `Exit app`),
+  even on machines whose stored settings still say Chinese.
+- Second drives/partitions whose `config.ini` still says
+  `LanguageID=2052 / LanguageTag=zh_CN` now open a fully English main window.
+- Render, child-window and share-preview windows no longer follow the
+  OS/browser language; they stay on en_US.
+- Tools → Remote PC is English end to end: password-type screens,
+  Skip / Previous / Confirm / Next buttons, `No connection history`, and
+  the control-mode descriptions.
+- Feature settings → Device connectivity → Mirroring shortcuts →
+  `Send messages shortcut` shows
+  `Quickly send messages in mirrored QQ and WeChat chats.`
+- Fixed a bug where the Phone Mirroring window (`vivoScreen.exe`) opened
+  in Chinese instead of English: its embedded default locale is now
+  `en-US` (the English resources already shipped inside the app).
+- Sync settings tab strip (Notes / Calendar / Album / Recorder) no longer
+  overflows its pill: the strip was sized for short Chinese labels and
+  `Recorder` hung outside.
+- New one-click installer for Windows: the release is a `.rar` containing
+  `VivoEnglishPatcher.exe` and the translated `app.asar`. The patcher finds
+  the Vivo installation itself (Windows records, then standard folders),
+  closes Vivo, backs every original up as `.old`, installs the English
+  archive, switches Phone Mirroring to English, sets `config.ini` to
+  `1033 / en_US`, and restarts Vivo. A Restore button rolls everything back.
+  (The two `.py` sources ship in the repository, not in the release.)
+
+## v1.1.0
 
 ### Batch 36 — Broken help images, videos and workers fixed
 - **Cause (pre-existing vivo bug, not caused by the translation):** the webpack
@@ -35,6 +63,19 @@
 - `小V Claw` → `V Claw` (4 patches): `window.vclawName` in `renderer.js`,
   `child-window.js`, `module-share-preview.js`, plus the V Claw window title
   in `main.js`. Database queries left untouched on purpose.
+
+## v1.1.0
+- Released `app.asar` (354 904 405 bytes): everything below, verified by
+  two real-machine installs plus the full static pipeline.
+- Remote PC window (`vivoControl`) translated end to end via the new
+  `patches_vc.json` pipeline (default locale `vzh_rCN` → vivo's own shipped
+  English locale `vus`, `isEx` flag, first-run tour).
+- `小V Claw` → `V Claw` display name (4 patches, queries untouched).
+- Pre-existing vivo asset bug fixed: 458 `X.p` publicPath patches so help
+  images, guide videos, workers and icons actually load (they were broken
+  in the pristine build too — asset modules are byte-identical).
+- AI-assisted translation disclosed in README (standing rules: logs,
+  telemetry, SQL logic and native binaries untouched).
 
 ## v1.0.0
 - Initial release: full English translation of the main `app.asar`

@@ -9580,5 +9580,233 @@
   "expect": 1,
   "old": "a.p+\"media/qrcode-scan-guide-light-ex--mp4.mp4\"",
   "new": "\"media/qrcode-scan-guide-light-ex--mp4.mp4\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "getLanguageCode(){const l=t.default.getItem(\"currentLanguage\")||this.getLocale();",
+  "new": "getLanguageCode(){const l=\"en_US\";"
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "getLanguageCode(){const e=r.default.getItem(\"currentLanguage\")||this.getLocale();",
+  "new": "getLanguageCode(){const e=\"en_US\";"
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "getLanguageCode(){const e=a.default.getItem(\"currentLanguage\")||this.getLocale();",
+  "new": "getLanguageCode(){const e=\"en_US\";"
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "let e=l.LanguageTag;",
+  "new": "let e=\"en_US\";"
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "let t=e.LanguageTag;",
+  "new": "let t=\"en_US\";"
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "let t=e.LanguageTag;",
+  "new": "let t=\"en_US\";"
+ },
+ {
+  "file": "dist/electron/main.js",
+  "expect": 1,
+  "old": "let t=e.LanguageTag;",
+  "new": "let t=\"en_US\";"
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "&&void 0!==b?b:\"zh_CN\",isWindowLoadFinish",
+  "new": "&&void 0!==b?b:\"en_US\",isWindowLoadFinish"
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "&&void 0!==a?a:\"zh_CN\",isWindowLoadFinish",
+  "new": "&&void 0!==a?a:\"en_US\",isWindowLoadFinish"
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "&&void 0!==s?s:\"zh_CN\",isWindowLoadFinish",
+  "new": "&&void 0!==s?s:\"en_US\",isWindowLoadFinish"
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 2,
+  "old": "let l=o.app.getLocale().replace(/-/g,\"_\");",
+  "new": "let l=\"en_US\";"
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 2,
+  "old": "let e=c.app.getLocale().replace(/-/g,\"_\");",
+  "new": "let e=\"en_US\";"
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 2,
+  "old": "let e=c.app.getLocale().replace(/-/g,\"_\");",
+  "new": "let e=\"en_US\";"
+ },
+ {
+  "file": "dist/electron/main.js",
+  "expect": 2,
+  "old": "let e=c.app.getLocale().replace(/-/g,\"_\");",
+  "new": "let e=\"en_US\";"
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "b.default.setItem(\"currentLanguage\",\"zh_CN\"),b.default.setItem(\"vLang\",\"vzh_rCN\")",
+  "new": "b.default.setItem(\"currentLanguage\",\"en_US\"),b.default.setItem(\"vLang\",\"vus\")"
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "a.default.setItem(\"currentLanguage\",\"zh_CN\"),a.default.setItem(\"vLang\",\"vzh_rCN\")",
+  "new": "a.default.setItem(\"currentLanguage\",\"en_US\"),a.default.setItem(\"vLang\",\"vus\")"
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "s.default.setItem(\"currentLanguage\",\"zh_CN\"),s.default.setItem(\"vLang\",\"vzh_rCN\")",
+  "new": "s.default.setItem(\"currentLanguage\",\"en_US\"),s.default.setItem(\"vLang\",\"vus\")"
+ },
+ {
+  "file": "dist/electron/main.js",
+  "expect": 1,
+  "old": "o.default.setItem(\"currentLanguage\",\"zh_CN\"),o.default.setItem(\"vLang\",\"vzh_rCN\")",
+  "new": "o.default.setItem(\"currentLanguage\",\"en_US\"),o.default.setItem(\"vLang\",\"vus\")"
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "const l=t.default.getItem(\"currentLanguage\");return l||s()",
+  "new": "return\"en_US\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "const e=r.default.getItem(\"currentLanguage\");return e||_()",
+  "new": "return\"en_US\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "const e=a.default.getItem(\"currentLanguage\");return e||d()",
+  "new": "return\"en_US\""
+ },
+ {
+  "file": "dist/electron/main.js",
+  "expect": 1,
+  "old": "this._currentLanguage=\"zh_CN\"",
+  "new": "this._currentLanguage=\"en_US\""
+ },
+ {
+  "file": "dist/electron/main.js",
+  "expect": 1,
+  "old": "this._currentLanguage=o.default.getItem(\"currentLanguage\")",
+  "new": "this._currentLanguage=\"en_US\""
+ },
+ {
+  "file": "dist/electron/main.js",
+  "expect": 1,
+  "old": "this._isRtl=o.default.getItem(\"isRtl\")",
+  "new": "this._isRtl=!1"
+ },
+ {
+  "file": "dist/electron/main.js",
+  "expect": 1,
+  "old": "o.default.getItem(\"currentLanguage\")||\"en_US\"",
+  "new": "\"en_US\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "this._currentLanguage=\"zh_CN\"",
+  "new": "this._currentLanguage=\"en_US\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "this._currentLanguage=b.default.getItem(\"currentLanguage\")",
+  "new": "this._currentLanguage=\"en_US\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "this._isRtl=b.default.getItem(\"isRtl\")",
+  "new": "this._isRtl=!1"
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "b.default.getItem(\"currentLanguage\")||\"en_US\"",
+  "new": "\"en_US\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "this._currentLanguage=\"zh_CN\"",
+  "new": "this._currentLanguage=\"en_US\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "this._currentLanguage=a.default.getItem(\"currentLanguage\")",
+  "new": "this._currentLanguage=\"en_US\""
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "this._isRtl=a.default.getItem(\"isRtl\")",
+  "new": "this._isRtl=!1"
+ },
+ {
+  "file": "dist/electron/child-window.js",
+  "expect": 1,
+  "old": "a.default.getItem(\"currentLanguage\")||\"en_US\"",
+  "new": "\"en_US\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "this._currentLanguage=\"zh_CN\"",
+  "new": "this._currentLanguage=\"en_US\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "this._currentLanguage=s.default.getItem(\"currentLanguage\")",
+  "new": "this._currentLanguage=\"en_US\""
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "this._isRtl=s.default.getItem(\"isRtl\")",
+  "new": "this._isRtl=!1"
+ },
+ {
+  "file": "dist/electron/module-share-preview.js",
+  "expect": 1,
+  "old": "s.default.getItem(\"currentLanguage\")||\"en_US\"",
+  "new": "\"en_US\""
+ },
+ {
+  "file": "dist/electron/renderer.js",
+  "expect": 1,
+  "old": "?this.$t(\"framework.send-message-shortcut-desc\"):\"在投屏的QQ、微信的聊天界面中快速发送消息。\"",
+  "new": "?this.$t(\"framework.send-message-shortcut-desc\"):\"Quickly send messages in mirrored QQ and WeChat chats.\""
  }
 ]

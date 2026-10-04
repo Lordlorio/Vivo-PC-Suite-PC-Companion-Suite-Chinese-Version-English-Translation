@@ -18,7 +18,14 @@ Unofficial English translation of the **Chinese-market version** of Vivo PC Suit
 
 ## Download
 
-Get `app.asar` from the [Releases page](../../releases) (~350 MB).
+Get the `.rar` from the [Releases page](../../releases) (~365 MB).
+Extract it anywhere. Inside you will find exactly two files:
+
+- `VivoEnglishPatcher.exe` — the one-click installer/patcher (no Python needed),
+- `app.asar` — the translated English application archive.
+
+(The two `.py` patcher sources live in this repository for review and
+rebuilding — they are intentionally **not** part of the release download.)
 
 ## Screenshots
 
@@ -32,19 +39,31 @@ Get `app.asar` from the [Releases page](../../releases) (~350 MB).
 
 ## Install (Windows)
 
-1. Quit PC Suite completely (tray icon → quit; make sure no `pcsuite` process is left).
-2. Open your install folder, by default:
-   `C:\Program Files\vivo\pcsuite\resources\`
-3. Rename the existing `app.asar` → `app.asar.original` (this is your backup).
-4. Copy the downloaded `app.asar` into the same `resources\` folder.
-5. Start PC Suite.
+No manual file copying needed — the patcher does everything:
 
-**Restore:** quit the app, rename `app.asar.original` back to `app.asar`.
+1. Right-click `VivoEnglishPatcher.exe` → **Run as administrator**.
+2. Check the **installation folder** (it is auto-detected from Windows'
+   own records; use `Browse...` only if it points somewhere wrong).
+3. The translated `app.asar` sitting next to the patcher is picked up
+   automatically.
+4. Click **Apply English Patch** and confirm.
+
+What the patcher does, in order: closes Vivo PC Suite (politely, and it
+stops if something refuses to close) → backs every original up next to
+itself with a `.old` extension → installs the English `app.asar` →
+switches Phone Mirroring (`vivoScreen.exe`) to English → sets
+`config.ini` to `1033 / en_US` → restarts Vivo PC Suite. The window theme
+follows your Windows light/dark setting, with a manual toggle.
+
+**Restore:** click **Restore Backups** (Vivo is closed and restarted the
+same way) — everything goes back to the pre-patch state.
 
 **Notes**
 - Applies to **version 7.0.5 (CN installer)** only.
 - An official app update will overwrite the translation — just re-apply after updating.
-- Run the installer / replace files as administrator if Windows denies access.
+- If Windows SmartScreen warns about the patcher (it is unsigned, as with
+  most community tools), that is expected; the `.py` sources are in this
+  repo so anyone can read and rebuild it.
 
 ## How it works
 
