@@ -112,7 +112,7 @@ Then quit PC Suite and replace `app.asar` with `app.asar.new`.
 | `check_newlines.py` | Guards against stray newlines in minified bundles |
 | `patches.json`, `literals.json`, `map_en*.json`, `map_files.json`, `skip.json` | The translations themselves |
 
-## Made with 100% AI
+## Made with 95% AI
 
 This project was created entirely by AI. That includes:
 
@@ -121,7 +121,7 @@ This project was created entirely by AI. That includes:
 - **All data files**: `patches.json` (1 135 pairs), `literals.json`, `map_en*.json`, `skip.json`
 - **This README**, the release notes, and the commit history
 
-There was no human-in-the-loop editing pass: the AI did 100% of the work.
+There was no human-in-the-loop editing pass: the AI did 95% of the work.
 The only human contributions are running the app to capture the screenshots
 above and clicking the download/install buttons described in this guide.
 
