@@ -5,9 +5,8 @@
 Unofficial English translation of the **Chinese-market version** of Vivo PC Suite 7.0.5
 (`vivo办公套件`, the build shipped for phones with a China ROM).
 
-> **🤖 Made with 100% AI.** This entire project — every translated string, the
-> patching/build scripts, the validation tooling, this README, and the selection
-> of screenshots — was produced by AI. No human wrote or edited the content;
+> **🤖 Made with 95% AI.** This entire project — every translated string, the
+> patching/build scripts, the validation tooling and this README — was produced by AI. ;
 > the AI did all the work, and only the download/install steps and the final
 > screenshots come from a real human run of the app.
 
