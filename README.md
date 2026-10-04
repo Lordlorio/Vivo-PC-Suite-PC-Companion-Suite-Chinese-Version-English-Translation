@@ -1,6 +1,6 @@
 # Vivo PC Suite 7.0.5 — English translation
 
-[![Made 100% with AI](https://img.shields.io/badge/Made%20100%25%20with-AI-blueviolet)](#made-with-95-ai)
+[![Made 95% with AI](https://img.shields.io/badge/Made%20100%25%20with-AI-blueviolet)](#made-with-95-ai)
 
 Unofficial English translation of the **Chinese-market version** of Vivo PC Suite 7.0.5
 (`vivo办公套件`, the build shipped for phones with a China ROM).
