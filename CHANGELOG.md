@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.1.2 (draft — not released, not uploaded)
+## v1.1.2
 
 - System-tray menu is now always English (`Open main window` / `Exit app`),
   even on machines whose stored settings still say Chinese.
