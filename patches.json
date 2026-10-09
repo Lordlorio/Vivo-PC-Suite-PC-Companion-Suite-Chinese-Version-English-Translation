@@ -9808,5 +9808,11 @@
   "expect": 1,
   "old": "?this.$t(\"framework.send-message-shortcut-desc\"):\"在投屏的QQ、微信的聊天界面中快速发送消息。\"",
   "new": "?this.$t(\"framework.send-message-shortcut-desc\"):\"Quickly send messages in mirrored QQ and WeChat chats.\""
+ },
+ {
+  "file": "dist/electron/main.js",
+  "expect": 1,
+  "old": "_.winRightMenuTitle1:\"打开主窗口\"",
+  "new": "_.winRightMenuTitle1:\"Open main window\""
  }
 ]
