@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1.3
+
+- System-tray menu fully English (`Open main window` / `Exit app`) — the
+  first line was hardcoded Chinese in the code and ignored every language
+  setting until now.
+- Sync-settings tab strip (Notes / Calendar / Album / Recorder) no longer
+  overflows its pill.
+
 ## v1.1.2
 
 - System-tray menu is now always English (`Open main window` / `Exit app`),
