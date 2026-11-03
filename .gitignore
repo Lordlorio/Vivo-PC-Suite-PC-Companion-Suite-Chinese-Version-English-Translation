@@ -6,3 +6,5 @@ patched/
 *.bak*
 *.log
 report_literals.txt
+dist/
+.DS_Store

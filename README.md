@@ -24,6 +24,9 @@ Extract it anywhere. Inside you will find exactly two files:
 (The two `.py` patcher sources live in this repository for review and
 rebuilding — they are intentionally **not** part of the release download.)
 
+**On a Mac?** You don't need the `.rar`: download this repository
+(**Code → Download ZIP**) and follow [Install (macOS)](#install-macos).
+
 ## Screenshots
 
 | File Manager | Settings — Device connectivity |
@@ -61,6 +64,46 @@ same way) — everything goes back to the pre-patch state.
 - If Windows SmartScreen warns about the patcher (it is unsigned, as with
   most community tools), that is expected; the `.py` sources are in this
   repo so anyone can read and rebuild it.
+
+## Install (macOS)
+
+The Mac build of PC Suite (`pcsuite.app`, tested with **7.0.6**, Apple
+silicon) differs from the Windows 7.0.5 build, so the Windows `app.asar`
+cannot be copied over. Instead, `mac/patch_vivo_mac.py` applies this
+repository's translation data to **your own installed copy**. It needs only
+the Python 3 that ships with Xcode's command line tools (`xcode-select --install`).
+
+**Installer (easiest):** download `Vivo-English-Patcher-<version>-mac.dmg`
+from the [Releases page](../../releases), open it and run **Vivo English
+Patcher**, then click **Apply English Patch**. The app is not notarized, so
+the first time macOS asks you to allow it under **System Settings →
+Privacy & Security → Open Anyway**; if macOS then blocks the change, turn on
+**Vivo English Patcher** under **App Management** in the same place and run it
+again. Run it again and pick **Restore Original** to undo.
+
+**From the repository:**
+
+1. Download this repository (**Code → Download ZIP**) and unzip it.
+2. Allow Terminal to modify apps: **System Settings → Privacy & Security →
+   App Management → Terminal** on (macOS blocks writes into
+   `pcsuite.app` otherwise).
+3. In the `mac` folder, double-click **Apply English Patch.command**, or in
+   Terminal:
+
+   ```bash
+   python3 mac/patch_vivo_mac.py
+   ```
+
+Either way it backs up the originals to `~/Library/Application Support/pcsuite-english-patch`,
+closes PC Suite, installs the English main window and Remote PC window, sets
+`config.ini` to `en_US` and reopens the app (about a minute).
+
+**Restore:** double-click **Restore Original.command** (or
+`python3 mac/patch_vivo_mac.py --restore`); the originals come back byte for byte.
+
+See [mac/README.md](mac/README.md) for what it changes, options
+(`--dry-run`, `--mirror` for Phone Mirroring) and how it adapts the
+Windows data to the Mac build.
 
 ## How it works
 
@@ -110,6 +153,7 @@ Then quit PC Suite and replace `app.asar` with `app.asar.new`.
 | `build_asar.py` | Rebuilds the archive → `<PC_ASAR_DST>.new`, self-verifies |
 | `verify_asar.py` | Checks en_US key coverage (2 931 keys, 0 missing) |
 | `check_newlines.py` | Guards against stray newlines in minified bundles |
+| `mac/patch_vivo_mac.py` | macOS patcher: applies the data below to the installed Mac app (see [mac/README.md](mac/README.md)) |
 | `patches.json`, `literals.json`, `map_en*.json`, `map_files.json`, `skip.json` | The translations themselves |
 
 ## Made with 95% AI

@@ -1,5 +1,18 @@
 # Changelog
 
+## Unreleased
+
+- **macOS support** (`mac/`): `patch_vivo_mac.py` plus double-click
+  `Apply English Patch.command` / `Restore Original.command`. Builds the
+  English `app.asar` and Remote PC (`vcontrol.app`) archive from the user's
+  installed Mac app using this repository's data, backs up the originals and
+  restores them byte for byte. Tested on pcsuite 7.0.6 (Apple silicon): all
+  1 636 `patches.json` and 20 `patches_vc.json` patches apply, 132/134
+  `skip.json` positions are re-located, 213 en_US keys merged.
+- **macOS installer DMG** (`mac/build_dmg.sh`): *Vivo English Patcher.app*,
+  a native Apply / Restore front end for the same script, with a progress
+  window and App Management guidance.
+
 ## v1.1.3
 
 - System-tray menu fully English (`Open main window` / `Exit app`) — the
