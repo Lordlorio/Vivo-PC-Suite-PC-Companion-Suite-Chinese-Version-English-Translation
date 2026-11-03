@@ -69,9 +69,9 @@ STATE = os.path.join(BACKUP, 'state.json')
 
 APP_MANAGEMENT_HELP = """macOS blocked writing into pcsuite.app.
 
-Give the app you run this script from (usually Terminal) permission:
-  System Settings > Privacy & Security > App Management > turn on Terminal
-then quit and reopen Terminal and run the patcher again."""
+Give the app you run this from (Terminal, or Vivo English Patcher) permission:
+  System Settings > Privacy & Security > App Management > turn it on
+then quit and reopen that app and run the patcher again."""
 
 
 class Fail(Exception):

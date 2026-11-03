@@ -26,6 +26,22 @@ stops one app from modifying another. Turn on Terminal (or whichever app runs
 the script) under **System Settings → Privacy & Security → App Management**,
 reopen it, and run again.
 
+## Installer DMG
+
+```bash
+mac/build_dmg.sh 1.0.0    # -> dist/Vivo-English-Patcher-1.0.0-mac.dmg
+```
+
+builds the release download: **Vivo English Patcher.app** (compiled from
+`installer/Vivo English Patcher.applescript`, universal, ad hoc signed) plus
+`Read Me.txt`. The app carries `patch_vivo_mac.py` and the translation data in
+`Contents/Resources/patcher` and gives it a native front end: Apply / Restore
+dialog, a progress window showing the script's steps, and a pointer to
+**App Management** when macOS blocks the write. It runs the script with the
+first Python 3.8+ it finds (Homebrew, python.org, or Apple's Command Line Tools,
+which it offers to install). It is not notarized, so users allow it once under
+**Privacy & Security → Open Anyway**.
+
 ## What it changes
 
 | Part | How |

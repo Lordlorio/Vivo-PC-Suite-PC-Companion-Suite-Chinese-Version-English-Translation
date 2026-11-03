@@ -73,6 +73,16 @@ cannot be copied over. Instead, `mac/patch_vivo_mac.py` applies this
 repository's translation data to **your own installed copy**. It needs only
 the Python 3 that ships with Xcode's command line tools (`xcode-select --install`).
 
+**Installer (easiest):** download `Vivo-English-Patcher-<version>-mac.dmg`
+from the [Releases page](../../releases), open it and run **Vivo English
+Patcher**, then click **Apply English Patch**. The app is not notarized, so
+the first time macOS asks you to allow it under **System Settings →
+Privacy & Security → Open Anyway**; if macOS then blocks the change, turn on
+**Vivo English Patcher** under **App Management** in the same place and run it
+again. Run it again and pick **Restore Original** to undo.
+
+**From the repository:**
+
 1. Download this repository (**Code → Download ZIP**) and unzip it.
 2. Allow Terminal to modify apps: **System Settings → Privacy & Security →
    App Management → Terminal** on (macOS blocks writes into
@@ -84,7 +94,7 @@ the Python 3 that ships with Xcode's command line tools (`xcode-select --install
    python3 mac/patch_vivo_mac.py
    ```
 
-It backs up the originals to `~/Library/Application Support/pcsuite-english-patch`,
+Either way it backs up the originals to `~/Library/Application Support/pcsuite-english-patch`,
 closes PC Suite, installs the English main window and Remote PC window, sets
 `config.ini` to `en_US` and reopens the app (about a minute).
 

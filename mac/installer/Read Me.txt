@@ -1,0 +1,25 @@
+Vivo English Patcher for macOS
+==============================
+
+Translates the China version of vivo PC Suite (pcsuite.app) to English.
+Tested with pcsuite 7.0.6. Unofficial, not affiliated with vivo.
+
+1. Open "Vivo English Patcher".
+   If macOS says it cannot verify the app: open System Settings >
+   Privacy & Security, scroll down and click "Open Anyway". The app is not
+   notarized by Apple; its source is in the GitHub project below.
+
+2. Click "Apply English Patch". vivo PC Suite closes and reopens in English
+   (about a minute).
+   If macOS blocks the change: System Settings > Privacy & Security >
+   App Management, turn on Vivo English Patcher, and open it again.
+
+3. To undo, open the installer again and click "Restore Original".
+
+Needs Python 3; the installer offers to install Apple's Command Line Tools
+if it is missing. Your original files are backed up to
+~/Library/Application Support/pcsuite-english-patch.
+After a vivo update, run the patch again.
+
+Source and details (mac/ folder):
+https://github.com/Lordlorio/Vivo-PC-Suite-PC-Companion-Suite-Chinese-Version-English-Translation

@@ -9,6 +9,9 @@
   restores them byte for byte. Tested on pcsuite 7.0.6 (Apple silicon): all
   1 636 `patches.json` and 20 `patches_vc.json` patches apply, 132/134
   `skip.json` positions are re-located, 213 en_US keys merged.
+- **macOS installer DMG** (`mac/build_dmg.sh`): *Vivo English Patcher.app*,
+  a native Apply / Restore front end for the same script, with a progress
+  window and App Management guidance.
 
 ## v1.1.3
 
